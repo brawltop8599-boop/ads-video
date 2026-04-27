@@ -1,0 +1,25 @@
+name: Super_Waker
+
+on:
+  schedule:
+    - cron: '0 */4 * * *' # Каждые 4 часа
+  workflow_dispatch:      # Кнопка для ручного запуска
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      - run: pip install requests
+      - run: python main.py
+      - run: |
+          git config --global user.name "Bot"
+          git config --global user.email "bot@github.com"
+          git add my_list.m3u
+          git commit -m "Update" || exit 0
+          git push
