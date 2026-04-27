@@ -21,7 +21,7 @@ jobs:
           python -c "
           import requests
           from huggingface_hub import HfApi
-          url = 'http://kb-team.club/?do=/plugin&bid=iptvk&box_client=ottplay-foss&m3u&box_mac=3c2ca6f4437e'
+          url = 'https://raw.githubusercontent.com/brawltop8599-boop/ads-video/refs/heads/main/my_list.m3u'
           headers = {'User-Agent': 'Mozilla/5.0'}
           res = requests.get(url, headers=headers, timeout=30)
           if res.status_code == 200:
