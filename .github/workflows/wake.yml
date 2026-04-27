@@ -1,30 +1,41 @@
-name: Super_Waker_Sync
-on:
-  schedule:
-    - cron: '0 */4 * * *'
-  workflow_dispatch:
-jobs:
-  sync:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Install dependencies
-        run: pip install huggingface_hub requests
+
       - name: Run sync
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: |
           python -c "
-          import requests, datetime, re
+          import requests
+          import datetime
           from huggingface_hub import HfApi
+
+          # 1. Ссылка на твой рабочий файл на GitHub
           url = 'https://raw.githubusercontent.com/brawltop8599-boop/ads-video/refs/heads/main/my_list.m3u'
-          res = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'}, timeout=30)
+          headers = {'User-Agent': 'Mozilla/5.0'}
+          res = requests.get(url, headers=headers, timeout=30)
+
           if res.status_code == 200:
+              # Высчитываем время обновления (UTC+3)
               now = (datetime.datetime.utcnow() + datetime.timedelta(hours=3)).strftime('%d.%m %H:%M')
+              
               content = res.text
-              info = f'#EXTINF:-1 group-title=\"ИНФО\",--- ОБНОВЛЕНО: {now} ---\nhttp://localhost\n'
-              content = content.replace('#EXTM3U', f'#EXTM3U\n{info}')
-              with open('local_channels.txt', 'w', encoding='utf-8') as f: f.write(content)
+              # Добавляем инфо-строку в начало плейлиста после заголовка #EXTM3U
+              info_line = f'#EXTINF:-1 group-title=\"ИНФО\",--- ОБНОВЛЕНО: {now} ---\nhttp://localhost\n'
+              if '#EXTM3U' in content:
+                  content = content.replace('#EXTM3U', f'#EXTM3U\n{info_line}')
+              
+              # Сохраняем и отправляем в Space
+              with open('local_channels.txt', 'w', encoding='utf-8') as f:
+                  f.write(content)
+              
               api = HfApi()
-              api.upload_file(path_or_fileobj='local_channels.txt', path_in_repo='local_channels.txt', repo_id='videoz/arxiv', repo_type='space', token='${{ secrets.HF_TOKEN }}')
-              print(f'Done! {now}')
+              api.upload_file(
+                  path_or_fileobj='local_channels.txt',
+                  path_in_repo='local_channels.txt',
+                  repo_id='videoz/arxiv',
+                  repo_type='space',
+                  token='${{ secrets.HF_TOKEN }}'
+              )
+              print(f'Done! Playlist updated at {now}')
+          else:
+              print(f'Error: {res.status_code}')
           "
