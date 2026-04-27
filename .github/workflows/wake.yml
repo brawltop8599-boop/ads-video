@@ -8,25 +8,36 @@ jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
-      - name: Setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.9'
-      - name: Install dependencies
+      - name: Install deps
         run: pip install huggingface_hub requests
-      - name: Run sync
+      - name: Run Everything
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: |
           python -c "
-          import requests
+          import requests, datetime, re
           from huggingface_hub import HfApi
-          url = 'https://raw.githubusercontent.com/brawltop8599-boop/ads-video/refs/heads/main/my_list.m3u'
-          headers = {'User-Agent': 'Mozilla/5.0'}
-          res = requests.get(url, headers=headers, timeout=30)
+
+          # 1. Скачиваем оригинал у провайдера (самая свежая версия)
+          source_url = 'http://kb-team.club/?do=/plugin&bid=iptvk&box_client=ottplay-foss&m3u&box_mac=3c2ca6f4437e'
+          res = requests.get(source_url, headers={'User-Agent': 'Mozilla/5.0'}, timeout=30)
+          
           if res.status_code == 200:
-              with open('local_channels.txt', 'wb') as f:
-                  f.write(res.content)
+              content = res.text
+              # 2. Переделываем ссылки под твой Space
+              def repl(m):
+                  return f'https://hf.space{m.group(0).encode().hex()}'
+              content = re.sub(r'https?://[^\s\"<>]+', repl, content)
+              
+              # 3. Добавляем время обновления
+              now = (datetime.datetime.utcnow() + datetime.timedelta(hours=3)).strftime('%d.%m %H:%M')
+              info = f'#EXTINF:-1 group-title=\"ИНФО\",--- ОБНОВЛЕНО: {now} ---\nhttp://localhost\n'
+              content = content.replace('#EXTM3U', f'#EXTM3U\n{info}')
+              
+              # 4. Сохраняем локально и закидываем в Space
+              with open('local_channels.txt', 'w', encoding='utf-8') as f:
+                  f.write(content)
+              
               api = HfApi()
               api.upload_file(
                   path_or_fileobj='local_channels.txt',
@@ -35,7 +46,9 @@ jobs:
                   repo_type='space',
                   token='${{ secrets.HF_TOKEN }}'
               )
-              print('Done!')
-          else:
-              print(f'Error: {res.status_code}')
+              print(f'Done! Everything updated at {now}')
           "
+
+
+
+
