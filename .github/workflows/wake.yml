@@ -1,34 +1,42 @@
-      - name: Download and Push to Space
+
+name: Super_Waker_Sync
+on:
+  schedule:
+    - cron: '0 */4 * * *'
+  workflow_dispatch:
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      - name: Install dependencies
+        run: pip install huggingface_hub requests
+      - name: Run sync
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: |
           python -c "
           import requests
           from huggingface_hub import HfApi
-          
-          # 1. Скачуємо плейлист із заголовками плеєра
           url = 'http://kb-team.club/?do=/plugin&bid=iptvk&box_client=ottplay-foss&m3u&box_mac=3c2ca6f4437e'
-          headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
-          
+          headers = {'User-Agent': 'Mozilla/5.0'}
           res = requests.get(url, headers=headers, timeout=30)
-          
           if res.status_code == 200:
               with open('local_channels.txt', 'wb') as f:
                   f.write(res.content)
-              
-              # 2. Відправляємо у Space
               api = HfApi()
-              try:
-                  api.upload_file(
-                      path_or_fileobj='local_channels.txt',
-                      path_in_repo='local_channels.txt',
-                      repo_id='videoz/arxiv',
-                      repo_type='space',
-                      token='${{ secrets.HF_TOKEN }}'
-                  )
-                  print('Файл успішно відправлений у Space!')
-              except Exception as e:
-                  print(f'Помилка завантаження у Space: {e}')
+              api.upload_file(
+                  path_or_fileobj='local_channels.txt',
+                  path_in_repo='local_channels.txt',
+                  repo_id='videoz/arxiv',
+                  repo_type='space',
+                  token='${{ secrets.HF_TOKEN }}'
+              )
+              print('Done!')
           else:
-              print(f'Помилка скачування плейлиста: {res.status_code}')
+              print(f'Error: {res.status_code}')
           "
+
