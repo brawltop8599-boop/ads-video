@@ -1,25 +1,41 @@
-name: Super_Waker
-
+name: Super_Waker_Sync
 on:
   schedule:
-    - cron: '0 */4 * * *' # Каждые 4 часа
-  workflow_dispatch:      # Кнопка для ручного запуска
-
+    - cron: '0 */4 * * *' # Оновлення кожні 4 години
+  workflow_dispatch:      # Кнопка для ручного запуску
 jobs:
-  update:
+  sync_to_space:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-python@v4
-        with:
-          python-version: '3.9'
-      - run: pip install requests
-      - run: python main.py
-      - run: |
-          git config --global user.name "Bot"
-          git config --global user.email "bot@github.com"
-          git add my_list.m3u
-          git commit -m "Update" || exit 0
-          git push
+      - name: Install HF Hub & Requests
+        run: pip install huggingface_hub requests
+      - name: Download and Push to Space
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: |
+          python -c "
+          import requests
+          from huggingface_hub import HfApi
+          
+          # 1. Скачуємо свіжий плейлист
+          url = 'http://kb-team.club/?do=/plugin&bid=iptvk&box_client=ottplay-foss&m3u&box_mac=3c2ca6f4437e'
+          res = requests.get(url, timeout=30)
+          
+          if res.status_code == 200:
+              # Зберігаємо тимчасово
+              with open('local_channels.txt', 'w', encoding='utf-8') as f:
+                  f.write(res.text)
+              
+              # 2. Відправляємо файл прямо у ваш Space
+              api = HfApi()
+              api.upload_file(
+                  path_or_fileobj='local_channels.txt',
+                  path_in_repo='local_channels.txt',
+                  repo_id='videoz/arxiv',  # ВАШ ID Space (перевірте, щоб було саме так)
+                  repo_type='space',
+                  token='${{ secrets.HF_TOKEN }}'
+              )
+              print('Файл успішно відправлений у Space!')
+          else:
+              print(f'Помилка скачування: {res.status_code}')
+          "
