@@ -26,24 +26,38 @@ def decode_url(hex_str):
         return None
 
 def fix_content(text, base_url=None):
+    # 1. Если пришел XML/FXML, принудительно делаем из него M3U
+    if "<channels>" in text or "<items>" in text or "<playlist_url>" in text:
+        m3u = "#EXTM3U\n"
+        # Ищем все блоки, которые могут содержать ссылки (channel, menu, item)
+        items = re.findall(r'<(?:channel|menu|submenu|item)>(.*?)</(?:channel|menu|submenu|item)>', text, re.DOTALL)
+        
+        for item in items:
+            # Ищем название
+            title_match = re.search(r'<title><!\[CDATA\[(.*?)]]></title>', item)
+            if not title_match: title_match = re.search(r'<title>(.*?)</title>', item)
+            
+            # Ищем ссылку (стрим или подраздел)
+            url_match = re.search(r'<(?:playlist_url|stream_url)><!\[CDATA\[(.*?)]]></(?:playlist_url|stream_url)>', item)
+            if not url_match: url_match = re.search(r'<(?:playlist_url|stream_url)>(.*?)</(?:playlist_url|stream_url)>', item)
+            
+            if title_match and url_match:
+                title = title_match.group(1).replace("#", "") # Убираем лишние решетки
+                url = url_match.group(1).strip()
+                m3u += f'#EXTINF:-1,{title}\n{url}\n'
+        
+        if "#EXTINF" in m3u:
+            text = m3u
+
+    # 2. Проксируем все ссылки через твой домен
     def replace_full_url(match):
         url = match.group(0)
-        if PROXY_DOMAIN in url or any(ext in url.lower() for ext in [".png", ".jpg", ".jpeg"]): return url
+        # Не трогаем картинки и уже проксированные ссылки
+        if PROXY_DOMAIN in url or any(ext in url.lower() for ext in [".png", ".jpg", ".jpeg"]): 
+            return url
         return f"https://{PROXY_DOMAIN}/ts/{encode_url(url)}"
 
     text = re.sub(r'https?://[^\s"<>]+', replace_full_url, text)
-
-    if base_url:
-        lines = []
-        base_folder = base_url.rsplit('/', 1)[0] if '/' in base_url else base_url
-        for line in text.splitlines():
-            line = line.strip()
-            if line and not line.startswith('#') and not line.startswith('http') and PROXY_DOMAIN not in line:
-                full_url = f"{base_folder}/{line}"
-                lines.append(f"https://{PROXY_DOMAIN}/ts/{encode_url(full_url)}")
-            else:
-                lines.append(line)
-        text = "\n".join(lines)
     return text
 
 @app.route('/')
