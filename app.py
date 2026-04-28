@@ -26,29 +26,26 @@ def decode_url(hex_str):
         return None
 
 def fix_content(text, base_url=None):
-    # 1. КОНВЕРТАЦИЯ XML В M3U (Добавлена поддержка <menu> и <playlist_url>)
-    if "<menu>" in text or "<channel>" in text:
+    # Если провайдер всё равно прислал XML (с тегами playlist_url или stream_url)
+    if "<playlist_url>" in text or "<stream_url>" in text:
         m3u = "#EXTM3U\n"
-        # Ищем все блоки меню и каналов
-        items = re.findall(r'<(?:menu|channel)>(.*?)</(?:menu|channel)>', text, re.DOTALL)
-        for item in items:
-            title_match = re.search(r'<title><!\[CDATA\[(.*?)]]></title>', item)
-            url_match = re.search(r'<(?:playlist_url|stream_url)><!\[CDATA\[(.*?)]]></(?:playlist_url|stream_url)>', item)
-            if title_match and url_match:
-                title = title_match.group(1)
-                url = url_match.group(1)
-                if url and url != "none":
-                    m3u += f'#EXTINF:-1,{title}\n{url}\n'
-        if "#EXTINF" in m3u:
-            text = m3u
+        # Вытаскиваем все ссылки и названия
+        urls = re.findall(r'<(?:playlist_url|stream_url)><!\[CDATA\[(.*?)]]></(?:playlist_url|stream_url)>', text)
+        titles = re.findall(r'<title><!\[CDATA\[(.*?)]]></title>', text)
+        for i in range(len(urls)):
+            title = titles[i] if i < len(titles) else f"Channel {i+1}"
+            if urls[i] and urls[i] != "none":
+                m3u += f'#EXTINF:-1,{title}\n{urls[i]}\n'
+        text = m3u
 
-    # 2. ПРОКСИРОВАНИЕ ССЫЛОК
+    # Превращаем прямые ссылки в HEX (прокси)
     def replace_url(match):
         u = match.group(0)
         if PROXY_DOMAIN in u or any(ext in u.lower() for ext in [".png", ".jpg", ".jpeg"]):
             return u
         return f"https://{PROXY_DOMAIN}/ts/{encode_url(u)}"
 
+    # Ищем все http/https ссылки и заменяем их
     text = re.sub(r'https?://[^\s"<>#\n]+', replace_url, text)
     return text
 
