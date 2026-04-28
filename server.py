@@ -26,29 +26,31 @@ def decode_url(hex_str):
         return None
 
 def fix_content(text, base_url=None):
-    # Конвертация XML/FXML в M3U (на всякий случай)
-    if "<fxml" in text or "<items>" in text:
-        m3u = "#EXTM3U\n"
-        items = re.findall(r'<channel>(.*?)</channel>', text, re.DOTALL)
-        for item in items:
-            title = re.search(r'<title><!\[CDATA\[(.*?)]]></title>', item)
-            url = re.search(r'<(?:playlist_url|stream_url)><!\[CDATA\[(.*?)]]></(?:playlist_url|stream_url)>', item)
-            if title and url:
-                m3u += f'#EXTINF:-1,{title.group(1)}\n{url.group(1)}\n'
-        text = m3u if "#EXTINF" in m3u else text
-
-    # Замена всех ссылок на прокси-ссылки через /ts/
+    # Проксируем все полные ссылки (http...)
     def replace_full_url(match):
         url = match.group(0)
         if PROXY_DOMAIN in url or any(ext in url.lower() for ext in [".png", ".jpg", ".jpeg"]): return url
         return f"https://{PROXY_DOMAIN}/ts/{encode_url(url)}"
 
     text = re.sub(r'https?://[^\s"<>]+', replace_full_url, text)
+
+    # Если это вложенный m3u8, исправляем относительные ссылки внутри него
+    if base_url:
+        lines = []
+        base_folder = base_url.rsplit('/', 1)[0] if '/' in base_url else base_url
+        for line in text.splitlines():
+            line = line.strip()
+            if line and not line.startswith('#') and not line.startswith('http') and PROXY_DOMAIN not in line:
+                full_url = f"{base_folder}/{line}"
+                lines.append(f"https://{PROXY_DOMAIN}/ts/{encode_url(full_url)}")
+            else:
+                lines.append(line)
+        text = "\n".join(lines)
     return text
 
 @app.route('/')
 def health():
-    return "Proxy Server is Running! Use /local.m3u or /playlist.m3u8"
+    return "Proxy Server is Running!"
 
 @app.route('/playlist.m3u')
 @app.route('/playlist.m3u8')
@@ -63,20 +65,30 @@ def proxy_playlist():
 def local_playlist():
     if os.path.exists(LOCAL_FILE):
         with open(LOCAL_FILE, 'r', encoding='utf-8') as f:
-            # Пропускаем локальный файл через фикс ссылок
             return Response(fix_content(f.read()), mimetype='application/vnd.apple.mpegurl')
-    return "Local file not found. Wait for GitHub Action to run.", 404
+    return "Local file not found. Run GitHub Action.", 404
 
 @app.route('/ts/<path:full_path>')
 def proxy_stream(full_path):
-    hex_match = re.match(r'^([^/]+)', full_path)
+    hex_match = re.search(r'([0-9a-fA-F]{10,})', full_path)
     hex_part = hex_match.group(1) if hex_match else full_path
     
     target_url = decode_url(hex_part)
     if not target_url:
         return "Invalid HEX", 400
 
+    # Если в URL есть доп. параметры после HEX (от плеера)
+    if request.query_string:
+        sep = "&" if "?" in target_url else "?"
+        target_url += f"{sep}{request.query_string.decode('utf-8')}"
+
     try:
+        # Если это вложенный плейлист (.m3u8), а не само видео
+        if ".m3u" in target_url.lower():
+            r = session.get(target_url, headers=HEADERS, timeout=20)
+            return Response(fix_content(r.text, base_url=target_url), mimetype='application/vnd.apple.mpegurl')
+        
+        # Если это видео-поток (.ts)
         def generate():
             with session.get(target_url, headers=HEADERS, stream=True, timeout=45) as r:
                 r.raise_for_status()
@@ -84,7 +96,8 @@ def proxy_stream(full_path):
                     yield chunk
         return Response(stream_with_context(generate()), content_type='video/mp2t')
     except Exception as e:
-        return f"Stream Error", 404
+        print(f"PROXY ERROR: {e} | URL: {target_url}")
+        return "Stream Error", 404
 
 if __name__ == "__main__":
     app.run(host='0.0.0.0', port=7860)
