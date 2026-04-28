@@ -1,54 +1,33 @@
-
-name: Super_Waker_Sync
+name: Update Playlist and Wake Space
 on:
   schedule:
-    - cron: '0 */4 * * *'
-  workflow_dispatch:
+    - cron: '0 */6 * * *' # Обновлять каждые 6 часов
+  workflow_dispatch:      # Кнопка для ручного запуска
+
 jobs:
-  sync:
+  update:
     runs-on: ubuntu-latest
     steps:
-      - name: Install deps
-        run: pip install huggingface_hub requests
-      - name: Run Everything
-        env:
-          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: true
+
+      - name: Download Playlist
         run: |
-          python -c "
-          import requests, datetime, re
-          from huggingface_hub import HfApi
+          # Скачиваем файл и сохраняем его именно как my_list.m3u
+          curl -L "http://kb-team.club/?do=/plugin&bid=iptvk&box_client=ottplay-foss&m3u&box_mac=3c2ca6f4437e" -o my_list.m3u
 
-          # 1. Скачиваем оригинал у провайдера (самая свежая версия)
-          source_url = 'http://kb-team.club/?do=/plugin&bid=iptvk&box_client=ottplay-foss&m3u&box_mac=3c2ca6f4437e'
-          res = requests.get(source_url, headers={'User-Agent': 'Mozilla/5.0'}, timeout=30)
-          
-          if res.status_code == 200:
-              content = res.text
-              # 2. Переделываем ссылки под твой Space
-              def repl(m):
-                  return f'https://hf.space{m.group(0).encode().hex()}'
-              content = re.sub(r'https?://[^\s\"<>]+', repl, content)
-              
-              # 3. Добавляем время обновления
-              now = (datetime.datetime.utcnow() + datetime.timedelta(hours=3)).strftime('%d.%m %H:%M')
-              info = f'#EXTINF:-1 group-title=\"ИНФО\",--- ОБНОВЛЕНО: {now} ---\nhttp://localhost\n'
-              content = content.replace('#EXTM3U', f'#EXTM3U\n{info}')
-              
-              # 4. Сохраняем локально и закидываем в Space
-              with open('local_channels.txt', 'w', encoding='utf-8') as f:
-                  f.write(content)
-              
-              api = HfApi()
-              api.upload_file(
-                  path_or_fileobj='local_channels.txt',
-                  path_in_repo='local_channels.txt',
-                  repo_id='videoz/arxiv',
-                  repo_type='space',
-                  token='${{ secrets.HF_TOKEN }}'
-              )
-              print(f'Done! Everything updated at {now}')
-          "
+      - name: Commit and Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add my_list.m3u
+          # Если изменений нет, скрипт не упадет благодаря || exit 0
+          git commit -m "Auto-update playlist" || exit 0
+          git push
 
-
-
-
+      - name: Ping HF Space
+        run: |
+          # Пингуем ваш конкретный адрес, чтобы Space проснулся
+          curl -I "https://hf.space"
