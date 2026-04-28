@@ -12,11 +12,19 @@ jobs:
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
-          lfs: true
 
-      - name: Download Playlist
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Download Playlist via Script
         run: |
-          curl -L "http://kb-team.club/?do=/plugin&bid=iptvk&box_client=ottplay-foss&m3u&box_mac=3c2ca6f4437e" -o my_list.m3u
+          # Запускаем ваш умный будильник, который умеет ждать прогрузки
+          python main.py
 
       - name: Commit and Push to GitHub
         run: |
@@ -30,11 +38,11 @@ jobs:
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: |
-          # Принудительно отправляем файл в Space, чтобы он обновился мгновенно
+          # Передаем обновленный файл и новый сервер в Space
           git remote add hf https://brawltop8599-boop:$HF_TOKEN@huggingface.co/spaces/videoz/arxiv
           git push --force hf main
 
       - name: Wake Up Space
         run: |
-          # Пингуем ваш Space, чтобы он проснулся и перечитал файл
+          # Теперь стучимся точно по адресу
           curl -I "https://hf.space"
