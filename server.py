@@ -4,6 +4,9 @@ import requests
 import re
 
 app = Flask(__name__)
+@app.route('/')
+def index():
+    return "<h1>Server is Running!</h1><p>Ваш плейлист тут: <a href='/local.m3u'>/local.m3u</a></p>"
 
 # --- НАСТРОЙКИ ---
 SOURCE_URL = "http://kb-team.club/?do=/plugin&bid=iptvk&box_client=ottplay-foss&m3u&box_mac=3c2ca6f4437e"
