@@ -26,26 +26,43 @@ def decode_url(hex_str):
         return None
 
 def fix_content(text, base_url=None):
-    # Если провайдер всё равно прислал XML (с тегами playlist_url или stream_url)
-    if "<playlist_url>" in text or "<stream_url>" in text:
+    # 1. Если это XML (есть теги items, menu или channels)
+    if "<items>" in text or "<menu>" in text or "<channels>" in text or "<channel>" in text:
         m3u = "#EXTM3U\n"
-        # Вытаскиваем все ссылки и названия
-        urls = re.findall(r'<(?:playlist_url|stream_url)><!\[CDATA\[(.*?)]]></(?:playlist_url|stream_url)>', text)
-        titles = re.findall(r'<title><!\[CDATA\[(.*?)]]></title>', text)
-        for i in range(len(urls)):
-            title = titles[i] if i < len(titles) else f"Channel {i+1}"
-            if urls[i] and urls[i] != "none":
-                m3u += f'#EXTINF:-1,{title}\n{urls[i]}\n'
-        text = m3u
+        # Ищем все блоки, где могут быть ссылки
+        items = re.findall(r'<(?:menu|channel|item)>(.*?)</(?:menu|channel|item)>', text, re.DOTALL)
+        
+        # Если регулярка выше ничего не нашла, попробуем грубый поиск всех ссылок в CDATA
+        if not items:
+            urls = re.findall(r'<(?:playlist_url|stream_url)><!\[CDATA\[(.*?)]]></(?:playlist_url|stream_url)>', text)
+            titles = re.findall(r'<title><!\[CDATA\[(.*?)]]></title>', text)
+        else:
+            urls = []
+            titles = []
+            for item in items:
+                u = re.search(r'<(?:playlist_url|stream_url)><!\[CDATA\[(.*?)]]></(?:playlist_url|stream_url)>', item)
+                t = re.search(r'<title><!\[CDATA\[(.*?)]]></title>', item)
+                if u and t:
+                    urls.append(u.group(1))
+                    titles.append(t.group(1))
 
-    # Превращаем прямые ссылки в HEX (прокси)
+        # Собираем M3U
+        for i in range(len(urls)):
+            url = urls[i]
+            title = titles[i] if i < len(titles) else f"Channel {i+1}"
+            if url and url != "none":
+                m3u += f'#EXTINF:-1,{title}\n{url}\n'
+        
+        if "#EXTINF" in m3u:
+            text = m3u
+
+    # 2. Проксируем ссылки (HEX)
     def replace_url(match):
         u = match.group(0)
         if PROXY_DOMAIN in u or any(ext in u.lower() for ext in [".png", ".jpg", ".jpeg"]):
             return u
         return f"https://{PROXY_DOMAIN}/ts/{encode_url(u)}"
 
-    # Ищем все http/https ссылки и заменяем их
     text = re.sub(r'https?://[^\s"<>#\n]+', replace_url, text)
     return text
 
