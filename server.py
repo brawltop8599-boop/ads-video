@@ -82,45 +82,41 @@ def local_playlist():
 
 @app.route('/ts/<path:full_path>')
 def proxy_stream(full_path):
-    hex_match = re.search(r'([0-9a-fA-F]{10,})', full_path)
-    hex_part = hex_match.group(1) if hex_match else full_path
+    # 1. Извлекаем HEX (минимум 20 символов)
+    hex_match = re.search(r'([0-9a-fA-F]{20,})', full_path)
+    if not hex_match:
+        return "Invalid HEX", 400
+    
+    hex_part = hex_match.group(1)
     target_url = decode_url(hex_part)
     
-    if not target_url:
-        return "Invalid HEX", 400
+    # 2. Если плеер добавил хвост (например, /tracks-v1a1/mono.m3u8)
+    suffix = full_path[hex_match.end():].lstrip('/')
+    if suffix:
+        # Убираем возможные порты, которые могут мешать
+        clean_suffix = suffix.replace(":8080/", "").replace(":80/", "")
+        # Склеиваем базу и хвост
+        base_folder = target_url.rsplit('/', 1)[0] if '/' in target_url else target_url
+        target_url = f"{base_folder}/{clean_suffix}"
 
+    # 3. Добавляем параметры из строки запроса (?token=...)
     if request.query_string:
         sep = "&" if "?" in target_url else "?"
         target_url += f"{sep}{request.query_string.decode('utf-8')}"
 
     try:
-        # Добавлено allow_redirects=True для обхода балансировщиков
+        # 4. Запрос к источнику
         r = session.get(target_url, headers=HEADERS, stream=True, timeout=25, allow_redirects=True)
         
         # Если это вложенный плейлист
-        content_type = r.headers.get('Content-Type', '').lower()
-        if ".m3u" in target_url.lower() or "mpegurl" in content_type:
+        if ".m3u" in target_url.lower() or "mpegurl" in r.headers.get('Content-Type', '').lower():
             return Response(fix_content(r.text, base_url=target_url), mimetype='application/vnd.apple.mpegurl')
         
-        # Проверяем статус источника до начала стрима
-        if r.status_code != 200:
-            return f"Source Error: {r.status_code}", r.status_code
-
+        # Если это само видео
         def generate():
-            try:
-                for chunk in r.iter_content(chunk_size=131072):
-                    yield chunk
-            except:
-                pass
-        
-        return Response(
-            stream_with_context(generate()), 
-            content_type='video/mp2t',
-            headers={
-                "Access-Control-Allow-Origin": "*",
-                "Connection": "keep-alive"
-            }
-        )
+            for chunk in r.iter_content(chunk_size=131072):
+                yield chunk
+        return Response(stream_with_context(generate()), content_type='video/mp2t')
     except Exception as e:
         print(f"PROXY ERROR: {e} | URL: {target_url}")
         return "Stream Error", 404
