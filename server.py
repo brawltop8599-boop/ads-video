@@ -26,7 +26,6 @@ def decode_url(hex_str):
         return None
 
 def fix_content(text, base_url=None):
-    # Проксируем все полные ссылки (http...)
     def replace_full_url(match):
         url = match.group(0)
         if PROXY_DOMAIN in url or any(ext in url.lower() for ext in [".png", ".jpg", ".jpeg"]): return url
@@ -34,7 +33,6 @@ def fix_content(text, base_url=None):
 
     text = re.sub(r'https?://[^\s"<>]+', replace_full_url, text)
 
-    # Если это вложенный m3u8, исправляем относительные ссылки внутри него
     if base_url:
         lines = []
         base_folder = base_url.rsplit('/', 1)[0] if '/' in base_url else base_url
@@ -50,7 +48,7 @@ def fix_content(text, base_url=None):
 
 @app.route('/')
 def health():
-    return "Proxy Server is Running!"
+    return "Proxy Server is Running! Use /local.m3u for proxied playlist."
 
 @app.route('/playlist.m3u')
 @app.route('/playlist.m3u8')
@@ -72,29 +70,43 @@ def local_playlist():
 def proxy_stream(full_path):
     hex_match = re.search(r'([0-9a-fA-F]{10,})', full_path)
     hex_part = hex_match.group(1) if hex_match else full_path
-    
     target_url = decode_url(hex_part)
+    
     if not target_url:
         return "Invalid HEX", 400
 
-    # Если в URL есть доп. параметры после HEX (от плеера)
     if request.query_string:
         sep = "&" if "?" in target_url else "?"
         target_url += f"{sep}{request.query_string.decode('utf-8')}"
 
     try:
-        # Если это вложенный плейлист (.m3u8), а не само видео
-        if ".m3u" in target_url.lower():
-            r = session.get(target_url, headers=HEADERS, timeout=20)
+        # Добавлено allow_redirects=True для обхода балансировщиков
+        r = session.get(target_url, headers=HEADERS, stream=True, timeout=25, allow_redirects=True)
+        
+        # Если это вложенный плейлист
+        content_type = r.headers.get('Content-Type', '').lower()
+        if ".m3u" in target_url.lower() or "mpegurl" in content_type:
             return Response(fix_content(r.text, base_url=target_url), mimetype='application/vnd.apple.mpegurl')
         
-        # Если это видео-поток (.ts)
+        # Проверяем статус источника до начала стрима
+        if r.status_code != 200:
+            return f"Source Error: {r.status_code}", r.status_code
+
         def generate():
-            with session.get(target_url, headers=HEADERS, stream=True, timeout=45) as r:
-                r.raise_for_status()
+            try:
                 for chunk in r.iter_content(chunk_size=131072):
                     yield chunk
-        return Response(stream_with_context(generate()), content_type='video/mp2t')
+            except:
+                pass
+        
+        return Response(
+            stream_with_context(generate()), 
+            content_type='video/mp2t',
+            headers={
+                "Access-Control-Allow-Origin": "*",
+                "Connection": "keep-alive"
+            }
+        )
     except Exception as e:
         print(f"PROXY ERROR: {e} | URL: {target_url}")
         return "Stream Error", 404
