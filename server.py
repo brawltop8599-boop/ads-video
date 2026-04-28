@@ -6,7 +6,7 @@ import re
 app = Flask(__name__)
 
 # --- НАСТРОЙКИ ---
-SOURCE_URL = "http://kb-team.club/?do=/plugin&bid=iptvk&box_client=ottplay-foss&m3u&box_mac=3c2ca6f4437e"
+SOURCE_URL = "http://kb-team.club/?do=/plugin&bid=federaltv&m3u&box_mac=vpkhvxmdf3pu"
 PROXY_DOMAIN = "videoz-arxiv.hf.space"
 LOCAL_FILE = "my_list.m3u"  # Исправлено: добавлена переменная пути к файлу
 HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36", "Accept": "*/*"}
