@@ -1,8 +1,8 @@
 name: Update Playlist and Wake Space
 on:
-  # schedule:
-  #   - cron: '0 */4 * * *'  # Теперь это просто текст, он не работает
-  workflow_dispatch:        # Кнопка для ручного запуска останется!
+  schedule:
+    - cron: '0 */12 * * *'  # 1. ВКЛЮЧИЛИ: теперь запуск каждые 12 часов
+  workflow_dispatch:        # Кнопка для ручного запуска
 
 jobs:
   update:
@@ -23,8 +23,8 @@ jobs:
 
       - name: Download Playlist via Script
         run: |
-          # Запускаем ваш умный будильник, который умеет ждать прогрузки
-          python main.py
+          # 2. ИСПРАВЛЕНО: Запускаем именно update.py (который берет чистые ссылки)
+          python update.py
 
       - name: Commit and Push to GitHub
         run: |
@@ -38,11 +38,11 @@ jobs:
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: |
-          # Передаем обновленный файл и новый сервер в Space
-          git remote add hf https://brawltop8599-boop:$HF_TOKEN@huggingface.co/spaces/videoz/arxiv
+          # Передаем обновленный файл в Space
+          git remote add hf https://brawltop8599-boop:$HF_TOKEN@huggingface.co/spaces/videoz/arxiv || true
           git push --force hf main
 
       - name: Wake Up Space
         run: |
-          # Теперь стучимся точно по адресу
+          # 3. ИСПРАВЛЕНО: Стучимся именно по адресу вашего Space
           curl -I "https://hf.space"
