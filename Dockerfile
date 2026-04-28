@@ -8,4 +8,4 @@ WORKDIR /app
 COPY . .
 
 # Запускаем наш сервер
-CMD ["python", "server.py"]
+CMD ["python", "app.py"]
