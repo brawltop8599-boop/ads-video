@@ -11,23 +11,30 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
         with:
-          persist-credentials: true
+          fetch-depth: 0
+          lfs: true
 
       - name: Download Playlist
         run: |
-          # Скачиваем файл и сохраняем его именно как my_list.m3u
           curl -L "http://kb-team.club/?do=/plugin&bid=iptvk&box_client=ottplay-foss&m3u&box_mac=3c2ca6f4437e" -o my_list.m3u
 
-      - name: Commit and Push
+      - name: Commit and Push to GitHub
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add my_list.m3u
-          # Если изменений нет, скрипт не упадет благодаря || exit 0
           git commit -m "Auto-update playlist" || exit 0
           git push
 
-      - name: Ping HF Space
+      - name: Push to Hugging Face Space
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: |
-          # Пингуем ваш конкретный адрес, чтобы Space проснулся
+          # Принудительно отправляем файл в Space, чтобы он обновился мгновенно
+          git remote add hf https://brawltop8599-boop:$HF_TOKEN@huggingface.co/spaces/videoz/arxiv
+          git push --force hf main
+
+      - name: Wake Up Space
+        run: |
+          # Пингуем ваш Space, чтобы он проснулся и перечитал файл
           curl -I "https://hf.space"
