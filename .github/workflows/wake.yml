@@ -1,8 +1,8 @@
 name: Update Playlist and Wake Space
 on:
-  schedule:
-    - cron: '0 */4 * * *' # Обновлять каждые 6 часов
-  workflow_dispatch:      # Кнопка для ручного запуска
+  # schedule:
+  #   - cron: '0 */4 * * *'  # Теперь это просто текст, он не работает
+  workflow_dispatch:        # Кнопка для ручного запуска останется!
 
 jobs:
   update:
