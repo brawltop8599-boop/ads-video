@@ -12,7 +12,7 @@ session.mount('https://', adapter)
 
 SECRET_KEY = "TvZaTak"
 LOCAL_FILE = "local_channels.txt"
-MAINTENANCE_VIDEO = "https://github.com/brawltop8599-boop/ads-stub/raw/refs/heads/main/v.mp4"
+MAINTENANCE_VIDEO = "https://github.com"
 USER_AGENTS = ["VLC/3.0.18 LibVLC/3.0.18", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"]
 
 CHANNELS_CACHE = []
@@ -68,10 +68,9 @@ def playlist():
     if request.args.get('k') != SECRET_KEY: return redirect(MAINTENANCE_VIDEO)
     load_data()
     base = request.host_url.rstrip('/')
-    m3u = ["#EXTM3U url-tvg=\"http://epg.one/epg.xml.gz\""]
+    m3u = ["#EXTM3U url-tvg=\"http://epg.one\""]
     for i, ch in enumerate(CHANNELS_CACHE):
         eid = safe_encode(str(i))
-        # Ставим mimetype="video/mp2t" для TS потоков или оставляем пустым для автоопределения
         inf = f'#EXTINF:-1 tvg-id="{ch["tvg_id"]}" tvg-logo="{ch["tvg_logo"]}" group-title="{ch["group"]}"'
         if ch["tvg_rec"] != "0":
             inf += f' tvg-rec="{ch["tvg_rec"]}" catchup="append" catchup-days="7"'
@@ -108,15 +107,12 @@ def s():
 
     try:
         r = session.get(target_url, headers=get_target_headers(target_url), stream=True, timeout=(15, 60), verify=False, allow_redirects=True)
-        
-        # Фильтруем заголовки
         excluded = ['content-encoding', 'content-length', 'transfer-encoding', 'connection', 'server', 'set-cookie']
         h = {k: v for k, v in r.headers.items() if k.lower() not in excluded}
         h['Access-Control-Allow-Origin'] = '*'
-        h['Accept-Ranges'] = 'bytes' # Сообщаем ТВ, что перемотка/Range поддерживаются
+        h['Accept-Ranges'] = 'bytes'
 
         ct = r.headers.get('Content-Type', '').lower()
-        # Более надежная проверка на плейлист
         is_m3u8 = "mpegurl" in ct or ".m3u8" in target_url.lower().split('?')[0]
 
         if is_m3u8:
@@ -135,11 +131,9 @@ def s():
                     new_lines.append(line)
             return Response("\n".join(new_lines), mimetype='application/vnd.apple.mpegurl')
 
-        # Если тип не определен, ставим видео
         if 'video' not in h.get('Content-Type', '').lower():
             h['Content-Type'] = 'video/mp2t'
 
-        # Генератор для закрытия стрима после выхода
         def generate():
             try:
                 for chunk in r.iter_content(chunk_size=256*1024):
@@ -150,7 +144,6 @@ def s():
         return Response(generate(), headers=h, status=r.status_code)
 
     except Exception as e:
-        print(f"DEBUG Error: {e} | URL: {target_url}")
         return redirect(MAINTENANCE_VIDEO)
 
 if __name__ == '__main__':
