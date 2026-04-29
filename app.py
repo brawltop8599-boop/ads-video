@@ -59,12 +59,18 @@ def fix_content(text, base_url=None):
     
     return text
 
+@app.route('/')
+def index():
+    return "IPTV Proxy is Running! Use /playlist.m3u8 in your player."
 
+@app.route('/playlist.m3u')
 @app.route('/playlist.m3u8')
 def proxy_playlist():
     try:
         resp = session.get(SOURCE_URL, headers=HEADERS, timeout=25)
-        return Response(fix_content(resp.text), mimetype='application/vnd.apple.mpegurl')
+        # Явно передаем URL для исправления относительных ссылок
+        fixed_text = fix_content(resp.text, base_url=SOURCE_URL)
+        return Response(fixed_text, mimetype='application/vnd.apple.mpegurl')
     except Exception as e:
         return f"Error: {e}", 500
 
