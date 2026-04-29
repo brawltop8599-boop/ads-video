@@ -1,7 +1,14 @@
 import os
-import requests, re, base64, urllib.parse, time, random
+try: 
+    import requests, flask_cors
+except: 
+    os.system('pip install requests flask-cors flask')
+    import requests, flask_cors
+
+import re, base64, urllib.parse, time, random
 from flask import Flask, request, Response, redirect
 from flask_cors import CORS
+
 
 # Авто-установка библиотек
 try: 
