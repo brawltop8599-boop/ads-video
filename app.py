@@ -80,11 +80,11 @@ def proxy_playlist():
 @app.route('/local.m3u')
 def local_playlist():
     # Исправлено: теперь файл проверяется и читается корректно
-    if os.path.exists(LOCAL_FILE):
+  if os.path.exists(LOCAL_FILE):
         try:
             with open(LOCAL_FILE, 'r', encoding='utf-8') as f:
                 content = f.read()
-                # Прогоняем локальный список через fix_content, чтобы проксировать ссылки внутри него
+                # Строка return ДОЛЖНА быть внутри блока try и с тем же отступом, что и content
                 return Response(fix_content(content), mimetype='application/vnd.apple.mpegurl')
         except Exception as e:
             return f"Error reading local file: {e}", 500
