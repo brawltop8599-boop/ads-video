@@ -51,16 +51,28 @@ def local_playlist():
 
 @app.route('/ts/<path:full_path>')
 def proxy_stream(full_path):
+    # Декодируем ссылку
     target_url = decode_url(full_path)
     if not target_url:
         return "Invalid URL", 400
+        
     try:
+        # ПРОВЕРКА: Если это плейлист внутри плейлиста
+        if ".m3u" in target_url.lower():
+            r = session.get(target_url, headers=HEADERS, timeout=10)
+            return Response(fix_content(r.text), mimetype='application/vnd.apple.mpegurl')
+        
+        # ПЕРЕДАЧА ПОТОКА
         def generate():
+            # Мы ОБЯЗАТЕЛЬНО передаем HEADERS (VLC User-Agent)
             with session.get(target_url, headers=HEADERS, stream=True, timeout=30) as r:
+                r.raise_for_status() # Проверяем, что провайдер не выдал ошибку
                 for chunk in r.iter_content(chunk_size=128*1024):
                     yield chunk
+                    
         return Response(stream_with_context(generate()), content_type='video/mp2t')
-    except:
+    except Exception as e:
+        print(f"Stream Error: {e}")
         return "Stream Error", 404
 
 if __name__ == "__main__":
