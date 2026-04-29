@@ -1,7 +1,7 @@
 import requests
 import re
 
-SOURCE_URL = "https://iptv-online.cc/my/97479/FF46BB6E2C1A136/m3u8" # Ваша ссылка
+SOURCE_URL = "http://kb-team.club/?do=/plugin&bid=iptvk&box_client=ottplay-foss&m3u&box_mac=3c2ca6f4437e" # Ваша ссылка
 FILENAME = "local_channels.txt"
 
 def run():
