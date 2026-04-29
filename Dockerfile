@@ -6,4 +6,4 @@ COPY . .
 # Устанавливаем библиотеки (на всякий случай)
 RUN pip install --no-cache-dir flask flask-cors requests
 # Запускаем ваш основной файл
-CMD ["python", "main.py"]
+CMD ["python", "app.py"]
