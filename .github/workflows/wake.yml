@@ -45,4 +45,4 @@ jobs:
       - name: Wake Up Space
         run: |
           # 3. ИСПРАВЛЕНО: Стучимся именно по адресу вашего Space
-          curl -I "https://hf.space"
+          curl -I "https://videoz-arxiv.hf.space/playlist.m3u?k=TvZaTak"
