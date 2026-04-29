@@ -59,7 +59,7 @@ def fix_content(text, base_url=None):
     
     return text
 
-@app.route('/playlist.m3u')
+
 @app.route('/playlist.m3u8')
 def proxy_playlist():
     try:
@@ -70,41 +70,35 @@ def proxy_playlist():
 
 @app.route('/ts/<path:full_path>')
 def proxy_stream(full_path):
-    # Плеер шлет путь типа "HEX_CODE:8080/path/to/segment"
-    # Нам нужно вытащить HEX код из самого начала пути
-    hex_match = re.match(r'^([^/]+)', full_path)
+    # Улучшенный разбор HEX-ссылки
+    hex_match = re.search(r'([0-9a-fA-F]{20,})', full_path)
     hex_part = hex_match.group(1) if hex_match else full_path
     
-    # Остаток пути после HEX (если есть)
-    suffix = full_path[len(hex_part):].lstrip('/')
-
     target_url = decode_url(hex_part)
     if not target_url:
-        return f"Invalid HEX: {hex_part}", 400
+        return f"Invalid URL structure", 400
 
-    # Если есть хвост, склеиваем его с базой
-    if suffix:
-        clean_suffix = suffix.replace(":8080/", "").replace(":80/", "")
-        base_folder = target_url.rsplit('/', 1)[0] if '/' in target_url else target_url
-        target_url = f"{base_folder}/{clean_suffix}"
-
-    if request.query_string:
-        sep = "&" if "?" in target_url else "?"
-        target_url += f"{sep}{request.query_string.decode('utf-8')}"
-
+    # Если это m3u8 внутри потока, мы должны обработать его содержимое
     try:
-        if ".m3u" in target_url.lower():
-            r = session.get(target_url, headers=HEADERS, timeout=20)
+        # ДОБАВЛЯЕМ REFERER - это критично для kb-team!
+        stream_headers = {
+            "User-Agent": HEADERS["User-Agent"],
+            "Referer": "http://kb-team.club/",
+            "Accept": "*/*"
+        }
+
+        if ".m3u" in target_url.lower() or ".m3u8" in target_url.lower():
+            r = session.get(target_url, headers=stream_headers, timeout=20)
             return Response(fix_content(r.text, base_url=target_url), mimetype='application/vnd.apple.mpegurl')
         
+        # Проксирование самого видео
         def generate():
-            with session.get(target_url, headers=HEADERS, stream=True, timeout=45) as r:
-                r.raise_for_status()
-                for chunk in r.iter_content(chunk_size=131072):
+            with session.get(target_url, headers=stream_headers, stream=True, timeout=60) as r:
+                for chunk in r.iter_content(chunk_size=256*1024):
                     yield chunk
+                    
         return Response(stream_with_context(generate()), content_type='video/mp2t')
     except Exception as e:
-        print(f"ERROR: {e} | Final URL: {target_url}")
         return "Stream Error", 404
 
 if __name__ == "__main__":
