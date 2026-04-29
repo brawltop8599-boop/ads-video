@@ -58,21 +58,31 @@ def local_playlist():
 
 @app.route('/ts/<path:full_path>')
 def proxy_stream(full_path):
-    target_url = decode_url(full_path)
+    # 1. Вытаскиваем HEX-код (он может быть длинным)
+    hex_match = re.search(r'([0-9a-fA-F]{20,})', full_path)
+    hex_part = hex_match.group(1) if hex_match else full_path
+    
+    target_url = decode_url(hex_part)
     if not target_url:
-        return "Invalid URL", 400
+        return f"Ошибка декодирования ссылки", 400
+
+    # 2. Магия: если это .m3u8, мы его читаем и правим
     try:
         if ".m3u" in target_url.lower():
-            r = session.get(target_url, headers=HEADERS, timeout=10)
+            r = session.get(target_url, headers=HEADERS, timeout=15)
+            # Передаем базовый URL, чтобы сегменты видео подхватились правильно
             return Response(fix_content(r.text), mimetype='application/vnd.apple.mpegurl')
         
+        # 3. Если это сегмент видео (.ts) — пробрасываем поток напрямую
         def generate():
-            with session.get(target_url, headers=HEADERS, stream=True, timeout=30) as r:
-                for chunk in r.iter_content(chunk_size=128*1024):
+            with session.get(target_url, headers=HEADERS, stream=True, timeout=40) as r:
+                r.raise_for_status()
+                for chunk in r.iter_content(chunk_size=512*1024): # Увеличили буфер для скорости
                     yield chunk
+        
         return Response(stream_with_context(generate()), content_type='video/mp2t')
-    except:
-        return "Stream Error", 404
+    except Exception as e:
+        return f"Ошибка потока: {e}", 404
 
 if __name__ == "__main__":
     app.run(host='0.0.0.0', port=7860)
