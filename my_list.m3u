@@ -1,19 +1,13 @@
 #EXTM3U catchup="flussonic" url-tvg="https://ip-tv.dev/epg/epg.xml.gz"
-#EXTINF:0 tvg-id="X1plus1" tvg-name="1+1" tvg-logo="https://ip-tv.dev/images/ico/1plus1.png"  tvg-rec="5" timeshift="5", 1+1
-#EXTGRP:Украинские
-http://bpl.online24.pm/play/400/F130ABA998BB7EE/video.m3u8
-#EXTINF:0 tvg-id="Xictv-ua" tvg-name="ICTV" tvg-logo="https://ip-tv.dev/images/ico/ictv.png"  tvg-rec="5" timeshift="5", ICTV
-#EXTGRP:Украинские
-http://bpl.online24.pm/play/647/F130ABA998BB7EE/video.m3u8
-#EXTINF:0 tvg-id="Xenter-film" tvg-name="Enter-фільм" tvg-logo="https://ip-tv.dev/epg/icon/enter-film.png"  tvg-rec="5" timeshift="5", Enter-фільм
-#EXTGRP:Украинские
-http://bpl.online24.pm/play/648/F130ABA998BB7EE/video.m3u8
-#EXTINF:0 tvg-id="Xsonce-ua" tvg-name="Сонце" tvg-logo="https://ip-tv.dev/epg/icon/sonce.png"  tvg-rec="5" timeshift="5", Сонце
-#EXTGRP:Украинские
-http://bpl.online24.pm/play/9913/F130ABA998BB7EE/video.m3u8
-#EXTINF:0 tvg-id="Xkus-kus" tvg-name="Кус-кус" tvg-logo="https://ip-tv.dev/images/ico/kus-kus.png" , Кус-кус
-#EXTGRP:Украинские
-http://bpl.online24.pm/play/5112/F130ABA998BB7EE/video.m3u8
-#EXTINF:0 tvg-id="Xdom" tvg-name="Дом" tvg-logo="https://ip-tv.dev/images/ico/dom.png" , Дом
-#EXTGRP:Украинские
-http://bpl.online24.pm/play/347/F130ABA998BB7EE/video.m3u8
+#EXTINF:0 tvg-id="Xostrosiuzhetnoe-hd" tvg-name="Остросюжетное HD" tvg-logo="https://ip-tv.dev/epg/icon/ostrosiuzhetnoe-hd.png"  tvg-rec="5" timeshift="5", Остросюжетное HD
+#EXTGRP:Кино
+http://bpl.online24.pm/play/368/8C177E529AD507D/video.m3u8
+#EXTINF:0 tvg-id="Xstrashnoe-hd" tvg-name="Страшное HD" tvg-logo="https://ip-tv.dev/epg/icon/strashnoe-hd.png"  tvg-rec="5" timeshift="5", Страшное HD
+#EXTGRP:Кино
+http://bpl.online24.pm/play/371/8C177E529AD507D/video.m3u8
+#EXTINF:0 tvg-id="Xkinouzhas" tvg-name="Киноужас HD" tvg-logo="https://ip-tv.dev/epg/icon/kinouzhas.png"  tvg-rec="5" timeshift="5", Киноужас HD
+#EXTGRP:Кино
+http://bpl.online24.pm/play/259/8C177E529AD507D/video.m3u8
+#EXTINF:0 tvg-id="Xkriminalnoe-hd" tvg-name="Криминальное HD" tvg-logo="https://ip-tv.dev/images/ico/kriminalnoe-hd.png"  tvg-rec="5" timeshift="5", Криминальное HD
+#EXTGRP:Кино
+http://bpl.online24.pm/play/7308/8C177E529AD507D/video.m3u8
