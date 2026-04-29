@@ -1,5 +1,5 @@
 import os
-try: 
+try:  
     import requests, flask_cors
 except: 
     os.system('pip install requests flask-cors flask')
