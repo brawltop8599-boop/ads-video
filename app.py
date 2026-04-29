@@ -45,17 +45,18 @@ def fix_content(text, base_url=None):
     text = re.sub(r'https?://[^\s"<>]+', replace_full_url, text)
 
     # Исправляем относительные ссылки (для вложенных m3u8)
+# Эта часть заменяет относительные пути внутри m3u8 на полные прокси-ссылки
     if base_url:
-        lines = []
+        new_lines = []
         base_folder = base_url.rsplit('/', 1)[0] if '/' in base_url else base_url
         for line in text.splitlines():
             line = line.strip()
-            if line and not line.startswith('#') and not line.startswith('http') and not PROXY_DOMAIN in line:
-                full_url = f"{base_folder}/{line}"
-                lines.append(f"https://{PROXY_DOMAIN}/ts/{encode_url(full_url)}")
+            if line and not line.startswith('#') and not line.startswith('http'):
+                full_link = f"{base_folder}/{line}"
+                new_lines.append(f"https://{PROXY_DOMAIN}/ts/{encode_url(full_link)}")
             else:
-                lines.append(line)
-        text = "\n".join(lines)
+                new_lines.append(line)
+        text = "\n".join(new_lines)
     
     return text
 
