@@ -1,7 +1,7 @@
 import requests
 import re
 
-SOURCE_URL = "https://iptv-online.cc/my/97479/51E6808E03E5E0D/m3u8" 
+SOURCE_URL = "https://iptv-online.cc/my/97479/102215810B5FF6B/m3u8" 
 FILENAME = "local_channels.txt"
 
 def run():
