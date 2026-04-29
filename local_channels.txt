@@ -1,17 +1,35 @@
+#EXTM3U
+#EXTINF:-1, Канал 9987
 http://bpl.online24.pm/play/9987/FF46BB6E2C1A136/video.m3u8
+#EXTINF:-1, Канал 232
 http://bpl.online24.pm/play/232/FF46BB6E2C1A136/video.m3u8
+#EXTINF:-1, Канал 487
 http://bpl.online24.pm/play/487/FF46BB6E2C1A136/video.m3u8
+#EXTINF:-1, Канал 81
 http://bpl.online24.pm/play/81/FF46BB6E2C1A136/video.m3u8
+#EXTINF:-1, Канал 489
 http://bpl.online24.pm/play/489/FF46BB6E2C1A136/video.m3u8
+#EXTINF:-1, Канал 9982
 http://bpl.online24.pm/play/9982/FF46BB6E2C1A136/video.m3u8
+#EXTINF:-1, Канал 7094
 http://bpl.online24.pm/play/7094/FF46BB6E2C1A136/video.m3u8
+#EXTINF:-1, Канал 194
 http://bpl.online24.pm/play/194/FF46BB6E2C1A136/video.m3u8
+#EXTINF:-1, Канал 4475
 http://bpl.online24.pm/play/4475/FF46BB6E2C1A136/video.m3u8
+#EXTINF:-1, Канал 368
 http://bpl.online24.pm/play/368/FF46BB6E2C1A136/video.m3u8
+#EXTINF:-1, Канал 371
 http://bpl.online24.pm/play/371/FF46BB6E2C1A136/video.m3u8
+#EXTINF:-1, Канал 259
 http://bpl.online24.pm/play/259/FF46BB6E2C1A136/video.m3u8
+#EXTINF:-1, Канал 7308
 http://bpl.online24.pm/play/7308/FF46BB6E2C1A136/video.m3u8
+#EXTINF:-1, Канал 1837
 http://bpl.online24.pm/play/1837/FF46BB6E2C1A136/video.m3u8
+#EXTINF:-1, Канал 1838
 http://bpl.online24.pm/play/1838/FF46BB6E2C1A136/video.m3u8
+#EXTINF:-1, Канал 1840
 http://bpl.online24.pm/play/1840/FF46BB6E2C1A136/video.m3u8
+#EXTINF:-1, Канал 1839
 http://bpl.online24.pm/play/1839/FF46BB6E2C1A136/video.m3u8
