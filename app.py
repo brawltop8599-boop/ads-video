@@ -1,18 +1,12 @@
-
-import os  # Исправлено: добавлен импорт для работы с файлами
 from flask import Flask, Response, request, stream_with_context
 import requests
 import re
 
 app = Flask(__name__)
-@app.route('/')
-def index():
-    return "<h1>Server is Running!</h1><p>Ваш плейлист тут: <a href='/local.m3u'>/local.m3u</a></p>"
 
 # --- НАСТРОЙКИ ---
-SOURCE_URL = http://kb-team.club/?do=/plugin&bid=iptvk&box_client=ottplay-foss&m3u&box_mac=vpkhvxmdf3pu"
+SOURCE_URL = "http://kb-team.club/?do=/plugin&bid=iptvk&box_client=ottplay-foss&m3u&box_mac=vpkhvxmdf3pu"
 PROXY_DOMAIN = "videoz-arxiv.hf.space"
-LOCAL_FILE = "my_list.m3u"  # Исправлено: добавлена переменная пути к файлу
 HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36", "Accept": "*/*"}
 
 session = requests.Session()
@@ -22,7 +16,7 @@ def encode_url(url):
 
 def decode_url(hex_str):
     try:
-        # Извлекаем HEX, игнорируя порты и лишние символы
+        # Извлекаем только чистый HEX (символы 0-9 и a-f), игнорируя порты :8080 и прочее
         match = re.search(r'([0-9a-fA-F]{10,})', hex_str)
         if match:
             return bytes.fromhex(match.group(1)).decode()
@@ -31,7 +25,7 @@ def decode_url(hex_str):
         return None
 
 def fix_content(text, base_url=None):
-    # Конвертация XML/FXML в M3U
+    # Если пришел XML/FXML - конвертируем его в M3U
     if "<fxml" in text or "<items>" in text:
         m3u = "#EXTM3U\n"
         items = re.findall(r'<channel>(.*?)</channel>', text, re.DOTALL)
@@ -42,12 +36,10 @@ def fix_content(text, base_url=None):
                 m3u += f'#EXTINF:-1,{title.group(1)}\n{url.group(1)}\n'
         text = m3u if "#EXTINF" in m3u else text
 
-    # Проксируем ссылки на потоки
+    # Проксируем полные ссылки
     def replace_full_url(match):
         url = match.group(0)
-        # Не проксируем картинки и уже проксированные ссылки
-        if PROXY_DOMAIN in url or any(ext in url.lower() for ext in [".png", ".jpg", ".jpeg"]): 
-            return url
+        if PROXY_DOMAIN in url or any(ext in url.lower() for ext in [".png", ".jpg", ".jpeg"]): return url
         return f"https://{PROXY_DOMAIN}/ts/{encode_url(url)}"
 
     text = re.sub(r'https?://[^\s"<>]+', replace_full_url, text)
@@ -75,30 +67,22 @@ def proxy_playlist():
         return Response(fix_content(resp.text), mimetype='application/vnd.apple.mpegurl')
     except Exception as e:
         return f"Error: {e}", 500
-		
-@app.route('/local.m3u')
-def local_playlist():
-    # Исправлено: теперь файл проверяется и читается корректно
-    if os.path.exists(LOCAL_FILE):
-        try:
-            with open(LOCAL_FILE, 'r', encoding='utf-8') as f:
-                content = f.read()
-                # Прогоняем локальный список через fix_content, чтобы проксировать ссылки внутри него
-                return Response(fix_content(content), mimetype='application/vnd.apple.mpegurl')
-        except Exception as e:
-            return f"Error reading local file: {e}", 500
-    return f"Local file '{LOCAL_FILE}' not found. Check GitHub Action.", 404
-	
+
 @app.route('/ts/<path:full_path>')
 def proxy_stream(full_path):
+    # Плеер шлет путь типа "HEX_CODE:8080/path/to/segment"
+    # Нам нужно вытащить HEX код из самого начала пути
     hex_match = re.match(r'^([^/]+)', full_path)
     hex_part = hex_match.group(1) if hex_match else full_path
+    
+    # Остаток пути после HEX (если есть)
     suffix = full_path[len(hex_part):].lstrip('/')
 
     target_url = decode_url(hex_part)
     if not target_url:
         return f"Invalid HEX: {hex_part}", 400
 
+    # Если есть хвост, склеиваем его с базой
     if suffix:
         clean_suffix = suffix.replace(":8080/", "").replace(":80/", "")
         base_folder = target_url.rsplit('/', 1)[0] if '/' in target_url else target_url
@@ -124,5 +108,4 @@ def proxy_stream(full_path):
         return "Stream Error", 404
 
 if __name__ == "__main__":
-    # Для Hugging Face обязательно порт 7860
     app.run(host='0.0.0.0', port=7860)
