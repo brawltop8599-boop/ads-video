@@ -3,7 +3,7 @@ import re
 import os
 
 # Ссылка на ваш источник плейлиста
-SOURCE_URL = "https://iptv-online.cc/my/97479/5BE4FFE625DE3AD/m3u8" 
+SOURCE_URL = "http://kb-team.club/?do=/plugin&bid=iptvk&box_client=ottplay-foss&m3u&box_mac=3c2ca6f4437e" 
 FILENAME = "local_channels.txt"
 
 def run():
