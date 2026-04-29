@@ -1,3 +1,4 @@
+
 import os  # Исправлено: добавлен импорт для работы с файлами
 from flask import Flask, Response, request, stream_with_context
 import requests
@@ -9,7 +10,7 @@ def index():
     return "<h1>Server is Running!</h1><p>Ваш плейлист тут: <a href='/local.m3u'>/local.m3u</a></p>"
 
 # --- НАСТРОЙКИ ---
-SOURCE_URL = "http://kb-team.club/?do=/plugin&bid=iptvk&box_client=ottplay-foss&m3u&box_mac=vpkhvxmdf3pu"
+SOURCE_URL = http://kb-team.club/?do=/plugin&bid=iptvk&box_client=ottplay-foss&m3u&box_mac=vpkhvxmdf3pu"
 PROXY_DOMAIN = "videoz-arxiv.hf.space"
 LOCAL_FILE = "my_list.m3u"  # Исправлено: добавлена переменная пути к файлу
 HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36", "Accept": "*/*"}
