@@ -12,17 +12,27 @@ def run():
             urls = re.findall(r'(https?://[^\s]+)', r.text)
             if urls:
                 with open(FILENAME, "w", encoding="utf-8") as f:
-                    f.write("#EXTM3U\n") # Заголовок
+                    f.write("#EXTM3U\n")
+                    count = 0
                     for url in urls:
                         url = url.strip()
+                        # Собираем только прямые ссылки на видео
                         if ".m3u8" in url or "/index" in url:
-                            # Вытаскиваем ID канала для названия
-                            cid = url.split('/play/')[-1].split('/') if '/play/' in url else "TV"
-                            f.write(f"#EXTINF:-1, Канал {cid}\n")
-                            f.write(f"{url}\n") # Ссылка СТРОГО под инфой
-                print(f"Обновлено. Каналов: {len(urls)}")
+                            # Извлекаем ID (цифры после /play/)
+                            match = re.search(r'/play/(\d+)', url)
+                            channel_id = match.group(1) if match else f"Stream-{count}"
+                            
+                            # Пишем в правильном порядке: инфо, затем ссылка
+                            f.write(f"#EXTINF:-1, Канал {channel_id}\n")
+                            f.write(f"{url}\n")
+                            count += 1
+                print(f"Обновлено. Каналов в базе: {count}")
+            else:
+                print("Ссылки в источнике не найдены.")
+        else:
+            print(f"Ошибка источника: {r.status_code}")
     except Exception as e:
-        print(f"Ошибка: {e}")
+        print(f"Ошибка скрипта: {e}")
 
 if __name__ == "__main__":
     run()
