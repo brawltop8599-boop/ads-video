@@ -21,34 +21,70 @@ UA = "VLC/3.0.18 LibVLC/3.0.18"
 def get_playlist():
     if request.args.get('k') != SECRET_KEY: return "Fail", 403
     try:
-        # Качаем плейлист с правильным User-Agent
-        r = requests.get(SOURCE_M3U, headers={"User-Agent": UA}, timeout=20)
-        lines = r.text.splitlines()
+        # Максимальная маскировка под плеер
+        headers = {
+            "User-Agent": UA,
+            "Accept": "*/*",
+            "Referer": "http://kb-team.club/",
+            "Connection": "keep-alive"
+        }
         
+        # Делаем запрос
+        r = requests.get(SOURCE_M3U, headers=headers, timeout=20)
+        r.encoding = 'utf-8' 
+        
+        lines = r.text.splitlines()
         new_m3u = ["#EXTM3U"]
         base = request.host_url.rstrip('/')
         
+        count = 0
         curr_inf = ""
         for line in lines:
-            if line.startswith("#EXTINF"): curr_inf = line
+            line = line.strip()
+            if not line: continue
+            if line.startswith("#EXTINF"): 
+                curr_inf = line
             elif line.startswith("http"):
-                # Прячем ссылку в прокси
-                enc_url = base64.urlsafe_b64encode(line.strip().encode()).decode().replace('=', '')
+                # Кодируем ссылку для прокси
+                enc_url = base64.urlsafe_b64encode(line.encode()).decode().replace('=', '')
                 new_m3u.append(curr_inf)
                 new_m3u.append(f"{base}/ts?k={SECRET_KEY}&url={enc_url}")
+                count += 1
         
+        # Если список пуст, выводим отладочную инфу прямо в плейлист
+        if count == 0:
+            return f"#EXTM3U\n#EXTINF:-1, Ошибка: Оператор вернул пустоту. Статус: {r.status_code}", 200
+            
         return Response("\n".join(new_m3u), mimetype='application/vnd.apple.mpegurl')
-    except Exception as e: return str(e), 500
+    except Exception as e: 
+        return f"Ошибка сервера: {str(e)}", 500
 
 @app.route('/ts')
 def proxy_ts():
     if request.args.get('k') != SECRET_KEY: return "403", 403
     try:
+        # Декодируем оригинальную ссылку
         url = base64.urlsafe_b64decode(request.args.get('url') + "===").decode()
-        # Проксируем поток
-        r = requests.get(url, headers={"User-Agent": UA}, stream=True, timeout=30)
-        return Response(r.iter_content(chunk_size=128*1024), content_type=r.headers.get('Content-Type'))
-    except: return "Error", 500
+        
+        # Заголовки для потока видео
+        headers = {
+            "User-Agent": UA,
+            "Referer": "http://kb-team.club/",
+            "Connection": "keep-alive"
+        }
+        
+        # Передаем Range, если плеер его просит
+        if request.headers.get('Range'):
+            headers['Range'] = request.headers.get('Range')
+
+        r = requests.get(url, headers=headers, stream=True, timeout=30, verify=False)
+        
+        # Фильтруем заголовки ответа
+        excluded = ['content-encoding', 'content-length', 'transfer-encoding', 'connection']
+        h = {k: v for k, v in r.headers.items() if k.lower() not in excluded}
+        
+        return Response(r.iter_content(chunk_size=256*1024), headers=h, status=r.status_code)
+    except: return "Stream Error", 500
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=7860)
