@@ -1,52 +1,52 @@
 #EXTM3U catchup="flussonic" url-tvg="https://ip-tv.dev/epg/epg.xml.gz"
 #EXTINF:0 tvg-id="Xtv1000-worldkino" tvg-name="Viasat Kino World" tvg-logo="https://ip-tv.dev/images/epg/9987.png?v1750326187"  tvg-rec="5" timeshift="5", Viasat Kino World
 #EXTGRP:Кино
-http://bpl.online24.pm/play/9987/8C177E529AD507D/video.m3u8
+http://bpl.online24.pm/play/9987/C8A918F9E52D9B8/video.m3u8
 #EXTINF:0 tvg-id="Xviju-tv1000-novella" tvg-name="Viju TV1000 Новелла" tvg-logo="https://ip-tv.dev/images/ico/viju-tv1000-novella.png"  tvg-rec="5" timeshift="5", Viju TV1000 Новелла
 #EXTGRP:Кино
-http://bpl.online24.pm/play/232/8C177E529AD507D/video.m3u8
+http://bpl.online24.pm/play/232/C8A918F9E52D9B8/video.m3u8
 #EXTINF:0 tvg-id="Xtv1000-action" tvg-name="Viju TV1000 Action HD" tvg-logo="https://ip-tv.dev/images/ico/viju-tv1000-action.png"  tvg-rec="5" timeshift="5", Viju TV1000 Action HD
 #EXTGRP:Кино
-http://bpl.online24.pm/play/487/8C177E529AD507D/video.m3u8
+http://bpl.online24.pm/play/487/C8A918F9E52D9B8/video.m3u8
 #EXTINF:0 tvg-id="Xtv1000-russkoe-kino" tvg-name="Viju TV1000 Русское кино" tvg-logo="https://ip-tv.dev/images/ico/viju-tv1000-russkoe-kino.png"  tvg-rec="5" timeshift="5", Viju TV1000 Русское кино
 #EXTGRP:Кино
-http://bpl.online24.pm/play/81/8C177E529AD507D/video.m3u8
+http://bpl.online24.pm/play/81/C8A918F9E52D9B8/video.m3u8
 #EXTINF:0 tvg-id="Xtv1000-russkoe-kino" tvg-name="Viju TV1000 Русское кино HD" tvg-logo="https://ip-tv.dev/images/ico/viju-tv1000-russkoe-kino.png"  tvg-rec="5" timeshift="5", Viju TV1000 Русское кино HD
 #EXTGRP:Кино
-http://bpl.online24.pm/play/489/8C177E529AD507D/video.m3u8
+http://bpl.online24.pm/play/489/C8A918F9E52D9B8/video.m3u8
 #EXTINF:0 tvg-id="Xvip-serial" tvg-name="Viju+ Serial HD" tvg-logo="https://ip-tv.dev/images/ico/viju-serial.png"  tvg-rec="5" timeshift="5", Viju+ Serial HD
 #EXTGRP:Кино
-http://bpl.online24.pm/play/9982/8C177E529AD507D/video.m3u8
+http://bpl.online24.pm/play/9982/C8A918F9E52D9B8/video.m3u8
 #EXTINF:0 tvg-id="Xviju-tv1000-romantica" tvg-name="Viju TV1000 Romantica" tvg-logo="https://ip-tv.dev/image/ico/viju-tv1000-romantica.png"  tvg-rec="5" timeshift="5", Viju TV1000 Romantica
 #EXTGRP:Кино
-http://bpl.online24.pm/play/7094/8C177E529AD507D/video.m3u8
+http://bpl.online24.pm/play/7094/C8A918F9E52D9B8/video.m3u8
 #EXTINF:0 tvg-id="Xvip-comedy" tvg-name="Viju+ Comedy HD" tvg-logo="https://ip-tv.dev/images/ico/viju-comedy.png"  tvg-rec="5" timeshift="5", Viju+ Comedy HD
 #EXTGRP:Кино
-http://bpl.online24.pm/play/194/8C177E529AD507D/video.m3u8
+http://bpl.online24.pm/play/194/C8A918F9E52D9B8/video.m3u8
 #EXTINF:0 tvg-id="Xnash-kinopokaz" tvg-name="Наш Кинопоказ HD" tvg-logo="https://ip-tv.dev/epg/icon/nash-kinopokaz.png"  tvg-rec="5" timeshift="5", Наш Кинопоказ HD
 #EXTGRP:Кино
-http://bpl.online24.pm/play/4475/8C177E529AD507D/video.m3u8
+http://bpl.online24.pm/play/4475/C8A918F9E52D9B8/video.m3u8
 #EXTINF:0 tvg-id="Xostrosiuzhetnoe-hd" tvg-name="Остросюжетное HD" tvg-logo="https://ip-tv.dev/epg/icon/ostrosiuzhetnoe-hd.png"  tvg-rec="5" timeshift="5", Остросюжетное HD
 #EXTGRP:Кино
-http://bpl.online24.pm/play/368/8C177E529AD507D/video.m3u8
+http://bpl.online24.pm/play/368/C8A918F9E52D9B8/video.m3u8
 #EXTINF:0 tvg-id="Xstrashnoe-hd" tvg-name="Страшное HD" tvg-logo="https://ip-tv.dev/epg/icon/strashnoe-hd.png"  tvg-rec="5" timeshift="5", Страшное HD
 #EXTGRP:Кино
-http://bpl.online24.pm/play/371/8C177E529AD507D/video.m3u8
+http://bpl.online24.pm/play/371/C8A918F9E52D9B8/video.m3u8
 #EXTINF:0 tvg-id="Xkinouzhas" tvg-name="Киноужас HD" tvg-logo="https://ip-tv.dev/epg/icon/kinouzhas.png"  tvg-rec="5" timeshift="5", Киноужас HD
 #EXTGRP:Кино
-http://bpl.online24.pm/play/259/8C177E529AD507D/video.m3u8
+http://bpl.online24.pm/play/259/C8A918F9E52D9B8/video.m3u8
 #EXTINF:0 tvg-id="Xkriminalnoe-hd" tvg-name="Криминальное HD" tvg-logo="https://ip-tv.dev/images/ico/kriminalnoe-hd.png"  tvg-rec="5" timeshift="5", Криминальное HD
 #EXTGRP:Кино
-http://bpl.online24.pm/play/7308/8C177E529AD507D/video.m3u8
+http://bpl.online24.pm/play/7308/C8A918F9E52D9B8/video.m3u8
 #EXTINF:0 tvg-id="Xsemejnoe-kino-kz" tvg-name="Семейное Кино" tvg-logo="https://ip-tv.dev/images/epg/1837.png?v1744724638"  tvg-rec="5" timeshift="5", Семейное Кино
 #EXTGRP:Кино
-http://bpl.online24.pm/play/1837/8C177E529AD507D/video.m3u8
+http://bpl.online24.pm/play/1837/C8A918F9E52D9B8/video.m3u8
 #EXTINF:0 tvg-id="Xpremium-kino-kz" tvg-name="Премиум Кино" tvg-logo="https://ip-tv.dev/images/epg/1838.png?v1744724707"  tvg-rec="5" timeshift="5", Премиум Кино
 #EXTGRP:Кино
-http://bpl.online24.pm/play/1838/8C177E529AD507D/video.m3u8
+http://bpl.online24.pm/play/1838/C8A918F9E52D9B8/video.m3u8
 #EXTINF:0 tvg-id="Xkinoboevik-kz" tvg-name="Кинобоевик" tvg-logo="https://ip-tv.dev/images/epg/1840.png?v1744724834"  tvg-rec="5" timeshift="5", Кинобоевик
 #EXTGRP:Кино
-http://bpl.online24.pm/play/1840/8C177E529AD507D/video.m3u8
+http://bpl.online24.pm/play/1840/C8A918F9E52D9B8/video.m3u8
 #EXTINF:0 tvg-id="Xmirovoe-kino-kz" tvg-name="Мировое Кино" tvg-logo="https://ip-tv.dev/images/epg/1839.png?v1744724779"  tvg-rec="5" timeshift="5", Мировое Кино
 #EXTGRP:Кино
-http://bpl.online24.pm/play/1839/8C177E529AD507D/video.m3u8
+http://bpl.online24.pm/play/1839/C8A918F9E52D9B8/video.m3u8
