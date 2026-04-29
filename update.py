@@ -1,19 +1,24 @@
 import requests
-import time
+import re
 
-# МЫ СМЕНИЛИ КЛИЕНТА НА VLC, ЧТОБЫ ПОЛУЧИТЬ СПИСОК, А НЕ МЕНЮ
-SOURCE_URL = "https://iptv-online.cc/my/97479/FF46BB6E2C1A136/m3u8"
-FILENAME = "my_list.m3u" 
+SOURCE_URL = "https://iptv-online.cc/my/97479/FF46BB6E2C1A136/m3u8" # Ваша ссылка
+FILENAME = "local_channels.txt"
 
 def run():
-    headers = {"User-Agent": "VLC/3.0.18"} # Маскируемся под плеер
-    print("Запрашиваю чистый плейлист M3U...")
+    headers = {"User-Agent": "VLC/3.0.18"}
+    print("Запрашиваю оригинал для обновления базы...")
     try:
         r = requests.get(SOURCE_URL, headers=headers, timeout=30)
         if r.status_code == 200:
-            with open(FILENAME, "w", encoding="utf-8") as f:
-                f.write(r.text.strip())
-            print(f"Успех! Получено {len(r.text)} байт данных.")
+            # Ищем все ссылки, начинающиеся на http
+            urls = re.findall(r'(https?://[^\s]+)', r.text)
+            if urls:
+                with open(FILENAME, "w", encoding="utf-8") as f:
+                    for url in urls:
+                        # Записываем только те ссылки, где есть видеопоток
+                        if ".m3u8" in url or "/index" in url or ":8080" in url:
+                             f.write(url.strip() + "\n")
+                print(f"Успех! База {FILENAME} обновлена. Найдено каналов: {len(urls)}")
         else:
             print(f"Ошибка сервера: {r.status_code}")
     except Exception as e:
