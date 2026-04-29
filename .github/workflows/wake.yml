@@ -1,7 +1,7 @@
 name: Update Playlist and Wake Space
 on:
-  schedule:
-    - cron: '0 */12 * * *'  # 1. ВКЛЮЧИЛИ: теперь запуск каждые 12 часов
+ # schedule:
+  #  - cron: '0 */12 * * *'  # 1. ВКЛЮЧИЛИ: теперь запуск каждые 12 часов
   workflow_dispatch:        # Кнопка для ручного запуска
 
 jobs:
