@@ -1,66 +1,29 @@
 import os
-try: import requests, flask_cors
-except: os.system('pip install requests flask-cors flask'); import requests, flask_cors
-
-import re, base64, urllib.parse, time, random
+import requests, re, base64, urllib.parse, time, random
 from flask import Flask, request, Response, redirect
 from flask_cors import CORS
 
+# Авто-установка библиотек
+try: 
+    from flask_cors import CORS
+except: 
+    os.system('pip install requests flask-cors flask')
+    from flask_cors import CORS
 
 app = Flask(__name__)
 CORS(app)
 
-session = requests.Session()
-adapter = requests.adapters.HTTPAdapter(pool_connections=1000, pool_maxsize=1000)
-session.mount('http://', adapter)
-session.mount('https://', adapter)
-
+# Настройки
 SECRET_KEY = "TvZaTak"
-LOCAL_FILE = "local_channels.txt"
-MAINTENANCE_VIDEO = "https://github.com"
-USER_AGENTS = ["VLC/3.0.18 LibVLC/3.0.18", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"]
+# Прямая ссылка на ваш "хитрый" плейлист
+SOURCE_M3U = "http://kb-team.club/?do=/plugin&bid=iptvk&box_client=ottplay-foss&m3u&box_mac=vpkhvxmdf3pu"
+USER_AGENT = "VLC/3.0.18 LibVLC/3.0.18"
 
-CHANNELS_CACHE = []
-LAST_LOAD_TIME = 0
+session = requests.Session()
 
-def get_target_headers(url):
-    parsed = urllib.parse.urlparse(url)
-    h = {
-        "User-Agent": random.choice(USER_AGENTS),
-        "Accept": "*/*",
-        "Host": parsed.netloc,
-        "Referer": f"{parsed.scheme}://{parsed.netloc}/",
-        "Connection": "keep-alive"
-    }
-    if request.headers.get('Range'):
-        h['Range'] = request.headers.get('Range')
-    return h
+def safe_encode(data): 
+    return base64.urlsafe_b64encode(data.encode()).decode().replace('=', '')
 
-def load_data():
-    global CHANNELS_CACHE, LAST_LOAD_TIME
-    if time.time() - LAST_LOAD_TIME < 20 and CHANNELS_CACHE: return
-    if os.path.exists(LOCAL_FILE):
-        try:
-            with open(LOCAL_FILE, "r", encoding="utf-8") as f:
-                content = f.read()
-                items = re.findall(r'#EXTINF:(.*?),(.*?)\n(http[^\s#]+)', content)
-                CHANNELS_CACHE = []
-                for attr_str, name, url in items:
-                    t_id = re.search(r'tvg-id="(.*?)"', attr_str)
-                    t_logo = re.search(r'tvg-logo="(.*?)"', attr_str)
-                    t_rec = re.search(r'tvg-rec="(.*?)"', attr_str)
-                    group = re.search(r'group-title="(.*?)"', attr_str)
-                    CHANNELS_CACHE.append({
-                        "name": name.strip(), "url": url.strip(),
-                        "tvg_id": t_id.group(1) if t_id else "",
-                        "tvg_logo": t_logo.group(1) if t_logo else "",
-                        "tvg_rec": t_rec.group(1) if t_rec else "0",
-                        "group": group.group(1) if group else "Общие"
-                    })
-                LAST_LOAD_TIME = time.time()
-        except: pass
-
-def safe_encode(data): return base64.urlsafe_b64encode(data.encode()).decode().replace('=', '')
 def safe_decode(data):
     try:
         data += '=' * (4 - len(data) % 4)
@@ -69,87 +32,62 @@ def safe_decode(data):
 
 @app.route('/')
 @app.route('/playlist.m3u')
-def playlist():
-    if request.args.get('k') != SECRET_KEY: return redirect(MAINTENANCE_VIDEO)
-    load_data()
-    base = request.host_url.rstrip('/')
-    m3u = ["#EXTM3U url-tvg=\"http://epg.one\""]
-    for i, ch in enumerate(CHANNELS_CACHE):
-        eid = safe_encode(str(i))
-        inf = f'#EXTINF:-1 tvg-id="{ch["tvg_id"]}" tvg-logo="{ch["tvg_logo"]}" group-title="{ch["group"]}"'
-        if ch["tvg_rec"] != "0":
-            inf += f' tvg-rec="{ch["tvg_rec"]}" catchup="append" catchup-days="7"'
-        m3u.append(f'{inf},{ch["name"]}\n{base}/s?k={SECRET_KEY}&i={eid}')
-    return Response("\n".join(m3u), mimetype='application/vnd.apple.mpegurl')
-
-@app.route('/s')
-def s():
-    if request.args.get('k') != SECRET_KEY: return "Auth Fail", 403
-    
-    eid, enc = request.args.get('i'), request.args.get('e')
-    archive_params = request.args.to_dict()
-    for k in ['k', 'i', 'e']: archive_params.pop(k, None)
-    
-    if 'lutc' in archive_params: archive_params['utc'] = archive_params['lutc']
-
-    target_url = None
-    if enc:
-        target_url = safe_decode(enc)
-    elif eid:
-        load_data()
-        try:
-            idx = int(safe_decode(eid))
-            if 0 <= idx < len(CHANNELS_CACHE): target_url = CHANNELS_CACHE[idx]["url"]
-        except: pass
-
-    if not target_url: return "Not Found", 404
-
-    if archive_params:
-        for key, val in archive_params.items():
-            if f"{key}=" not in target_url:
-                sep = '&' if '?' in target_url else '?'
-                target_url += f"{sep}{key}={val}"
+def get_playlist():
+    if request.args.get('k') != SECRET_KEY:
+        return "Auth Fail", 403
 
     try:
-        r = session.get(target_url, headers=get_target_headers(target_url), stream=True, timeout=(15, 60), verify=False, allow_redirects=True)
-        excluded = ['content-encoding', 'content-length', 'transfer-encoding', 'connection', 'server', 'set-cookie']
-        h = {k: v for k, v in r.headers.items() if k.lower() not in excluded}
-        h['Access-Control-Allow-Origin'] = '*'
-        h['Accept-Ranges'] = 'bytes'
-
-        ct = r.headers.get('Content-Type', '').lower()
-        is_m3u8 = "mpegurl" in ct or ".m3u8" in target_url.lower().split('?')[0]
-
-        if is_m3u8:
-            content = r.content.decode('utf-8', errors='ignore')
-            lines = content.splitlines()
-            new_lines = []
-            base_proxy = request.host_url.rstrip('/')
-            for line in lines:
-                line = line.strip()
-                if line and not line.startswith('#'):
-                    full_link = urllib.parse.urljoin(r.url, line)
-                    proxy_link = f"{base_proxy}/s?k={SECRET_KEY}&e={safe_encode(full_link)}"
-                    if archive_params: proxy_link += "&" + urllib.parse.urlencode(archive_params)
-                    new_lines.append(proxy_link)
-                else:
-                    new_lines.append(line)
-            return Response("\n".join(new_lines), mimetype='application/vnd.apple.mpegurl')
-
-        if 'video' not in h.get('Content-Type', '').lower():
-            h['Content-Type'] = 'video/mp2t'
-
-        def generate():
-            try:
-                for chunk in r.iter_content(chunk_size=256*1024):
-                    yield chunk
-            finally:
-                r.close()
-
-        return Response(generate(), headers=h, status=r.status_code)
-
+        # 1. Качаем плейлист от оператора (через IP сервера)
+        r = session.get(SOURCE_M3U, headers={"User-Agent": USER_AGENT}, timeout=15)
+        r.encoding = 'utf-8'
+        lines = r.text.splitlines()
+        
+        new_m3u = ["#EXTM3U"]
+        base_url = request.host_url.rstrip('/')
+        
+        current_inf = ""
+        for line in lines:
+            line = line.strip()
+            if line.startswith("#EXTINF"):
+                current_inf = line
+            elif line.startswith("http"):
+                # Кодируем ссылку, чтобы сервер прогнал её через себя
+                encoded_url = safe_encode(line)
+                proxy_link = f"{base_url}/ts?k={SECRET_KEY}&url={encoded_url}"
+                new_m3u.append(current_inf)
+                new_m3u.append(proxy_link)
+        
+        return Response("\n".join(new_m3u), mimetype='application/vnd.apple.mpegurl')
     except Exception as e:
-        return redirect(MAINTENANCE_VIDEO)
+        return str(e), 500
+
+@app.route('/ts')
+def proxy_ts():
+    if request.args.get('k') != SECRET_KEY:
+        return "Forbidden", 403
+    
+    target_url = safe_decode(request.args.get('url'))
+    if not target_url:
+        return "Missing URL", 400
+
+    # 2. Проксируем сам видеопоток
+    try:
+        headers = {"User-Agent": USER_AGENT}
+        # Передаем Range если плеер его просит (для перемотки)
+        if request.headers.get('Range'):
+            headers['Range'] = request.headers.get('Range')
+
+        # Запрашиваем видео у оператора от имени сервера
+        r = session.get(target_url, headers=headers, stream=True, timeout=20)
+        
+        def generate():
+            for chunk in r.iter_content(chunk_size=128*1024):
+                yield chunk
+        
+        # Отдаем видео клиенту
+        return Response(generate(), content_type=r.headers.get('Content-Type', 'video/mp2t'))
+    except:
+        return "Stream Error", 500
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=7860, threaded=True)
