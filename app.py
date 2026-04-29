@@ -1,10 +1,12 @@
 import os, requests, re, base64, urllib.parse, time, random
 from flask import Flask, request, Response, redirect
-from flask_cors import CORS
 
-# Авто-установка
-try: import flask_cors
-except: os.system('pip install requests flask-cors flask')
+# Авто-установка (теперь сначала ставим, потом импортируем)
+try: 
+    from flask_cors import CORS
+except: 
+    os.system('pip install requests flask-cors flask')
+    from flask_cors import CORS
 
 app = Flask(__name__)
 CORS(app)
