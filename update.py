@@ -2,7 +2,7 @@ import requests
 import time
 
 # МЫ СМЕНИЛИ КЛИЕНТА НА VLC, ЧТОБЫ ПОЛУЧИТЬ СПИСОК, А НЕ МЕНЮ
-SOURCE_URL = "https://iptv-online.cc/my/97479/E740CF16EFAA743/m3u8"
+SOURCE_URL = "https://iptv-online.cc/my/97479/FF46BB6E2C1A136/m3u8"
 FILENAME = "my_list.m3u" 
 
 def run():
