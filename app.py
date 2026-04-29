@@ -8,7 +8,12 @@ app = Flask(__name__)
 # --- НАСТРОЙКИ ---
 PROXY_DOMAIN = "videoz-arxiv.hf.space"
 LOCAL_FILE = os.path.join(os.path.dirname(__file__), "my_list.m3u")
-HEADERS = {"User-Agent": "Mozilla/5.0 VLC/3.0.18", "Accept": "*/*"}
+HEADERS = {
+    "User-Agent": "VLC/3.0.18",
+    "Referer": "https://iptv-online.cc",
+    "Accept": "*/*"
+}
+
 
 session = requests.Session()
 
