@@ -1805,14 +1805,12 @@ https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTAxMjUvQUNGODkzQjR
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTExMzkvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
 #EXTINF:-1 tvg-name="Ховаючи колишню HD" group-title="Кинозалы UA",Ховаючи колишню HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTExNDAvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Матч ТВ" tvg-logo="https://ip-tv.dev/epg/icon/match.png" group-title="Спорт",Матч ТВ
+#EXTINF:-1 tvg-name="Матч ТВ" tvg-logo="https://ip-tv.dev/epg/icon/match.png" group-title="Россия",Матч ТВ
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Матч! HD" tvg-logo="https://ip-tv.dev/epg/icon/match.png" group-title="Спорт",Матч! HD
+#EXTINF:-1 tvg-name="Матч! HD" tvg-logo="https://ip-tv.dev/epg/icon/match.png" group-title="Россия",Матч! HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMzk3L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Мяч" tvg-logo="https://ip-tv.dev/images/ico/footbolny.png" group-title="Спорт",Мяч
+#EXTINF:-1 tvg-name="Мяч" tvg-logo="https://ip-tv.dev/images/ico/footbolny.png" group-title="Россия",Мяч
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTc2My9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Живи активно HD" tvg-logo="https://ip-tv.dev/images/ico/zhivi-aktivno.png" group-title="Спорт",Живи активно HD
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTc3MS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
 #EXTINF:-1 tvg-name="Discovery Channel HD" tvg-logo="https://ip-tv.dev/epg/icon/discovery-channel.png" group-title="Познавательные",Discovery Channel HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTQ3L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
 #EXTINF:-1 tvg-name="ID Xtra HD" tvg-logo="https://ip-tv.dev/epg/icon/idxtra.png" group-title="Познавательные",ID Xtra HD
@@ -2581,17 +2579,17 @@ https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTEzNjYvQUNGODkzQjR
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTEzNjgvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
 #EXTINF:-1 tvg-name="LRT TV" group-title="Латвия",LRT TV
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTEzNjkvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="ETV" tvg-logo="https://ip-tv.dev/images/epg/6402.png?v1743757928" group-title="Эстония",ETV
+#EXTINF:-1 tvg-name="ETV" tvg-logo="https://ip-tv.dev/images/epg/6402.png?v1743757928" group-title="Латвия",ETV
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNjQwMi9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="ETV 2" tvg-logo="https://ip-tv.dev/images/epg/6403.png?v1743757937" group-title="Эстония",ETV 2
+#EXTINF:-1 tvg-name="ETV 2" tvg-logo="https://ip-tv.dev/images/epg/6403.png?v1743757937" group-title="Латвия",ETV 2
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNjQwMy9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="ETV+ HD" tvg-logo="https://ip-tv.dev/images/epg/6973.png?v1743757947" group-title="Эстония",ETV+ HD
+#EXTINF:-1 tvg-name="ETV+ HD" tvg-logo="https://ip-tv.dev/images/epg/6973.png?v1743757947" group-title="Латвия",ETV+ HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNjk3My9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Kanal 2" tvg-logo="https://ip-tv.dev/images/epg/6404.png?v1743757960" group-title="Эстония",Kanal 2
+#EXTINF:-1 tvg-name="Kanal 2" tvg-logo="https://ip-tv.dev/images/epg/6404.png?v1743757960" group-title="Латвия",Kanal 2
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNjQwNC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="TV3" tvg-logo="https://ip-tv.dev/images/epg/7000.png?v1743757992" group-title="Эстония",TV3
+#EXTINF:-1 tvg-name="TV3" tvg-logo="https://ip-tv.dev/images/epg/7000.png?v1743757992" group-title="Латвия",TV3
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNzAwMC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Duo 3" tvg-logo="https://ip-tv.dev/images/epg/51451.png?v1787989588" group-title="Эстония",Duo 3
+#EXTINF:-1 tvg-name="Duo 3" tvg-logo="https://ip-tv.dev/images/epg/51451.png?v1787989588" group-title="Латвия",Duo 3
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTE0NTEvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
 #EXTINF:-1 tvg-name="RTL HD DE" tvg-logo="https://ip-tv.dev/images/ico/de/rtl-de.png" group-title="Германия",RTL HD DE
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODAxL0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
@@ -3539,10 +3537,6 @@ https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTgzMC9BQ0Y4OTNCNEQ
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTgyOS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
 #EXTINF:-1 tvg-name="AXN White" tvg-logo="https://ip-tv.dev/images/epg/1831.png?v1744374753" group-title="SkyLink",AXN White
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTgzMS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="HRT1" tvg-logo="https://ip-tv.dev/images/ico/hrt1.png" group-title="Хорватия",HRT1
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvOTYzL0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="HRT Int." tvg-logo="https://ip-tv.dev/images/ico/hrtint.png" group-title="Хорватия",HRT Int.
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvOTY2L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
 #EXTINF:-1 tvg-name="Atv Antwerpen" tvg-logo="https://ip-tv.dev/images/ico/atv.png" group-title="BE & NL",Atv Antwerpen
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvOTYyL0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
 #EXTINF:-1 tvg-name="HLN Live" group-title="BE & NL",HLN Live
@@ -3699,37 +3693,31 @@ https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTEwMzgvQUNGODkzQjR
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTE1NTkvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
 #EXTINF:-1 tvg-name="RMC Story" group-title="BE & NL",RMC Story
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTE1NjAvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="BBC Cbeebies HD" tvg-logo="https://ip-tv.dev/images/epg/7053.png?v1788020386" group-title="UK",BBC Cbeebies HD
+#EXTINF:-1 tvg-name="BBC Cbeebies HD" tvg-logo="https://ip-tv.dev/images/epg/7053.png?v1788020386" group-title="Познавательные",BBC Cbeebies HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTE0NTcvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="BBC Three" tvg-logo="https://ip-tv.dev/images/epg/7055.png?v1788020405" group-title="UK",BBC Three
+#EXTINF:-1 tvg-name="BBC Three" tvg-logo="https://ip-tv.dev/images/epg/7055.png?v1788020405" group-title="Познавательные",BBC Three
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTE0NTgvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="BBC Two HD" tvg-logo="https://ip-tv.dev/images/epg/7057.png?v1788020425" group-title="UK",BBC Two HD
+#EXTINF:-1 tvg-name="BBC Two HD" tvg-logo="https://ip-tv.dev/images/epg/7057.png?v1788020425" group-title="Познавательные",BBC Two HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTE0NTkvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="ITV 1 HD" group-title="UK",ITV 1 HD
+#EXTINF:-1 tvg-name="ITV 1 HD" group-title="Познавательные",ITV 1 HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTE0NjAvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="E4 HD" group-title="UK",E4 HD
+#EXTINF:-1 tvg-name="E4 HD" group-title="Познавательные",E4 HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTE0NjUvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Comedy Central HD" tvg-logo="https://ip-tv.dev/images/epg/7073.png?v1788020448" group-title="UK",Comedy Central HD
+#EXTINF:-1 tvg-name="Comedy Central HD" tvg-logo="https://ip-tv.dev/images/epg/7073.png?v1788020448" group-title="Познавательные",Comedy Central HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTE0NjcvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Channel 5 HD" group-title="UK",Channel 5 HD
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTE0NjkvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="КТК" tvg-logo="https://ip-tv.dev/images/ico/ktk-kz.png" group-title="Казахстан",КТК
+#EXTINF:-1 tvg-name="КТК" tvg-logo="https://ip-tv.dev/images/ico/ktk-kz.png" group-title="Кино",КТК
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNDQ4L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="AQTOBE" tvg-logo="https://ip-tv.dev/images/ico/aqtobe.png" group-title="Казахстан",AQTOBE
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTQ0Mi9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Saryarqa" tvg-logo="https://ip-tv.dev/images/ico/saryarqa.png" group-title="Казахстан",Saryarqa
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNDYxL0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Кинобоевик" tvg-logo="https://ip-tv.dev/images/epg/1840.png?v1744724834" group-title="Казахстан",Кинобоевик
+#EXTINF:-1 tvg-name="Кинобоевик" tvg-logo="https://ip-tv.dev/images/epg/1840.png?v1744724834" group-title="Кино",Кинобоевик
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTg0MC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Мировое Кино" tvg-logo="https://ip-tv.dev/images/epg/1839.png?v1744724779" group-title="Казахстан",Мировое Кино
+#EXTINF:-1 tvg-name="Мировое Кино" tvg-logo="https://ip-tv.dev/images/epg/1839.png?v1744724779" group-title="Кино",Мировое Кино
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTgzOS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Премиум Кино" tvg-logo="https://ip-tv.dev/images/epg/1838.png?v1744724707" group-title="Казахстан",Премиум Кино
+#EXTINF:-1 tvg-name="Премиум Кино" tvg-logo="https://ip-tv.dev/images/epg/1838.png?v1744724707" group-title="Кино",Премиум Кино
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTgzOC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Семейное Кино" tvg-logo="https://ip-tv.dev/images/epg/1837.png?v1744724638" group-title="Казахстан",Семейное Кино
+#EXTINF:-1 tvg-name="Семейное Кино" tvg-logo="https://ip-tv.dev/images/epg/1837.png?v1744724638" group-title="Кино",Семейное Кино
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTgzNy9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Кинодрама" tvg-logo="https://ip-tv.dev/images/epg/1835.png?v1744724390" group-title="Казахстан",Кинодрама
+#EXTINF:-1 tvg-name="Кинодрама" tvg-logo="https://ip-tv.dev/images/epg/1835.png?v1744724390" group-title="Кино",Кинодрама
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTgzNS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Киносериал" tvg-logo="https://ip-tv.dev/images/epg/1834.png?v1744724351" group-title="Казахстан",Киносериал
+#EXTINF:-1 tvg-name="Киносериал" tvg-logo="https://ip-tv.dev/images/epg/1834.png?v1744724351" group-title="Кино",Киносериал
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTgzNC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
 #EXTINF:-1 tvg-name="CNN Türk HD" tvg-logo="https://ip-tv.dev/images/ico/cnn-turk.png" group-title="Турция",CNN Türk HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNjMwMC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
@@ -3815,13 +3803,9 @@ https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTE2NjUvQUNGODkzQjR
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTE2NjYvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
 #EXTINF:-1 tvg-name="4 Turk pop" group-title="Азербайджан",4 Turk pop
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTE2NjcvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Armenia 1" tvg-logo="https://ip-tv.dev/images/ico/h1-am.png" group-title="Армения",Armenia 1
+#EXTINF:-1 tvg-name="Armenia 1" tvg-logo="https://ip-tv.dev/images/ico/h1-am.png" group-title="Познавательные",Armenia 1
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNjM0MC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="ARTN" tvg-logo="https://ip-tv.dev/images/ico/artn-am.png" group-title="Армения",ARTN
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNjM0MS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="USArmenia" group-title="Армения",USArmenia
+#EXTINF:-1 tvg-name="USArmenia" group-title="Познавательные",USArmenia
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNjM0Mi9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="AABC" group-title="Армения",AABC
+#EXTINF:-1 tvg-name="AABC" group-title="Познавательные",AABC
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNjM0NC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="High Vision" group-title="Армения",High Vision
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNjM0NS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
