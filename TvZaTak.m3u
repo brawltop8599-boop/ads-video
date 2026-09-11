@@ -521,7 +521,7 @@ https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNjIzNi9BQ0Y4OTNCNEQ
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTE3Ny9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
 #EXTINF:-1 tvg-name="Снятин HD" group-title="Украина",Снятин HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTUwMDYvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Сонце+" group-title="Украинские",Сонце+
+#EXTINF:-1 tvg-name="Сонце+" group-title="Украина",Сонце+
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTUwMDcvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
 #EXTINF:-1 tvg-name="D1 HD (Дніпропетровщина)" group-title="Украина",D1 HD 
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTUwMDkvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
@@ -3099,18 +3099,12 @@ https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNjg2NS9BQ0Y4OTNCNEQ
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExNTIvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
 #EXTINF:-1 tvg-name="Acasa HD" group-title="Румыния",Acasa HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExNTMvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Alfa omega HD" group-title="Румыния",Alfa omega HD
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwNTIvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="AMC" group-title="Румыния",AMC
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwNTMvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
 #EXTINF:-1 tvg-name="Antena 1" group-title="Румыния",Antena 1
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExMzEvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
 #EXTINF:-1 tvg-name="Antena 3 HD RO" group-title="Румыния",Antena 3 HD RO
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExMzMvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
 #EXTINF:-1 tvg-name="Antena 3" group-title="Румыния",Antena 3
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwNTUvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Antena stars" group-title="Румыния",Antena stars
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwNTYvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
 #EXTINF:-1 tvg-name="AXN White" group-title="Румыния",AXN White
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwNTcvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
 #EXTINF:-1 tvg-name="AXN Black" group-title="Румыния",AXN Black
@@ -3267,123 +3261,103 @@ https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTAwNC9BQ0Y4OTNCNEQ
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTAwNS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
 #EXTINF:-1 tvg-name="Šláger Premium" group-title="BE & NL",Šláger Premium
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTAwOC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="HBO HU" group-title="Венгрия",HBO HU
+#EXTINF:-1 tvg-name="HBO" group-title="Венгрия",HBO
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNzUzL0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="HBO 2 HU" group-title="Венгрия",HBO 2 HU
+#EXTINF:-1 tvg-name="HBO 2" group-title="Венгрия",HBO 2
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODk1L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="HBO 3 HU" group-title="Венгрия",HBO 3 HU
+#EXTINF:-1 tvg-name="HBO 3" group-title="Венгрия",HBO 3
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODk0L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="HirTV HU" group-title="Венгрия",HirTV HU
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNzU0L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="History HU" group-title="Венгрия",History HU
+#EXTINF:-1 tvg-name="History" group-title="Венгрия",History
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNzU1L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Jocky TV HU" group-title="Венгрия",Jocky TV HU
+#EXTINF:-1 tvg-name="Jocky TV" group-title="Венгрия",Jocky TV
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNzU2L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Moziverzum HU" group-title="Венгрия",Moziverzum HU
+#EXTINF:-1 tvg-name="Moziverzum" group-title="Венгрия",Moziverzum
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNzU5L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Spektrum HU" group-title="Венгрия",Spektrum HU
+#EXTINF:-1 tvg-name="Spektrum" group-title="Венгрия",Spektrum
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNzYwL0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="ATV HU" group-title="Венгрия",ATV HU
+#EXTINF:-1 tvg-name="ATV" group-title="Венгрия",ATV
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNzY0L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="ATV Extra HU" group-title="Венгрия",ATV Extra HU
+#EXTINF:-1 tvg-name="ATV Extra" group-title="Венгрия",ATV Extra
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNzY1L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Cool HU" group-title="Венгрия",Cool HU
+#EXTINF:-1 tvg-name="Cool" group-title="Венгрия",Cool
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNzY2L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="FilmBox Stars HU" group-title="Венгрия",FilmBox Stars HU
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNzY4L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Film Cafe HU" group-title="Венгрия",Film Cafe HU
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNzcwL0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Filmbox Family  HU" group-title="Венгрия",Filmbox Family  HU
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNzcxL0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="RTL HU" group-title="Венгрия",RTL HU
+#EXTINF:-1 tvg-name="RTL" group-title="Венгрия",RTL
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNzcyL0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Spiler TV HU" group-title="Венгрия",Spiler TV HU
+#EXTINF:-1 tvg-name="Spiler TV" group-title="Венгрия",Spiler TV
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNzczL0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="TV2 HU" group-title="Венгрия",TV2 HU
+#EXTINF:-1 tvg-name="TV2" group-title="Венгрия",TV2
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNzc1L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Viasat Nature HU" group-title="Венгрия",Viasat Nature HU
+#EXTINF:-1 tvg-name="Viasat Nature" group-title="Венгрия",Viasat Nature
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNzc2L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Minimax HU" group-title="Венгрия",Minimax HU
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNzc3L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Nicktoons HU" group-title="Венгрия",Nicktoons HU
+#EXTINF:-1 tvg-name="Nicktoons" group-title="Венгрия",Nicktoons
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNzc4L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Nickelodeon HU" group-title="Венгрия",Nickelodeon HU
+#EXTINF:-1 tvg-name="Nickelodeon" group-title="Венгрия",Nickelodeon
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNzc5L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="SuperTV2 HU" group-title="Венгрия",SuperTV2 HU
+#EXTINF:-1 tvg-name="SuperTV2" group-title="Венгрия",SuperTV2
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNzgwL0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Direct One HU" group-title="Венгрия",Direct One HU
+#EXTINF:-1 tvg-name="Direct One" group-title="Венгрия",Direct One
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNzgxL0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Izaura TV HU" group-title="Венгрия",Izaura TV HU
+#EXTINF:-1 tvg-name="Izaura TV" group-title="Венгрия",Izaura TV
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNzgyL0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Muzsika TV HU" group-title="Венгрия",Muzsika TV HU
+#EXTINF:-1 tvg-name="Muzsika TV" group-title="Венгрия",Muzsika TV
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNzgzL0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Sorozat+ HU" group-title="Венгрия",Sorozat+ HU
+#EXTINF:-1 tvg-name="Sorozat+" group-title="Венгрия",Sorozat+
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNzg3L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="RTL GOLD HU" group-title="Венгрия",RTL GOLD HU
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNzg5L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="RTL KETTO HU" group-title="Венгрия",RTL KETTO HU
+#EXTINF:-1 tvg-name="RTL KETTO" group-title="Венгрия",RTL KETTO
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNzkwL0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="RTL HAROM HU" group-title="Венгрия",RTL HAROM HU
+#EXTINF:-1 tvg-name="RTL HAROM" group-title="Венгрия",RTL HAROM
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNzkxL0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Cinemax2 HU" group-title="Венгрия",Cinemax2 HU
+#EXTINF:-1 tvg-name="Cinemax2" group-title="Венгрия",Cinemax2
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNzk0L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="BBC Earth HU" group-title="Венгрия",BBC Earth HU
+#EXTINF:-1 tvg-name="BBC Earth" group-title="Венгрия",BBC Earth
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNzk1L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Slager TV HU" group-title="Венгрия",Slager TV HU
+#EXTINF:-1 tvg-name="Slager TV" group-title="Венгрия",Slager TV
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNzk4L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Film Mania HU" group-title="Венгрия",Film Mania HU
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNzk5L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="FilmBox Extra HD HU" group-title="Венгрия",FilmBox Extra HD HU
+#EXTINF:-1 tvg-name="FilmBox Extra HD" group-title="Венгрия",FilmBox Extra HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODAwL0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Viasat Explore HD HU" group-title="Венгрия",Viasat Explore HD HU
+#EXTINF:-1 tvg-name="Viasat Explore HD" group-title="Венгрия",Viasat Explore HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvOTAxL0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Viasat History HU" group-title="Венгрия",Viasat History HU
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvOTAyL0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Life TV HU" group-title="Венгрия",Life TV HU
+#EXTINF:-1 tvg-name="Life TV" group-title="Венгрия",Life TV
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvOTAzL0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Animal Planet HU" group-title="Венгрия",Animal Planet HU
+#EXTINF:-1 tvg-name="Animal Planet" group-title="Венгрия",Animal Planet
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODgwL0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Discovery HU" group-title="Венгрия",Discovery HU
+#EXTINF:-1 tvg-name="Discovery" group-title="Венгрия",Discovery
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODg0L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="ID Investigation Discovery HU" group-title="Венгрия",ID Investigation Discovery HU
+#EXTINF:-1 tvg-name="ID Investigation Discovery" group-title="Венгрия",ID Investigation Discovery
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODg1L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Nat Geo Wild HU" group-title="Венгрия",Nat Geo Wild HU
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvOTAwL0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Dikh TV HU" group-title="Венгрия",Dikh TV HU
+#EXTINF:-1 tvg-name="Dikh TV" group-title="Венгрия",Dikh TV
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODgxL0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Spektrum Home HU" group-title="Венгрия",Spektrum Home HU
+#EXTINF:-1 tvg-name="Spektrum Home" group-title="Венгрия",Spektrum Home
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODg2L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Arena4 HU" group-title="Венгрия",Arena4 HU
+#EXTINF:-1 tvg-name="Arena4" group-title="Венгрия",Arena4
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODg3L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="HGTV HD HU" tvg-logo="https://ip-tv.dev/images/epg/3487.png?v1789121010" group-title="Венгрия",HGTV HD HU
+#EXTINF:-1 tvg-name="HGTV HD" tvg-logo="https://ip-tv.dev/images/epg/3487.png?v1789121010" group-title="Венгрия",HGTV HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODg4L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Cartoon Network HU" group-title="Венгрия",Cartoon Network HU
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODg5L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Duna HU" group-title="Венгрия",Duna HU
+#EXTINF:-1 tvg-name="Duna" group-title="Венгрия",Duna
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODkwL0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="M4 HU" group-title="Венгрия",M4 HU
+#EXTINF:-1 tvg-name="M4" group-title="Венгрия",M4
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODkxL0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Love Nature HD HU" group-title="Венгрия",Love Nature HD HU
+#EXTINF:-1 tvg-name="Love Nature HD" group-title="Венгрия",Love Nature HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODk2L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Film+ HU" group-title="Венгрия",Film+ HU
+#EXTINF:-1 tvg-name="Film+" group-title="Венгрия",Film+
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODkyL0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Magyar ATV HU" group-title="Венгрия",Magyar ATV HU
+#EXTINF:-1 tvg-name="Magyar ATV" group-title="Венгрия",Magyar ATV
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODk3L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Magyar Mozi TV HU" group-title="Венгрия",Magyar Mozi TV HU
+#EXTINF:-1 tvg-name="Magyar Mozi TV" group-title="Венгрия",Magyar Mozi TV
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODk4L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Mozi+ HU" group-title="Венгрия",Mozi+ HU
+#EXTINF:-1 tvg-name="Mozi+" group-title="Венгрия",Mozi+
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODk5L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Duna World / M4 Sport+ HU" group-title="Венгрия",Duna World / M4 Sport+ HU
+#EXTINF:-1 tvg-name="Duna World / M4 Sport+" group-title="Венгрия",Duna World / M4 Sport+
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNzY3L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Sport 1 HU" group-title="Венгрия",Sport 1 HU
+#EXTINF:-1 tvg-name="Sport 1" group-title="Венгрия",Sport 1
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNzYyL0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Sport 2 HU" group-title="Венгрия",Sport 2 HU
+#EXTINF:-1 tvg-name="Sport 2" group-title="Венгрия",Sport 2
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNzc0L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Spiler 2 HU" group-title="Венгрия",Spiler 2 HU
+#EXTINF:-1 tvg-name="Spiler 2" group-title="Венгрия",Spiler 2
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNzYxL0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="m1 HU" group-title="Венгрия",m1 HU
+#EXTINF:-1 tvg-name="m1" group-title="Венгрия",m1
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNzU3L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="m2 Petofi HU" group-title="Венгрия",m2 Petofi HU
+#EXTINF:-1 tvg-name="m2 Petofi" group-title="Венгрия",m2 Petofi
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNzU4L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
 #EXTINF:-1 tvg-name="AMC" tvg-logo="https://ip-tv.dev/images/epg/1828.png?v1744374468" group-title="BE & NL",AMC
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTgyOC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
