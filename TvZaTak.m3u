@@ -2385,49 +2385,41 @@ https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTExMzcvQUNGODkzQjR
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTExMzgvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
 #EXTINF:-1 tvg-name="Blues TV" group-title="Музыкальные",Blues TV
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTE2NjMvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Беларусь 1" tvg-logo="https://ip-tv.dev/epg/icon/belarus1.png" group-title="Беларусь",Беларусь 1
+#EXTINF:-1 tvg-name="Беларусь 1" tvg-logo="https://ip-tv.dev/epg/icon/belarus1.png" group-title="Разное",Беларусь 1
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTQ2MC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Беларусь 2" tvg-logo="https://ip-tv.dev/epg/icon/belarus2.png" group-title="Беларусь",Беларусь 2
+#EXTINF:-1 tvg-name="Беларусь 2" tvg-logo="https://ip-tv.dev/epg/icon/belarus2.png" group-title="Разное",Беларусь 2
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTQ2NS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Беларусь 3" tvg-logo="https://ip-tv.dev/epg/icon/belarus3.png" group-title="Беларусь",Беларусь 3
+#EXTINF:-1 tvg-name="Беларусь 3" tvg-logo="https://ip-tv.dev/epg/icon/belarus3.png" group-title="Разное",Беларусь 3
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTQ2Ni9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Беларусь 4 Витебск" tvg-logo="https://ip-tv.dev/images/ico/belarus4.png" group-title="Беларусь",Беларусь 4 Витебск
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTQ2NzcvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Беларусь 5" tvg-logo="https://ip-tv.dev/epg/icon/belarus5.png" group-title="Беларусь",Беларусь 5
+#EXTINF:-1 tvg-name="Беларусь 5" tvg-logo="https://ip-tv.dev/epg/icon/belarus5.png" group-title="Разное",Беларусь 5
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTQ2Ny9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="БелРос HD" tvg-logo="https://ip-tv.dev/images/ico/belros.png" group-title="Беларусь",БелРос HD
+#EXTINF:-1 tvg-name="БелРос HD" tvg-logo="https://ip-tv.dev/images/ico/belros.png" group-title="Разное",БелРос HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNjA3L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Беларусь 24" tvg-logo="https://ip-tv.dev/epg/icon/belarus24.png" group-title="Беларусь",Беларусь 24
+#EXTINF:-1 tvg-name="Беларусь 24" tvg-logo="https://ip-tv.dev/epg/icon/belarus24.png" group-title="Разное",Беларусь 24
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMzQxL0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="РТР HD" tvg-logo="https://ip-tv.dev/epg/icon/rtr-belarus.png" group-title="Беларусь",РТР HD
+#EXTINF:-1 tvg-name="РТР HD" tvg-logo="https://ip-tv.dev/epg/icon/rtr-belarus.png" group-title="Разное",РТР HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMzc4OS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="СТВ" tvg-logo="https://ip-tv.dev/epg/icon/stv-by.png" group-title="Беларусь",СТВ
+#EXTINF:-1 tvg-name="СТВ" tvg-logo="https://ip-tv.dev/epg/icon/stv-by.png" group-title="Разное",СТВ
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTQ2Mi9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="ОНТ" tvg-logo="https://ip-tv.dev/images/epg/207.png?v1787999192" group-title="Беларусь",ОНТ
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTQ2MS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="8 канал Беларусь" tvg-logo="https://ip-tv.dev/images/epg/7017.png?v1788020071" group-title="Беларусь",8 канал Беларусь
+#EXTINF:-1 tvg-name="8 канал Беларусь" tvg-logo="https://ip-tv.dev/images/epg/7017.png?v1788020071" group-title="Разное",8 канал Беларусь
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTE0MzkvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="НТВ Беларусь" tvg-logo="https://ip-tv.dev/images/epg/7019.png?v1788020097" group-title="Беларусь",НТВ Беларусь
+#EXTINF:-1 tvg-name="НТВ Беларусь" tvg-logo="https://ip-tv.dev/images/epg/7019.png?v1788020097" group-title="Разное",НТВ Беларусь
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTE0NDAvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Мир Беларусь HD" group-title="Беларусь",Мир Беларусь HD
+#EXTINF:-1 tvg-name="Мир Беларусь HD" group-title="Разное",Мир Беларусь HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTE0NDEvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="ТВ3 Беларусь" tvg-logo="https://ip-tv.dev/images/epg/7023.png?v1788020169" group-title="Беларусь",ТВ3 Беларусь
+#EXTINF:-1 tvg-name="ТВ3 Беларусь" tvg-logo="https://ip-tv.dev/images/epg/7023.png?v1788020169" group-title="Разное",ТВ3 Беларусь
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTE0NDIvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Звязда" tvg-logo="https://ip-tv.dev/images/epg/7025.png?v1788020189" group-title="Беларусь",Звязда
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTE0NDMvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="СкиФ Витебск" tvg-logo="https://ip-tv.dev/images/epg/7027.png?v1788020212" group-title="Беларусь",СкиФ Витебск
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTE0NDQvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Яснае ТВ HD" tvg-logo="https://ip-tv.dev/images/epg/7029.png?v1788020235" group-title="Беларусь",Яснае ТВ HD
+#EXTINF:-1 tvg-name="Яснае ТВ HD" tvg-logo="https://ip-tv.dev/images/epg/7029.png?v1788020235" group-title="Разное",Яснае ТВ HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTE0NDUvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="+TV" group-title="Беларусь",+TV
+#EXTINF:-1 tvg-name="+TV" group-title="Разное",+TV
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTE0NDYvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Витебск" tvg-logo="https://ip-tv.dev/images/epg/7033.png?v1788020268" group-title="Беларусь",Витебск
+#EXTINF:-1 tvg-name="Витебск" tvg-logo="https://ip-tv.dev/images/epg/7033.png?v1788020268" group-title="Разное",Витебск
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTE0NDcvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Первый Информационный HD" tvg-logo="https://ip-tv.dev/images/epg/7035.png?v1788020293" group-title="Беларусь",Первый Информационный HD
+#EXTINF:-1 tvg-name="Первый Информационный HD" tvg-logo="https://ip-tv.dev/images/epg/7035.png?v1788020293" group-title="Разное",Первый Информационный HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTE0NDgvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Центр BY" group-title="Беларусь",Центр BY
+#EXTINF:-1 tvg-name="Центр BY" group-title="Разное",Центр BY
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTE0NDkvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="RU.TV" tvg-logo="https://ip-tv.dev/images/epg/7039.png?v1788020323" group-title="Беларусь",RU.TV
+#EXTINF:-1 tvg-name="RU.TV" tvg-logo="https://ip-tv.dev/images/epg/7039.png?v1788020323" group-title="Разное",RU.TV
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTE0NTAvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
 #EXTINF:-1 tvg-name="TV1 HD" tvg-logo="https://ip-tv.dev/images/ico/tv1-lt.png" group-title="Литва",TV1 HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODc1L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
@@ -2839,27 +2831,25 @@ https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTEyODYvQUNGODkzQjR
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTEyMjcvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
 #EXTINF:-1 tvg-name="FOMO" group-title="Израиль",FOMO
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTEzOTYvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="RAI 1 HD" group-title="Италия",RAI 1 HD
+#EXTINF:-1 tvg-name="RAI 1 HD" group-title="BE & NL",RAI 1 HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMjAxMC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="RAI 2 HD" group-title="Италия",RAI 2 HD
+#EXTINF:-1 tvg-name="RAI 2 HD" group-title="BE & NL",RAI 2 HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMjAxMS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="RAI 3 HD" group-title="Италия",RAI 3 HD
+#EXTINF:-1 tvg-name="RAI 3 HD" group-title="BE & NL",RAI 3 HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMjAxMi9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="RAI 4 HD" group-title="Италия",RAI 4 HD
+#EXTINF:-1 tvg-name="RAI 4 HD" group-title="BE & NL",RAI 4 HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMjAxMy9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="RAI 5 HD" group-title="Италия",RAI 5 HD
+#EXTINF:-1 tvg-name="RAI 5 HD" group-title="BE & NL",RAI 5 HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMjAxNS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="RAI Gulp HD" group-title="Италия",RAI Gulp HD
+#EXTINF:-1 tvg-name="RAI Gulp HD" group-title="BE & NL",RAI Gulp HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMjAxNi9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="RAI News 24 HD" group-title="Италия",RAI News 24 HD
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMjAxNy9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="RAI YOYO HD" group-title="Италия",RAI YOYO HD
+#EXTINF:-1 tvg-name="RAI YOYO HD" group-title="BE & NL",RAI YOYO HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMjAxOS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="RAI Storia HD" group-title="Италия",RAI Storia HD
+#EXTINF:-1 tvg-name="RAI Storia HD" group-title="BE & NL",RAI Storia HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMjAxOC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="RAI Movie HD" group-title="Италия",RAI Movie HD
+#EXTINF:-1 tvg-name="RAI Movie HD" group-title="BE & NL",RAI Movie HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMjAyMC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="RAI Scuola HD" group-title="Италия",RAI Scuola HD
+#EXTINF:-1 tvg-name="RAI Scuola HD" group-title="BE & NL",RAI Scuola HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMjAyMS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
 #EXTINF:-1 tvg-name="Polsat HD" tvg-logo="https://ip-tv.dev/images/ico/polsat.png" group-title="Польша",Polsat HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTQ4OS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
