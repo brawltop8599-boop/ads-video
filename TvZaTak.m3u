@@ -2785,25 +2785,25 @@ https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNDc4L0FDRjg5M0I0RDZ
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNjk0Ni9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
 #EXTINF:-1 tvg-name="Kan 11 HD" tvg-logo="https://ip-tv.dev/images/ico/11kd.png" group-title="Израиль",Kan 11 HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNjkxNy9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="RAI 1 HD" group-title="BE & NL",RAI 1 HD
+#EXTINF:-1 tvg-name="RAI 1 HD" group-title="BE&RO&NL",RAI 1 HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMjAxMC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="RAI 2 HD" group-title="BE & NL",RAI 2 HD
+#EXTINF:-1 tvg-name="RAI 2 HD" group-title="BE&RO&NL",RAI 2 HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMjAxMS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="RAI 3 HD" group-title="BE & NL",RAI 3 HD
+#EXTINF:-1 tvg-name="RAI 3 HD" group-title="BE&RO&NL",RAI 3 HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMjAxMi9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="RAI 4 HD" group-title="BE & NL",RAI 4 HD
+#EXTINF:-1 tvg-name="RAI 4 HD" group-title="BE&RO&NL",RAI 4 HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMjAxMy9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="RAI 5 HD" group-title="BE & NL",RAI 5 HD
+#EXTINF:-1 tvg-name="RAI 5 HD" group-title="BE&RO&NL",RAI 5 HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMjAxNS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="RAI Gulp HD" group-title="BE & NL",RAI Gulp HD
+#EXTINF:-1 tvg-name="RAI Gulp HD" group-title="BE&RO&NL",RAI Gulp HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMjAxNi9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="RAI YOYO HD" group-title="BE & NL",RAI YOYO HD
+#EXTINF:-1 tvg-name="RAI YOYO HD" group-title="BE&RO&NL",RAI YOYO HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMjAxOS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="RAI Storia HD" group-title="BE & NL",RAI Storia HD
+#EXTINF:-1 tvg-name="RAI Storia HD" group-title="BE&RO&NL",RAI Storia HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMjAxOC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="RAI Movie HD" group-title="BE & NL",RAI Movie HD
+#EXTINF:-1 tvg-name="RAI Movie HD" group-title="BE&RO&NL",RAI Movie HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMjAyMC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="RAI Scuola HD" group-title="BE & NL",RAI Scuola HD
+#EXTINF:-1 tvg-name="RAI Scuola HD" group-title="BE&RO&NL",RAI Scuola HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMjAyMS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
 #EXTINF:-1 tvg-name="Polsat HD" tvg-logo="https://ip-tv.dev/images/ico/polsat.png" group-title="Польша",Polsat HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTQ4OS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
@@ -3095,171 +3095,69 @@ https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNjg2My9BQ0Y4OTNCNEQ
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNjg2NC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
 #EXTINF:-1 tvg-name="Magic TV" tvg-logo="https://ip-tv.dev/images/ico/magicbg.png" group-title="Болгария",Magic TV
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNjg2NS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA 
-#EXTINF:-1 tvg-name="Acasa Gold" group-title="Румыния",Acasa Gold
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExNTIvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Acasa HD" group-title="Румыния",Acasa HD
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExNTMvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Antena 1" group-title="Румыния",Antena 1
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExMzEvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Antena 3 HD RO" group-title="Румыния",Antena 3 HD RO
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExMzMvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Antena 3" group-title="Румыния",Antena 3
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwNTUvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="AXN White" group-title="Румыния",AXN White
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwNTcvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="AXN Black" group-title="Румыния",AXN Black
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwOTAvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="AXN HD" group-title="Румыния",AXN HD
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExNTAvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="AXN Spin" group-title="Румыния",AXN Spin
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExNTEvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Bolywood" group-title="Румыния",Bolywood
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwNTkvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="TV 1000" group-title="Румыния",TV 1000
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExNzAvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Bucuresti TV HD" group-title="Румыния",Bucuresti TV HD
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwNjEvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Kanal D HD RO" group-title="Румыния",Kanal D HD RO
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExMzUvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Kanal D" group-title="Румыния",Kanal D
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwNjIvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="CBS Reality" group-title="Румыния",CBS Reality
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwNjQvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Credo TV" group-title="Румыния",Credo TV
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwNjYvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Digi24" group-title="Румыния",Digi24
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwNzIvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Discovery" group-title="Румыния",Discovery
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwNzMvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Discovery Science HD RO" group-title="Румыния",Discovery Science HD RO
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExNDYvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Discovery Science" group-title="Румыния",Discovery Science
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwNzQvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Disney channel" group-title="Румыния",Disney channel
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwNzUvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Disney Junior" group-title="Румыния",Disney Junior
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwNzYvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Cartoonito" group-title="Румыния",Cartoonito
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExNzYvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Cartoon Network" group-title="Румыния",Cartoon Network
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwNjMvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="DTX HD" group-title="Румыния",DTX HD
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwNzgvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Duck" group-title="Румыния",Duck
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwNzkvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="E! Entertainment HD RO" group-title="Румыния",E! Entertainment HD RO
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExNDkvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Etho" group-title="Румыния",Etho
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwODAvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Epic Drama HD" group-title="Румыния",Epic Drama HD
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExNjMvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Emi HD" group-title="Румыния",Emi HD
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExNjQvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Eurosport HD" group-title="Румыния",Eurosport HD
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwODMvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Film Cafe" group-title="Румыния",Film Cafe
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwODQvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Fishing&Hunting RO" group-title="Румыния",Fishing&Hunting RO
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNzk3L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Filmbox Prem" group-title="Румыния",Filmbox Prem
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwODcvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Happy Channel" group-title="Румыния",Happy Channel
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwODgvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="HBO AXN" group-title="Румыния",HBO AXN
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwODkvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="HBO HD" group-title="Румыния",HBO HD
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwOTEvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="HBO2" group-title="Румыния",HBO2
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwOTIvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="HBO3" group-title="Румыния",HBO3
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwOTMvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="IDXtra HD" group-title="Румыния",IDXtra HD
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwOTQvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="CBS Reality RO" group-title="Румыния",CBS Reality RO
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExNDAvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="CineMax 2 RO" group-title="Румыния",CineMax 2 RO
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExNDMvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Kiss" group-title="Румыния",Kiss
+#EXTINF:-1 tvg-name="Kiss" group-title="BE&RO&NL",Kiss
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwOTcvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Minimax" group-title="Румыния",Minimax
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExMDIvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Mooz Dance HD" group-title="Румыния",Mooz Dance HD
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExMDMvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Music Channel" group-title="Румыния",Music Channel
+#EXTINF:-1 tvg-name="Music Channel" group-title="BE&RO&NL",Music Channel
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExMDQvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="N24" group-title="Румыния",N24
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExMDUvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="National Geographic" group-title="Румыния",National Geographic
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExMDYvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Nat Geo Willd HD" group-title="Румыния",Nat Geo Willd HD
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExNjYvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="National TV" group-title="Румыния",National TV
+#EXTINF:-1 tvg-name="Acasa Gold" group-title="BE&RO&NL",Acasa Gold
+https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExNTIvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
+#EXTINF:-1 tvg-name="Acasa HD" group-title="BE&RO&NL",Acasa HD
+https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExNTMvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
+#EXTINF:-1 tvg-name="Antena 1" group-title="BE&RO&NL",Antena 1
+https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExMzEvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
+#EXTINF:-1 tvg-name="Antena 3 HD RO" group-title="BE&RO&NL",Antena 3 HD RO
+https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExMzMvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
+#EXTINF:-1 tvg-name="Antena 3" group-title="BE&RO&NL",Antena 3
+https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwNTUvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
+#EXTINF:-1 tvg-name="AXN White" group-title="BE&RO&NL",AXN White
+https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwNTcvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
+#EXTINF:-1 tvg-name="AXN Black" group-title="BE&RO&NL",AXN Black
+https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwOTAvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
+#EXTINF:-1 tvg-name="AXN Spin" group-title="BE&RO&NL",AXN Spin
+https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExNTEvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
+#EXTINF:-1 tvg-name="Kanal D" group-title="BE&RO&NL",Kanal D
+https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwNjIvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
+#EXTINF:-1 tvg-name="Digi24" group-title="BE&RO&NL",Digi24
+https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwNzIvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
+#EXTINF:-1 tvg-name="Disney Junior" group-title="BE&RO&NL",Disney Junior
+https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwNzYvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
+#EXTINF:-1 tvg-name="Cartoon Network" group-title="BE&RO&NL",Cartoon Network
+https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwNjMvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
+#EXTINF:-1 tvg-name="Etho" group-title="BE&RO&NL",Etho
+https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwODAvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
+#EXTINF:-1 tvg-name="Epic Drama HD" group-title="BE&RO&NL",Epic Drama HD
+https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExNjMvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
+#EXTINF:-1 tvg-name="Eurosport HD" group-title="BE&RO&NL",Eurosport HD
+https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwODMvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
+#EXTINF:-1 tvg-name="Fishing&Hunting RO" group-title="BE&RO&NL",Fishing&Hunting
+https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNzk3L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
+#EXTINF:-1 tvg-name="National TV" group-title="BE&RO&NL",National TV
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExMDcvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="National 24 Plus" group-title="Румыния",National 24 Plus
+#EXTINF:-1 tvg-name="National 24 Plus" group-title="BE&RO&NL",National 24 Plus
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExNjcvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Jim Jam Ro" group-title="Румыния",Jim Jam Ro
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwOTUvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Nickelodeon" group-title="Румыния",Nickelodeon
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExMDkvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Prima TV RO" group-title="Румыния",Prima TV RO
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExNDgvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Pro Cinema HD" group-title="Румыния",Pro Cinema HD
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExODEvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="ProTV" group-title="Румыния",ProTV
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExMTMvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="ProTV HD" group-title="Румыния",ProTV HD
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExMTQvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="ProTV International" group-title="Румыния",ProTV International
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExMTUvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="ProX" group-title="Румыния",ProX
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExMTYvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Realitatea+" group-title="Румыния",Realitatea+
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExMTcvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Romania TV" group-title="Румыния",Romania TV
+#EXTINF:-1 tvg-name="Romania TV" group-title="BE&RO&NL",Romania TV
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExMTgvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Speranta" group-title="Румыния",Speranta
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExMTkvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Tataf" group-title="Румыния",Tataf
+#EXTINF:-1 tvg-name="Tataf" group-title="BE&RO&NL",Tataf
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExMjAvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="TLC HD" group-title="Румыния",TLC HD
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExMjEvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Telestar 1" group-title="Румыния",Telestar 1
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExMjIvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="TFavorit" group-title="Румыния",TFavorit
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExMjMvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Travel mix HD" group-title="Румыния",Travel mix HD
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExMjQvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="TV paprika" group-title="Румыния",TV paprika
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExMjYvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="TVR1 HD" group-title="Румыния",TVR1 HD
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExMjcvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="TVR2" group-title="Румыния",TVR2
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExMjgvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="TVR3" group-title="Румыния",TVR3
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExMjkvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="TVR Iasi" group-title="Румыния",TVR Iasi
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExODgvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="ZU" group-title="Румыния",ZU
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExMzAvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Warner TV HD" group-title="Румыния",Warner TV HD
+#EXTINF:-1 tvg-name="Warner TV HD" group-title="BE&RO&NL",Warner TV HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTExNTkvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Kontra HD" group-title="BE & NL",Kontra HD
+#EXTINF:-1 tvg-name="Kontra HD" group-title="BE&RO&NL",Kontra HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTkwMy9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Alpha GR" tvg-logo="https://ip-tv.dev/images/ico/alpha-gr.png" group-title="BE & NL",Alpha GR
+#EXTINF:-1 tvg-name="Alpha GR" tvg-logo="https://ip-tv.dev/images/ico/alpha-gr.png" group-title="BE&RO&NL",Alpha GR
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTg5Mi9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Ant 1 GR" tvg-logo="https://ip-tv.dev/images/ico/ant1-gr.png" group-title="BE & NL",Ant 1 GR
+#EXTINF:-1 tvg-name="Ant 1 GR" tvg-logo="https://ip-tv.dev/images/ico/ant1-gr.png" group-title="BE&RO&NL",Ant 1 GR
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTkxOS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Nea TV" tvg-logo="https://ip-tv.dev/images/ico/mega-gr.png" group-title="BE & NL",Nea TV
+#EXTINF:-1 tvg-name="Nea TV" tvg-logo="https://ip-tv.dev/images/ico/mega-gr.png" group-title="BE&RO&NL",Nea TV
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTkyMi9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Montreal Greek TV" tvg-logo="https://ip-tv.dev/images/ico/tv-xalastra-tv.png" group-title="BE & NL",Montreal Greek TV
+#EXTINF:-1 tvg-name="Montreal Greek TV" tvg-logo="https://ip-tv.dev/images/ico/tv-xalastra-tv.png" group-title="BE&RO&NL",Montreal Greek TV
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTQ0MS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Polar HD" group-title="BE & NL",Polar HD
+#EXTINF:-1 tvg-name="Polar HD" group-title="BE&RO&NL",Polar HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTAwMi9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Jihočeská televize" group-title="BE & NL",Jihočeská televize
+#EXTINF:-1 tvg-name="Jihočeská televize" group-title="BE&RO&NL",Jihočeská televize
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTAwNC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Retro Music Television" group-title="BE & NL",Retro Music Television
+#EXTINF:-1 tvg-name="Retro Music Television" group-title="BE&RO&NL",Retro Music Television
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTAwNS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Šláger Premium" group-title="BE & NL",Šláger Premium
+#EXTINF:-1 tvg-name="Šláger Premium" group-title="BE&RO&NL",Šláger Premium
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTAwOC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
 #EXTINF:-1 tvg-name="HBO" group-title="Венгрия",HBO
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNzUzL0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
@@ -3359,169 +3257,169 @@ https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNzYxL0FDRjg5M0I0RDZ
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNzU3L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
 #EXTINF:-1 tvg-name="m2 Petofi" group-title="Венгрия",m2 Petofi
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNzU4L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="AMC" tvg-logo="https://ip-tv.dev/images/epg/1828.png?v1744374468" group-title="BE & NL",AMC
+#EXTINF:-1 tvg-name="AMC" tvg-logo="https://ip-tv.dev/images/epg/1828.png?v1744374468" group-title="BE&RO&NL",AMC
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTgyOC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="AXN" tvg-logo="https://ip-tv.dev/images/epg/1830.png?v1744374646" group-title="BE & NL",AXN
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://ip-tv.dev/images/epg/1830.png?v1744374646" group-title="BE&RO&NL",AXN
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTgzMC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="AXN Black" tvg-logo="https://ip-tv.dev/images/epg/1829.png?v1744374594" group-title="BE & NL",AXN Black
+#EXTINF:-1 tvg-name="AXN Black" tvg-logo="https://ip-tv.dev/images/epg/1829.png?v1744374594" group-title="BE&RO&NL",AXN Black
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTgyOS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="AXN White" tvg-logo="https://ip-tv.dev/images/epg/1831.png?v1744374753" group-title="BE & NL",AXN White
+#EXTINF:-1 tvg-name="AXN White" tvg-logo="https://ip-tv.dev/images/epg/1831.png?v1744374753" group-title="BE&RO&NL",AXN White
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTgzMS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Atv Antwerpen" tvg-logo="https://ip-tv.dev/images/ico/atv.png" group-title="BE & NL",Atv Antwerpen
+#EXTINF:-1 tvg-name="Atv Antwerpen" tvg-logo="https://ip-tv.dev/images/ico/atv.png" group-title="BE&RO&NL",Atv Antwerpen
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvOTYyL0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="HLN Live" group-title="BE & NL",HLN Live
+#EXTINF:-1 tvg-name="HLN Live" group-title="BE&RO&NL",HLN Live
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTEwODgvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Eclips TV" group-title="BE & NL",Eclips TV
+#EXTINF:-1 tvg-name="Eclips TV" group-title="BE&RO&NL",Eclips TV
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODAwMS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Ketnet" group-title="BE & NL",Ketnet
+#EXTINF:-1 tvg-name="Ketnet" group-title="BE&RO&NL",Ketnet
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODAwMi9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Ment Pop" group-title="BE & NL",Ment Pop
+#EXTINF:-1 tvg-name="Ment Pop" group-title="BE&RO&NL",Ment Pop
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODAwMy9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="VTM HD" group-title="BE & NL",VTM HD
+#EXTINF:-1 tvg-name="VTM HD" group-title="BE&RO&NL",VTM HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODAxMy9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="VTM 2 HD" group-title="BE & NL",VTM 2 HD
+#EXTINF:-1 tvg-name="VTM 2 HD" group-title="BE&RO&NL",VTM 2 HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODAwOS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="VTM 3" group-title="BE & NL",VTM 3
+#EXTINF:-1 tvg-name="VTM 3" group-title="BE&RO&NL",VTM 3
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODAxMC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="VTM 4" group-title="BE & NL",VTM 4
+#EXTINF:-1 tvg-name="VTM 4" group-title="BE&RO&NL",VTM 4
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODAxMS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="VTM Gold" group-title="BE & NL",VTM Gold
+#EXTINF:-1 tvg-name="VTM Gold" group-title="BE&RO&NL",VTM Gold
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODAxMi9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="VTM Series" group-title="BE & NL",VTM Series
+#EXTINF:-1 tvg-name="VTM Series" group-title="BE&RO&NL",VTM Series
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODAzNi9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="A1 TV" group-title="BE & NL",A1 TV
+#EXTINF:-1 tvg-name="A1 TV" group-title="BE&RO&NL",A1 TV
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODAxNS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="BEATTV" group-title="BE & NL",BEATTV
+#EXTINF:-1 tvg-name="BEATTV" group-title="BE&RO&NL",BEATTV
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODAxNy9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="BNR Nieuwsradio" group-title="BE & NL",BNR Nieuwsradio
+#EXTINF:-1 tvg-name="BNR Nieuwsradio" group-title="BE&RO&NL",BNR Nieuwsradio
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODAxOS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="BR6 TV" group-title="BE & NL",BR6 TV
+#EXTINF:-1 tvg-name="BR6 TV" group-title="BE&RO&NL",BR6 TV
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODAyMC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="BX1" group-title="BE & NL",BX1
+#EXTINF:-1 tvg-name="BX1" group-title="BE&RO&NL",BX1
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODAyMS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="192 TV NL" group-title="BE & NL",192 TV NL
+#EXTINF:-1 tvg-name="192 TV NL" group-title="BE&RO&NL",192 TV NL
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTg5My9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="24Kitchen" group-title="BE & NL",24Kitchen
+#EXTINF:-1 tvg-name="24Kitchen" group-title="BE&RO&NL",24Kitchen
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODAzMC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="BBC First" group-title="BE & NL",BBC First
+#EXTINF:-1 tvg-name="BBC First" group-title="BE&RO&NL",BBC First
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODAzMS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="CANAL+ Action" group-title="BE & NL",CANAL+ Action
+#EXTINF:-1 tvg-name="CANAL+ Action" group-title="BE&RO&NL",CANAL+ Action
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODAzMi9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Disney Channel" group-title="BE & NL",Disney Channel
+#EXTINF:-1 tvg-name="Disney Channel" group-title="BE&RO&NL",Disney Channel
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODAzNC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Film1 Action" group-title="BE & NL",Film1 Action
+#EXTINF:-1 tvg-name="Film1 Action" group-title="BE&RO&NL",Film1 Action
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODAzNy9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Film1 Drama" group-title="BE & NL",Film1 Drama
+#EXTINF:-1 tvg-name="Film1 Drama" group-title="BE&RO&NL",Film1 Drama
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODAzOC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Film1 Family" group-title="BE & NL",Film1 Family
+#EXTINF:-1 tvg-name="Film1 Family" group-title="BE&RO&NL",Film1 Family
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODAzOS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Film1 Premiere HD" group-title="BE & NL",Film1 Premiere HD
+#EXTINF:-1 tvg-name="Film1 Premiere HD" group-title="BE&RO&NL",Film1 Premiere HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODA0MC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Filmbox NL HD" group-title="BE & NL",Filmbox NL HD
+#EXTINF:-1 tvg-name="Filmbox NL HD" group-title="BE&RO&NL",Filmbox NL HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODA0MS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="History NL" group-title="BE & NL",History NL
+#EXTINF:-1 tvg-name="History NL" group-title="BE&RO&NL",History NL
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODA0Mi9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Love Nature HD BNL" group-title="BE & NL",Love Nature HD BNL
+#EXTINF:-1 tvg-name="Love Nature HD BNL" group-title="BE&RO&NL",Love Nature HD BNL
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODA0My9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="NET5 HD" group-title="BE & NL",NET5 HD
+#EXTINF:-1 tvg-name="NET5 HD" group-title="BE&RO&NL",NET5 HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODA0NS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="NGC HD" group-title="BE & NL",NGC HD
+#EXTINF:-1 tvg-name="NGC HD" group-title="BE&RO&NL",NGC HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODA0Ni9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="NPO1 HD" group-title="BE & NL",NPO1 HD
+#EXTINF:-1 tvg-name="NPO1 HD" group-title="BE&RO&NL",NPO1 HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODA0Ny9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="NPO2 HD" group-title="BE & NL",NPO2 HD
+#EXTINF:-1 tvg-name="NPO2 HD" group-title="BE&RO&NL",NPO2 HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODA0OC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="NPO3 HD" group-title="BE & NL",NPO3 HD
+#EXTINF:-1 tvg-name="NPO3 HD" group-title="BE&RO&NL",NPO3 HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODA0OS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="National Geographic Wild" group-title="BE & NL",National Geographic Wild
+#EXTINF:-1 tvg-name="National Geographic Wild" group-title="BE&RO&NL",National Geographic Wild
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODA1MC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="ONS" group-title="BE & NL",ONS
+#EXTINF:-1 tvg-name="ONS" group-title="BE&RO&NL",ONS
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODA1Mi9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Omroep Brabant Televisie" group-title="BE & NL",Omroep Brabant Televisie
+#EXTINF:-1 tvg-name="Omroep Brabant Televisie" group-title="BE&RO&NL",Omroep Brabant Televisie
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODA1My9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Omrop Fryslan Televisie" group-title="BE & NL",Omrop Fryslan Televisie
+#EXTINF:-1 tvg-name="Omrop Fryslan Televisie" group-title="BE&RO&NL",Omrop Fryslan Televisie
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODA1NC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Oost" group-title="BE & NL",Oost
+#EXTINF:-1 tvg-name="Oost" group-title="BE&RO&NL",Oost
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODA1NS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="RTL Z" group-title="BE & NL",RTL Z
+#EXTINF:-1 tvg-name="RTL Z" group-title="BE&RO&NL",RTL Z
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODA1Ny9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="RTL4 HD" group-title="BE & NL",RTL4 HD
+#EXTINF:-1 tvg-name="RTL4 HD" group-title="BE&RO&NL",RTL4 HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODA1OS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="RTL5 HD" group-title="BE & NL",RTL5 HD
+#EXTINF:-1 tvg-name="RTL5 HD" group-title="BE&RO&NL",RTL5 HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODA1OC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="RTL7 HD" group-title="BE & NL",RTL7 HD
+#EXTINF:-1 tvg-name="RTL7 HD" group-title="BE&RO&NL",RTL7 HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODA2MC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="RTL8 HD" group-title="BE & NL",RTL8 HD
+#EXTINF:-1 tvg-name="RTL8 HD" group-title="BE&RO&NL",RTL8 HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODA2MS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="SBS6 HD" group-title="BE & NL",SBS6 HD
+#EXTINF:-1 tvg-name="SBS6 HD" group-title="BE&RO&NL",SBS6 HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODA2Mi9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Star Channel" group-title="BE & NL",Star Channel
+#EXTINF:-1 tvg-name="Star Channel" group-title="BE&RO&NL",Star Channel
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODA2My9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="TV Drenthe" group-title="BE & NL",TV Drenthe
+#EXTINF:-1 tvg-name="TV Drenthe" group-title="BE&RO&NL",TV Drenthe
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODA2NC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="TV Gelderland" group-title="BE & NL",TV Gelderland
+#EXTINF:-1 tvg-name="TV Gelderland" group-title="BE&RO&NL",TV Gelderland
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODA2NS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="TV Noord" group-title="BE & NL",TV Noord
+#EXTINF:-1 tvg-name="TV Noord" group-title="BE&RO&NL",TV Noord
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODA2Ni9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="TV Oranje" group-title="BE & NL",TV Oranje
+#EXTINF:-1 tvg-name="TV Oranje" group-title="BE&RO&NL",TV Oranje
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODA2Ny9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="VRT 1" group-title="BE & NL",VRT 1
+#EXTINF:-1 tvg-name="VRT 1" group-title="BE&RO&NL",VRT 1
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODA2OS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="VRT Canvas HD" group-title="BE & NL",VRT Canvas HD
+#EXTINF:-1 tvg-name="VRT Canvas HD" group-title="BE&RO&NL",VRT Canvas HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODA3MC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Disney Junior" group-title="BE & NL",Disney Junior
+#EXTINF:-1 tvg-name="Disney Junior" group-title="BE&RO&NL",Disney Junior
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODA3MS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Viaplay TV" group-title="BE & NL",Viaplay TV
+#EXTINF:-1 tvg-name="Viaplay TV" group-title="BE&RO&NL",Viaplay TV
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODA3Mi9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Dit is Helmond" group-title="BE & NL",Dit is Helmond
+#EXTINF:-1 tvg-name="Dit is Helmond" group-title="BE&RO&NL",Dit is Helmond
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODAyMy9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="LCI HD" group-title="BE & NL",LCI HD
+#EXTINF:-1 tvg-name="LCI HD" group-title="BE&RO&NL",LCI HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTEwNDUvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="RMC Life HD" group-title="BE & NL",RMC Life HD
+#EXTINF:-1 tvg-name="RMC Life HD" group-title="BE&RO&NL",RMC Life HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTEwNDQvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Arte HD" group-title="BE & NL",Arte HD
+#EXTINF:-1 tvg-name="Arte HD" group-title="BE&RO&NL",Arte HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTEwNDMvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Paris Premiere HD FR" group-title="BE & NL",Paris Premiere HD FR
+#EXTINF:-1 tvg-name="Paris Premiere HD FR" group-title="BE&RO&NL",Paris Premiere HD FR
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTEwNDIvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="TF1" group-title="BE & NL",TF1
+#EXTINF:-1 tvg-name="TF1" group-title="BE&RO&NL",TF1
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTEwNDEvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="France 3" group-title="BE & NL",France 3
+#EXTINF:-1 tvg-name="France 3" group-title="BE&RO&NL",France 3
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTEwNDAvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="France 2" group-title="BE & NL",France 2
+#EXTINF:-1 tvg-name="France 2" group-title="BE&RO&NL",France 2
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTEwMzkvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="France 4" group-title="BE & NL",France 4
+#EXTINF:-1 tvg-name="France 4" group-title="BE&RO&NL",France 4
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTEwODUvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="France 5" group-title="BE & NL",France 5
+#EXTINF:-1 tvg-name="France 5" group-title="BE&RO&NL",France 5
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTEwODYvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="W9 HD" group-title="BE & NL",W9 HD
+#EXTINF:-1 tvg-name="W9 HD" group-title="BE&RO&NL",W9 HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTEwODcvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="WTV" group-title="BE & NL",WTV
+#EXTINF:-1 tvg-name="WTV" group-title="BE&RO&NL",WTV
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTEwMjYvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="TV Limburg" group-title="BE & NL",TV Limburg
+#EXTINF:-1 tvg-name="TV Limburg" group-title="BE&RO&NL",TV Limburg
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTEwMjgvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="TV Oost" group-title="BE & NL",TV Oost
+#EXTINF:-1 tvg-name="TV Oost" group-title="BE&RO&NL",TV Oost
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTEwMjkvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Notele" group-title="BE & NL",Notele
+#EXTINF:-1 tvg-name="Notele" group-title="BE&RO&NL",Notele
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTEwMzAvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Carac 1" group-title="BE & NL",Carac 1
+#EXTINF:-1 tvg-name="Carac 1" group-title="BE&RO&NL",Carac 1
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTEwMzEvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Carac 2" group-title="BE & NL",Carac 2
+#EXTINF:-1 tvg-name="Carac 2" group-title="BE&RO&NL",Carac 2
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTEwMzIvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Carac 3" group-title="BE & NL",Carac 3
+#EXTINF:-1 tvg-name="Carac 3" group-title="BE&RO&NL",Carac 3
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTEwMzMvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Carac 4" group-title="BE & NL",Carac 4
+#EXTINF:-1 tvg-name="Carac 4" group-title="BE&RO&NL",Carac 4
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTEwMzQvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Limburg 1" group-title="BE & NL",Limburg 1
+#EXTINF:-1 tvg-name="Limburg 1" group-title="BE&RO&NL",Limburg 1
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTEwMzUvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Qmusic" group-title="BE & NL",Qmusic
+#EXTINF:-1 tvg-name="Qmusic" group-title="BE&RO&NL",Qmusic
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTEwMzYvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Antwerpen Live" group-title="BE & NL",Antwerpen Live
+#EXTINF:-1 tvg-name="Antwerpen Live" group-title="BE&RO&NL",Antwerpen Live
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTEwMzcvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="BFM TV" group-title="BE & NL",BFM TV
+#EXTINF:-1 tvg-name="BFM TV" group-title="BE&RO&NL",BFM TV
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTEwMzgvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Tipik" group-title="BE & NL",Tipik
+#EXTINF:-1 tvg-name="Tipik" group-title="BE&RO&NL",Tipik
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTE1NTkvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="RMC Story" group-title="BE & NL",RMC Story
+#EXTINF:-1 tvg-name="RMC Story" group-title="BE&RO&NL",RMC Story
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTE1NjAvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
 #EXTINF:-1 tvg-name="BBC Cbeebies HD" tvg-logo="https://ip-tv.dev/images/epg/7053.png?v1788020386" group-title="ПознаюТв",BBC Cbeebies HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTE0NTcvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
