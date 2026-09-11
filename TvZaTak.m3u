@@ -2965,115 +2965,95 @@ https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMzU1L0FDRjg5M0I0RDZ
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTYwMy9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
 #EXTINF:-1 tvg-name="Polsat Music HD" tvg-logo="https://ip-tv.dev/images/ico/polsat-music.png" group-title="Польша",Polsat Music HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTYwNi9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="1 TV" tvg-logo="https://ip-tv.dev/images/ico/ge1.png" group-title="Грузия",1 TV
+#EXTINF:-1 tvg-name="1 TV" tvg-logo="https://ip-tv.dev/images/ico/ge1.png" group-title="Разное",1 TV
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNDE2L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="2 TV" group-title="Грузия",2 TV
+#EXTINF:-1 tvg-name="2 TV" group-title="Разное",2 TV
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTE0ODQvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Imedi TV" tvg-logo="https://ip-tv.dev/images/ico/imedi.png" group-title="Грузия",Imedi TV
+#EXTINF:-1 tvg-name="Imedi TV" tvg-logo="https://ip-tv.dev/images/ico/imedi.png" group-title="Разное",Imedi TV
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNDIxL0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Palitra News" tvg-logo="https://ip-tv.dev/images/ico/palitranews.png" group-title="Грузия",Palitra News
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNDQ1L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="GDS TV" tvg-logo="https://ip-tv.dev/images/ico/gds.png" group-title="Грузия",GDS TV
+#EXTINF:-1 tvg-name="GDS TV" tvg-logo="https://ip-tv.dev/images/ico/gds.png" group-title="Разное",GDS TV
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNDE3L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Adjara TV" tvg-logo="https://ip-tv.dev/images/ico/ajara.png" group-title="Грузия",Adjara TV
+#EXTINF:-1 tvg-name="Adjara TV" tvg-logo="https://ip-tv.dev/images/ico/ajara.png" group-title="Разное",Adjara TV
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNDI3L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Apsua TV" group-title="Грузия",Apsua TV
+#EXTINF:-1 tvg-name="Apsua TV" group-title="Разное",Apsua TV
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTE0ODUvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Mega TV" tvg-logo="https://ip-tv.dev/images/epg/1896.jpg?v1752315419" group-title="Грузия",Mega TV
+#EXTINF:-1 tvg-name="Mega TV" tvg-logo="https://ip-tv.dev/images/epg/1896.jpg?v1752315419" group-title="Разное",Mega TV
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTg5Ni9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Sfero TV" group-title="Грузия",Sfero TV
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTg5Ny9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Rcheuli TV" group-title="Грузия",Rcheuli TV
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTg5OC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Obiektivi TV" tvg-logo="https://ip-tv.dev/images/ico/obiektivi.png" group-title="Грузия",Obiektivi TV
+#EXTINF:-1 tvg-name="Obiektivi TV" tvg-logo="https://ip-tv.dev/images/ico/obiektivi.png" group-title="Разное",Obiektivi TV
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNDI2L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Konservatorebi" group-title="Грузия",Konservatorebi
+#EXTINF:-1 tvg-name="Konservatorebi" group-title="Разное",Konservatorebi
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTkwMC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Pirveli" tvg-logo="https://ip-tv.dev/images/ico/tvpirveli.png" group-title="Грузия",Pirveli
+#EXTINF:-1 tvg-name="Pirveli" tvg-logo="https://ip-tv.dev/images/ico/tvpirveli.png" group-title="Разное",Pirveli
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNDIzL0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Rustavi 2" tvg-logo="https://ip-tv.dev/images/ico/rustavi2.png" group-title="Грузия",Rustavi 2
+#EXTINF:-1 tvg-name="Rustavi 2" tvg-logo="https://ip-tv.dev/images/ico/rustavi2.png" group-title="Разное",Rustavi 2
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNDIwL0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Comedy Arkhi" tvg-logo="https://ip-tv.dev/images/ico/comedyarkhi.png" group-title="Грузия",Comedy Arkhi
+#EXTINF:-1 tvg-name="Comedy Arkhi" tvg-logo="https://ip-tv.dev/images/ico/comedyarkhi.png" group-title="Разное",Comedy Arkhi
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNDMzL0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Pos TV" tvg-logo="https://ip-tv.dev/images/ico/postv.png" group-title="Грузия",Pos TV
+#EXTINF:-1 tvg-name="Pos TV" tvg-logo="https://ip-tv.dev/images/ico/postv.png" group-title="Разное",Pos TV
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNDQzL0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Formula" tvg-logo="https://ip-tv.dev/images/ico/formula.png" group-title="Грузия",Formula
+#EXTINF:-1 tvg-name="Formula" tvg-logo="https://ip-tv.dev/images/ico/formula.png" group-title="Разное",Formula
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNDY1L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Marao" tvg-logo="https://ip-tv.dev/images/ico/marao.png" group-title="Грузия",Marao
+#EXTINF:-1 tvg-name="Marao" tvg-logo="https://ip-tv.dev/images/ico/marao.png" group-title="Разное",Marao
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNDUzL0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Ertsulovneba" tvg-logo="https://ip-tv.dev/images/ico/ertsulovneba.png" group-title="Грузия",Ertsulovneba
+#EXTINF:-1 tvg-name="Ertsulovneba" tvg-logo="https://ip-tv.dev/images/ico/ertsulovneba.png" group-title="Разное",Ertsulovneba
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNDU5L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Marneuli TV" tvg-logo="https://ip-tv.dev/images/ico/marneuli.png" group-title="Грузия",Marneuli TV
+#EXTINF:-1 tvg-name="Marneuli TV" tvg-logo="https://ip-tv.dev/images/ico/marneuli.png" group-title="Разное",Marneuli TV
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNDU0L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="BMG" tvg-logo="https://ip-tv.dev/images/ico/bmg.png" group-title="Грузия",BMG
+#EXTINF:-1 tvg-name="BMG" tvg-logo="https://ip-tv.dev/images/ico/bmg.png" group-title="Разное",BMG
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNDU3L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Euronews Georgia" tvg-logo="https://ip-tv.dev/images/ico/euronewsgeorgia.jpg" group-title="Грузия",Euronews Georgia
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNDg1L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Silk Documentary" tvg-logo="https://ip-tv.dev/images/ico/silkdocumentary.jpg" group-title="Грузия",Silk Documentary
+#EXTINF:-1 tvg-name="Silk Documentary" tvg-logo="https://ip-tv.dev/images/ico/silkdocumentary.jpg" group-title="Разное",Silk Documentary
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNDEzL0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Silk kids" tvg-logo="https://ip-tv.dev/images/ico/silkkids.jpg" group-title="Грузия",Silk kids
+#EXTINF:-1 tvg-name="Silk kids" tvg-logo="https://ip-tv.dev/images/ico/silkkids.jpg" group-title="Разное",Silk kids
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTQ5OC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Silk Hollywood Movies" tvg-logo="https://ip-tv.dev/images/ico/silkhollywoodmovies.jpg" group-title="Грузия",Silk Hollywood Movies
+#EXTINF:-1 tvg-name="Silk Hollywood Movies" tvg-logo="https://ip-tv.dev/images/ico/silkhollywoodmovies.jpg" group-title="Разное",Silk Hollywood Movies
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTQ5OS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Silk Movie Collection" tvg-logo="https://ip-tv.dev/images/ico/silkmoviecollection.jpg" group-title="Грузия",Silk Movie Collection
+#EXTINF:-1 tvg-name="Silk Movie Collection" tvg-logo="https://ip-tv.dev/images/ico/silkmoviecollection.jpg" group-title="Разное",Silk Movie Collection
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTUwMC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Rioni 2" group-title="Грузия",Rioni 2
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTg5OS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Silk Universal" tvg-logo="https://ip-tv.dev/images/ico/silkuniversal.jpg" group-title="Грузия",Silk Universal
+#EXTINF:-1 tvg-name="Silk Universal" tvg-logo="https://ip-tv.dev/images/ico/silkuniversal.jpg" group-title="Разное",Silk Universal
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTQ5Ni9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Moldova 1 HD" tvg-logo="https://ip-tv.dev/images/ico/md/Moldova1.png" group-title="Молдова",Moldova 1 HD
+#EXTINF:-1 tvg-name="Moldova 1 HD" tvg-logo="https://ip-tv.dev/images/ico/md/Moldova1.png" group-title="Разное",Moldova 1 HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODk0NS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Moldova 2 HD" group-title="Молдова",Moldova 2 HD
+#EXTINF:-1 tvg-name="Moldova 2 HD" group-title="Разное",Moldova 2 HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODk0Ni9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="A TV" group-title="Молдова",A TV
+#EXTINF:-1 tvg-name="A TV" group-title="Разное",A TV
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwMDMvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Agro HD" group-title="Молдова",Agro HD
+#EXTINF:-1 tvg-name="Agro HD" group-title="Разное",Agro HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwMjkvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Euronews" group-title="Молдова",Euronews
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwMDYvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Moldova TV" group-title="Молдова",Moldova TV
+#EXTINF:-1 tvg-name="Moldova TV" group-title="Разное",Moldova TV
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwMDkvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Star TV" group-title="Молдова",Star TV
+#EXTINF:-1 tvg-name="Star TV" group-title="Разное",Star TV
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwMDIvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Global 24" group-title="Молдова",Global 24
+#EXTINF:-1 tvg-name="Global 24" group-title="Разное",Global 24
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwMTQvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Gurinel HD" group-title="Молдова",Gurinel HD
+#EXTINF:-1 tvg-name="Gurinel HD" group-title="Разное",Gurinel HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwMTYvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Busuioc TV" group-title="Молдова",Busuioc TV
+#EXTINF:-1 tvg-name="Busuioc TV" group-title="Разное",Busuioc TV
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwMTcvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="N4" tvg-logo="https://ip-tv.dev/images/ico/md/n4.png" group-title="Молдова",N4
+#EXTINF:-1 tvg-name="N4" tvg-logo="https://ip-tv.dev/images/ico/md/n4.png" group-title="Разное",N4
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTM4My9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Jurnal TV HD" tvg-logo="https://ip-tv.dev/images/ico/md/jurnal.png" group-title="Молдова",Jurnal TV HD
+#EXTINF:-1 tvg-name="Jurnal TV HD" tvg-logo="https://ip-tv.dev/images/ico/md/jurnal.png" group-title="Разное",Jurnal TV HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwMTgvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Disney" group-title="Молдова",Disney
+#EXTINF:-1 tvg-name="Disney" group-title="Разное",Disney
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwMjEvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Noroc HD" tvg-logo="https://ip-tv.dev/images/ico/md/noroc.png" group-title="Молдова",Noroc HD
+#EXTINF:-1 tvg-name="Noroc HD" tvg-logo="https://ip-tv.dev/images/ico/md/noroc.png" group-title="Разное",Noroc HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwMjIvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Cinema 1 HD" group-title="Молдова",Cinema 1 HD
+#EXTINF:-1 tvg-name="Cinema 1 HD" group-title="Разное",Cinema 1 HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwMjQvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="ONE TV HD" group-title="Молдова",ONE TV HD
+#EXTINF:-1 tvg-name="ONE TV HD" group-title="Разное",ONE TV HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwMjgvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Privesc.Eu HD" group-title="Молдова",Privesc.Eu HD
+#EXTINF:-1 tvg-name="Privesc.Eu HD" group-title="Разное",Privesc.Eu HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvOTY4L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Pro TV Chisinau HD" tvg-logo="https://ip-tv.dev/images/ico/md/pro.png" group-title="Молдова",Pro TV Chisinau HD
+#EXTINF:-1 tvg-name="Pro TV Chisinau HD" tvg-logo="https://ip-tv.dev/images/ico/md/pro.png" group-title="Разное",Pro TV Chisinau HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwMzAvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="VB TV" tvg-logo="https://ip-tv.dev/images/ico/md/publica.png" group-title="Молдова",VB TV
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwMzEvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="7 TV" group-title="Молдова",7 TV
+#EXTINF:-1 tvg-name="7 TV" group-title="Разное",7 TV
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwMzMvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Rlive HD" group-title="Молдова",Rlive HD
+#EXTINF:-1 tvg-name="Rlive HD" group-title="Разное",Rlive HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwMzQvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="TVN HD" group-title="Молдова",TVN HD
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwMzgvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Tezaur HD" group-title="Молдова",Tezaur HD
+#EXTINF:-1 tvg-name="Tezaur HD" group-title="Разное",Tezaur HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwNDEvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Exclusiv TV" group-title="Молдова",Exclusiv TV
+#EXTINF:-1 tvg-name="Exclusiv TV" group-title="Разное",Exclusiv TV
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwNDIvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Global 24" group-title="Молдова",Global 24
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwNDMvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="TV8 HD" group-title="Молдова",TV8 HD
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwNDQvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="TVR" tvg-logo="https://ip-tv.dev/images/ico/trv.png" group-title="Молдова",TVR
+#EXTINF:-1 tvg-name="TVR" tvg-logo="https://ip-tv.dev/images/ico/trv.png" group-title="Разное",TVR
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTEwNDYvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
 #EXTINF:-1 tvg-name="БНТ1" tvg-logo="https://ip-tv.dev/images/ico/bnt1.png" group-title="Болгария",БНТ1
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNjgwMC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
