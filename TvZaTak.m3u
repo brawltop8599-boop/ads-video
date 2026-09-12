@@ -2509,22 +2509,14 @@ https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNzAwMC9BQ0Y4OTNCNEQ
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTE0NTEvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
 #EXTINF:-1 tvg-name="RTL HD DE" tvg-logo="https://ip-tv.dev/images/ico/de/rtl-de.png" group-title="Германия",RTL HD DE
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODAxL0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="RTL Live HD DE" tvg-logo="https://ip-tv.dev/images/epg/804.png?v1743758117" group-title="Германия",RTL Live HD DE
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODA0L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="RTL Crime HD DE" tvg-logo="https://ip-tv.dev/images/epg/860.png?v1743758158" group-title="Германия",RTL Crime HD DE
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODYwL0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
 #EXTINF:-1 tvg-name="RTL Passion HD" tvg-logo="https://ip-tv.dev/images/epg/1009.png?v1743758128" group-title="Германия",RTL Passion HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTAwOS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
 #EXTINF:-1 tvg-name="RTL Zwei HD" tvg-logo="https://ip-tv.dev/images/ico/de/rtl-zwei-de.png" group-title="Германия",RTL Zwei HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTAwOC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Sky Sport 2 HD DE" tvg-logo="https://ip-tv.dev/images/ico/sky-sport-hd1.png" group-title="Германия",Sky Sport 2 HD DE
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODM0L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
 #EXTINF:-1 tvg-name="Sat.1 HD DE" tvg-logo="https://ip-tv.dev/images/epg/806.png?v1743758238" group-title="Германия",Sat.1 HD DE
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODA2L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
 #EXTINF:-1 tvg-name="SAT.1 Gold HD" tvg-logo="https://ip-tv.dev/images/epg/940.png?v1743758228" group-title="Германия",SAT.1 Gold HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvOTQwL0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Sky Sport 1 HD DE" tvg-logo="https://ip-tv.dev/images/ico/sky-sport-hd1.png" group-title="Германия",Sky Sport 1 HD DE
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODMzL0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
 #EXTINF:-1 tvg-name="Euronews" group-title="Германия",Euronews
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTk5OS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
 #EXTINF:-1 tvg-name="SAT.1 emotions HD" tvg-logo="https://ip-tv.dev/images/epg/842.png?v1743758558" group-title="Германия",SAT.1 emotions HD
@@ -2561,8 +2553,6 @@ https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvOTE3L0FDRjg5M0I0RDZ
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODEzL0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
 #EXTINF:-1 tvg-name="Warner TV Serie HD" tvg-logo="https://ip-tv.dev/images/epg/5135.png?v1743758790" group-title="Германия",Warner TV Serie HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTEzNS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Warner TV Comedy HD" tvg-logo="https://ip-tv.dev/images/epg/5006.png?v1743758801" group-title="Германия",Warner TV Comedy HD
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTgxNi9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
 #EXTINF:-1 tvg-name="Warner TV Film HD" tvg-logo="https://ip-tv.dev/images/epg/821.png?v1743758815" group-title="Германия",Warner TV Film HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODIxL0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
 #EXTINF:-1 tvg-name="Phoenix HD" tvg-logo="https://ip-tv.dev/images/epg/932.png?v1743759029" group-title="Германия",Phoenix HD
@@ -2609,8 +2599,6 @@ https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTEzMi9BQ0Y4OTNCNEQ
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTEzMS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
 #EXTINF:-1 tvg-name="SERIEN + HD" tvg-logo="https://ip-tv.dev/images/epg/853.png?v1743761303" group-title="Германия",SERIEN + HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODUzL0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Club 3" group-title="Германия",Club 3
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTEyNC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
 #EXTINF:-1 tvg-name="3 Sat HD DE" tvg-logo="https://ip-tv.dev/images/epg/919.png?v1743759806" group-title="Германия",3 Sat HD DE
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvOTE5L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
 #EXTINF:-1 tvg-name="NDR HD DE" tvg-logo="https://ip-tv.dev/images/epg/839.png?v1743759646" group-title="Германия",NDR HD DE
@@ -2671,12 +2659,6 @@ https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNzIyL0FDRjg5M0I0RDZ
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNzI3L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
 #EXTINF:-1 tvg-name="ServusTV HD Oesterreich" tvg-logo="https://ip-tv.dev/images/epg/736.png?v1743760096" group-title="Германия",ServusTV HD Oesterreich
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNzM2L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="ARD alpha HD" tvg-logo="https://ip-tv.dev/images/epg/691.png?v1743760115" group-title="Германия",ARD alpha HD
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNjkxL0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="SR Fernsehen HD" tvg-logo="https://ip-tv.dev/images/epg/692.png?v1743760131" group-title="Германия",SR Fernsehen HD
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNjkyL0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="tagesschau24 HD" tvg-logo="https://ip-tv.dev/images/epg/694.png?v1743760146" group-title="Германия",tagesschau24 HD
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNjk0L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
 #EXTINF:-1 tvg-name="WAIDWERK" tvg-logo="https://ip-tv.dev/images/epg/741.png?v1743762325" group-title="Германия",WAIDWERK
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNzQxL0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
 #EXTINF:-1 tvg-name="Stimmungsgarten TV" tvg-logo="https://ip-tv.dev/images/epg/738.jpg?v1743762351" group-title="Германия",Stimmungsgarten TV
@@ -2805,6 +2787,8 @@ https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMjAxOC9BQ0Y4OTNCNEQ
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMjAyMC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
 #EXTINF:-1 tvg-name="RAI Scuola HD" group-title="BE&RO&NL",RAI Scuola HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMjAyMS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
+#EXTINF:-1 tvg-name="Polsat Music HD" tvg-logo="https://ip-tv.dev/images/ico/polsat-music.png" group-title="Польша",Polsat Music HD
+https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTYwNi9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
 #EXTINF:-1 tvg-name="Polsat HD" tvg-logo="https://ip-tv.dev/images/ico/polsat.png" group-title="Польша",Polsat HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTQ4OS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
 #EXTINF:-1 tvg-name="Polsat 2" tvg-logo="https://ip-tv.dev/images/ico/polsat2.png" group-title="Польша",Polsat 2
@@ -2815,8 +2799,6 @@ https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTQ5MS9BQ0Y4OTNCNEQ
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvOTk1MS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
 #EXTINF:-1 tvg-name="TVN Siedem HD" tvg-logo="https://ip-tv.dev/images/ico/tvn7.png" group-title="Польша",TVN Siedem HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTQ5Mi9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="TVN Style HD" tvg-logo="https://ip-tv.dev/images/ico/tvnstyle.png" group-title="Польша",TVN Style HD
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTQ5My9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
 #EXTINF:-1 tvg-name="TVP 1 HD" tvg-logo="https://ip-tv.dev/images/ico/tvp1.png" group-title="Польша",TVP 1 HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTQ5NC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
 #EXTINF:-1 tvg-name="TVP 2 HD" tvg-logo="https://ip-tv.dev/images/ico/tvp2.png" group-title="Польша",TVP 2 HD
@@ -2827,9 +2809,9 @@ https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTcwMS9BQ0Y4OTNCNEQ
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTcwMi9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
 #EXTINF:-1 tvg-name="TVP Rozrywka" tvg-logo="https://ip-tv.dev/images/epg/5605.png?v1743763129" group-title="Польша",TVP Rozrywka
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTYwNS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="TV4 HD PL" tvg-logo="https://ip-tv.dev/images/ico/tv4pl.png" group-title="Польша",TV4 HD PL
+#EXTINF:-1 tvg-name="TV4 HD" tvg-logo="https://ip-tv.dev/images/ico/tv4pl.png" group-title="Польша",TV4 HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTkxOC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="TV6 HD PL" tvg-logo="https://ip-tv.dev/images/ico/tv6pl.png" group-title="Польша",TV6 HD PL
+#EXTINF:-1 tvg-name="TV6 HD" tvg-logo="https://ip-tv.dev/images/ico/tv6pl.png" group-title="Польша",TV6 HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTcwNC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
 #EXTINF:-1 tvg-name="Republika TV" tvg-logo="https://ip-tv.dev/images/ico/republika.png" group-title="Польша",Republika TV
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTcwNS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
@@ -2847,18 +2829,16 @@ https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvOTA1Mi9BQ0Y4OTNCNEQ
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTcxMi9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
 #EXTINF:-1 tvg-name="Polsat News 2" tvg-logo="https://ip-tv.dev/images/ico/polsat-news-2.png" group-title="Польша",Polsat News 2
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTcxMy9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Polsat Film HD PL" tvg-logo="https://ip-tv.dev/epg/icon/polsat-film.png" group-title="Польша",Polsat Film HD PL
+#EXTINF:-1 tvg-name="Polsat Film HD" tvg-logo="https://ip-tv.dev/epg/icon/polsat-film.png" group-title="Польша",Polsat Film HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTkxNS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
 #EXTINF:-1 tvg-name="TVP Seriale HD" tvg-logo="https://ip-tv.dev/images/ico/tvp-seriale.png" group-title="Польша",TVP Seriale HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTQ3MS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
 #EXTINF:-1 tvg-name="Epic Drama HD" tvg-logo="https://ip-tv.dev/images/epg/5750.png?v1743763404" group-title="Польша",Epic Drama HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTc1MC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Polsat Play HD PL" tvg-logo="https://ip-tv.dev/epg/icon/polsat-play.png" group-title="Польша",Polsat Play HD PL
+#EXTINF:-1 tvg-name="Polsat Play HD" tvg-logo="https://ip-tv.dev/epg/icon/polsat-play.png" group-title="Польша",Polsat Play HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTY0MS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Polsat Cafe HD PL" tvg-logo="https://ip-tv.dev/images/ico/polsat-cafe.png" group-title="Польша",Polsat Cafe HD PL
+#EXTINF:-1 tvg-name="Polsat Cafe HD" tvg-logo="https://ip-tv.dev/images/ico/polsat-cafe.png" group-title="Польша",Polsat Cafe HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTc0MC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="CBS Europa HD" tvg-logo="https://ip-tv.dev/images/epg/5711.png?v1743763358" group-title="Польша",CBS Europa HD
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTcxMS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
 #EXTINF:-1 tvg-name="E! Entertainment" tvg-logo="https://ip-tv.dev/images/epg/319.png?v1743763438" group-title="Польша",E! Entertainment
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMzE5L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
 #EXTINF:-1 tvg-name="TeleToon+ HD" tvg-logo="https://ip-tv.dev/images/ico/teletoon-pl.png" group-title="Польша",TeleToon+ HD
@@ -2877,9 +2857,9 @@ https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTQ3NS9BQ0Y4OTNCNEQ
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTQ3NC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
 #EXTINF:-1 tvg-name="CANAL+ Seriale HD" tvg-logo="https://ip-tv.dev/images/ico/canal-pl-seriale.png" group-title="Польша",CANAL+ Seriale HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTQ3Ni9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="FilmBox Action HD PL" tvg-logo="https://ip-tv.dev/images/ico/filmbox-action-pl.png" group-title="Польша",FilmBox Action HD PL
+#EXTINF:-1 tvg-name="FilmBox Action HD" tvg-logo="https://ip-tv.dev/images/ico/filmbox-action-pl.png" group-title="Польша",FilmBox Action HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTQ4MC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="FilmBox Extra HD PL" tvg-logo="https://ip-tv.dev/images/ico/filmbox-extra-pl.png" group-title="Польша",FilmBox Extra HD PL
+#EXTINF:-1 tvg-name="FilmBox Extra HD" tvg-logo="https://ip-tv.dev/images/ico/filmbox-extra-pl.png" group-title="Польша",FilmBox Extra HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTQ4My9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
 #EXTINF:-1 tvg-name="HBO HD" tvg-logo="https://ip-tv.dev/images/ico/hbo-hd.png" group-title="Польша",HBO HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTQ4NC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
@@ -2889,17 +2869,17 @@ https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTkyOC9BQ0Y4OTNCNEQ
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTQ4Ni9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
 #EXTINF:-1 tvg-name="SciFi HD" tvg-logo="https://ip-tv.dev/images/ico/scifi-pl.png" group-title="Польша",SciFi HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTYxMi9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Planete+ HD PL" tvg-logo="https://ip-tv.dev/images/ico/planete.png" group-title="Польша",Planete+ HD PL
+#EXTINF:-1 tvg-name="Planete+ HD" tvg-logo="https://ip-tv.dev/images/ico/planete.png" group-title="Польша",Planete+ HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTkzNi9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
 #EXTINF:-1 tvg-name="Polsat Viasat Nature HD" group-title="Польша",Polsat Viasat Nature HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTYwMi9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Discovery Channel HD PL" tvg-logo="https://ip-tv.dev/images/ico/discovery-channel-pl.png" group-title="Польша",Discovery Channel HD PL
+#EXTINF:-1 tvg-name="Discovery Channel HD" tvg-logo="https://ip-tv.dev/images/ico/discovery-channel-pl.png" group-title="Польша",Discovery Channel HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTc0Mi9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Discovery Life HD PL" tvg-logo="https://ip-tv.dev/images/ico/discovery-life-pl.png" group-title="Польша",Discovery Life HD PL
+#EXTINF:-1 tvg-name="Discovery Life HD" tvg-logo="https://ip-tv.dev/images/ico/discovery-life-pl.png" group-title="Польша",Discovery Life HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTc0My9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Discovery History HD PL" tvg-logo="https://ip-tv.dev/images/ico/discovery-history-pl.png" group-title="Польша",Discovery History HD PL
+#EXTINF:-1 tvg-name="Discovery History HD" tvg-logo="https://ip-tv.dev/images/ico/discovery-history-pl.png" group-title="Польша",Discovery History HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTcxOS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="ID Investigation Discovery PL" tvg-logo="https://ip-tv.dev/images/ico/idxtra.png" group-title="Польша",ID Investigation Discovery PL
+#EXTINF:-1 tvg-name="ID Investigation Discovery" tvg-logo="https://ip-tv.dev/images/ico/idxtra.png" group-title="Польша",ID Investigation Discovery
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTczNi9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
 #EXTINF:-1 tvg-name="History 2 HD" tvg-logo="https://ip-tv.dev/images/ico/h2-pl.png" group-title="Польша",History 2 HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTYxNS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
@@ -2907,8 +2887,6 @@ https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTYxNS9BQ0Y4OTNCNEQ
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTYxOC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
 #EXTINF:-1 tvg-name="TVP Historia HD" tvg-logo="https://ip-tv.dev/images/ico/tvp-historia.png" group-title="Польша",TVP Historia HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTcxNS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Travel Channel HD" tvg-logo="https://ip-tv.dev/images/ico/travel-channel-pl.png" group-title="Польша",Travel Channel HD
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTYxNy9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
 #EXTINF:-1 tvg-name="CANAL+ Kuchnia HD" tvg-logo="https://ip-tv.dev/images/ico/canal-pl-kuchnia.png" group-title="Польша",CANAL+ Kuchnia HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTcwNy9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
 #EXTINF:-1 tvg-name="Polsat Games HD" tvg-logo="https://ip-tv.dev/images/ico/polsat-games.png" group-title="Польша",Polsat Games HD
@@ -2925,8 +2903,6 @@ https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTYxMS9BQ0Y4OTNCNEQ
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMzU1L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
 #EXTINF:-1 tvg-name="Vox Music TV HD" group-title="Польша",Vox Music TV HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTYwMy9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Polsat Music HD" tvg-logo="https://ip-tv.dev/images/ico/polsat-music.png" group-title="Польша",Polsat Music HD
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTYwNi9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
 #EXTINF:-1 tvg-name="1 TV" tvg-logo="https://ip-tv.dev/images/ico/ge1.png" group-title="Разное",1 TV
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNDE2L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
 #EXTINF:-1 tvg-name="2 TV" group-title="Разное",2 TV
