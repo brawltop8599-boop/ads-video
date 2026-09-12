@@ -595,8 +595,6 @@ https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNDQ3OS9BQ0Y4OTNCNEQ
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNDQ3Ni9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
 #EXTINF:-1 tvg-name="Остросюжетное HD" tvg-logo="https://ip-tv.dev/epg/icon/ostrosiuzhetnoe-hd.png" group-title="Кино",Остросюжетное HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMzY4L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Страшное HD" tvg-logo="https://ip-tv.dev/epg/icon/strashnoe-hd.png" group-title="Кино",Страшное HD
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMzcxL0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
 #EXTINF:-1 tvg-name="Киноужас HD" tvg-logo="https://ip-tv.dev/epg/icon/kinouzhas.png" group-title="Кино",Киноужас HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMjU5L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
 #EXTINF:-1 tvg-name="Про Любовь HD" tvg-logo="https://ip-tv.dev/images/ico/pro-lyubov.png" group-title="Кино",Про Любовь HD
@@ -675,16 +673,12 @@ https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMjkyL0FDRjg5M0I0RDZ
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTAyL0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
 #EXTINF:-1 tvg-name="AMC" tvg-logo="https://ip-tv.dev/epg/icon/amc.png" group-title="Кино",AMC
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvOTkzNi9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Premiere HD 1" tvg-logo="https://ip-tv.dev/images/ico/premierehd1.png" group-title="Кино",Premiere HD 1
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNzA5Ni9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
 #EXTINF:-1 tvg-name="Premiere HD 2" tvg-logo="https://ip-tv.dev/images/ico/premierehd2.png" group-title="Кино",Premiere HD 2
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNzA5Ny9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
 #EXTINF:-1 tvg-name="Premiere HD 3" tvg-logo="https://ip-tv.dev/images/ico/premierehd3.png" group-title="Кино",Premiere HD 3
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNzA5OC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
 #EXTINF:-1 tvg-name="Premiere HD 4" tvg-logo="https://ip-tv.dev/images/ico/premierehd4.png" group-title="Кино",Premiere HD 4
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNzA5OS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="Bollywood HD" tvg-logo="https://ip-tv.dev/images/ico/bollywood-hd.png" group-title="Кино",Bollywood HD
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMjgzL0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
 #EXTINF:-1 tvg-name="Hollywood HD" tvg-logo="https://ip-tv.dev/epg/icon/hollywood-hd.png" group-title="Кино",Hollywood HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTc2L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
 #EXTINF:-1 tvg-name="TV XXI" tvg-logo="https://ip-tv.dev/epg/icon/xxi.png" group-title="Кино",TV XXI
@@ -735,7 +729,7 @@ https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTUwMzMvQUNGODkzQjR
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNTE2NjIvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
 #EXTINF:-1 tvg-name="НТВ Сериал Невский" tvg-logo="https://ip-tv.dev/images/epg/15034.jpg?v1785505063" group-title="Кино",НТВ Сериал Невский
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTUwMzQvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="НТВ Сериал Первый Отде" tvg-logo="https://ip-tv.dev/images/epg/15035.jpg?v1785505146" group-title="Кино",НТВ Сериал Первый Отде
+#EXTINF:-1 tvg-name="НТВ Сериал Первый Отде" tvg-logo="https://ip-tv.dev/images/epg/15035.jpg?v1785505146" group-title="Кино",НТВ Сериал Первый Отдел
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTUwMzUvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
 #EXTINF:-1 tvg-name="НТВ Сериал Скорая Помощь" tvg-logo="https://ip-tv.dev/images/epg/15036.jpg?v1785505126" group-title="Кино",НТВ Сериал Скорая Помощь
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTUwMzYvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
@@ -775,8 +769,6 @@ https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTUwNTIvQUNGODkzQjR
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTUwNTMvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
 #EXTINF:-1 tvg-name="VHS-ка HD" tvg-logo="https://ip-tv.dev/images/ico/vhs-ka.png" group-title="Кино",VHS-ка HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvNDk3L0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Amazon Prime Romance" tvg-logo="https://ip-tv.dev/images/epg/15054.jpg?v1788520687" group-title="Кино",Amazon Prime Romance
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTUwNTQvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
 #EXTINF:-1 tvg-name="Честный Детектив" tvg-logo="https://ip-tv.dev/images/epg/15055.png?v1788445223" group-title="Кино",Честный Детектив
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTUwNTUvQUNGODkzQjRENkU5RTkxL3ZpZGVvLm0zdTg
 #EXTINF:-1 tvg-name="Plan B" tvg-logo="https://ip-tv.dev/images/ico/plan-b.png" group-title="Кино",Plan B
@@ -801,8 +793,6 @@ https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMzc3NC9BQ0Y4OTNCNEQ
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMjYxNC9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
 #EXTINF:-1 tvg-name="Дорама" tvg-logo="https://ip-tv.dev/images/ico/dorama.png" group-title="Кино",Дорама
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvOTUzL0FDRjg5M0I0RDZFOUU5MS92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Дорама HD" tvg-logo="https://ip-tv.dev/images/ico/dorama.png" group-title="Кино",Дорама HD
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODc5MS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
 #EXTINF:-1 tvg-name="Star Cinema HD" tvg-logo="https://ip-tv.dev/epg/icon/star-cinema.png" group-title="Кино",Star Cinema HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvOTk2NS9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
 #EXTINF:-1 tvg-name="Star Cinema" tvg-logo="https://ip-tv.dev/epg/icon/star-cinema.png" group-title="Кино",Star Cinema
@@ -825,8 +815,6 @@ https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTgzOS9BQ0Y4OTNCNEQ
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvOTkwMy9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
 #EXTINF:-1 tvg-name="Bolt HD" tvg-logo="https://ip-tv.dev/images/ico/bolt.png" group-title="Кино",Bolt HD
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMTU5Mi9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-name="KinoLiving HD" tvg-logo="https://ip-tv.dev/images/ico/kinoliving.png" group-title="Кино",KinoLiving HD
-https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvMjY0Mi9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
 #EXTINF:-1 tvg-name="Kino 1" tvg-logo="https://ip-tv.dev/images/ico/kino-1.png" group-title="Кино",Kino 1
 https://www.mylist.at/?proxy=aHR0cDovL2dyLnNlZXR2LmNjL3BsYXkvODc4Ny9BQ0Y4OTNCNEQ2RTlFOTEvdmlkZW8ubTN1OA
 #EXTINF:-1 tvg-name="Kino 24" tvg-logo="https://ip-tv.dev/images/ico/kino-24.png" group-title="Кино",Kino 24
