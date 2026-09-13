@@ -1,43 +1,41 @@
 #EXTM3U x-tvg-url="https://iptvx.one/EPG"
-#EXTINF:-1 group-title="Разное",Первый канал UHD
+#EXTINF:-1 group-title="РегионТв",Первый канал UHD
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/19241/index.m3u8
-#EXTINF:-1 group-title="Разное" ,Россия 1 UHD
+#EXTINF:-1 group-title="РегионТв" ,Россия 1 UHD
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/19242/index.m3u8
-#EXTINF:-1 group-title="Разное" ,НТВ UHD
+#EXTINF:-1 group-title="РегионТв" ,НТВ UHD
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/19405/index.m3u8
-#EXTINF:-1 group-title="Разное" ,Крик ТВ HD
-http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/15012/index.m3u8
-#EXTINF:-1 group-title="Разное" ,Экоспаскоми (Коми)
-http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/17018/index.m3u8
-#EXTINF:-1 group-title="Разное" ,Пятый канал
+#EXTINF:-1 group-title="РегионТв" ,Пятый канал
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/112/index.m3u8
-#EXTINF:-1 group-title="Разное" ,НТВ +2
+#EXTINF:-1 group-title="РегионТв" ,НТВ +2
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/713/index.m3u8
-#EXTINF:-1 group-title="Разное" ,Санкт-Петербург
+#EXTINF:-1 group-title="РегионТв" ,Санкт-Петербург
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/715/index.m3u8
-#EXTINF:-1 group-title="Разное" ,Пятый канал +2
+#EXTINF:-1 group-title="РегионТв" ,Пятый канал +2
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/746/index.m3u8
-#EXTINF:-1 group-title="Разное" ,Euronews 
+#EXTINF:-1 group-title="РегионТв" ,Euronews 
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/828/index.m3u8
-#EXTINF:-1 group-title="Разное" ,Дождь
+#EXTINF:-1 group-title="РегионТв" ,Дождь
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/2030/index.m3u8
-#EXTINF:-1 group-title="Разное" ,Центральное телевидение
+#EXTINF:-1 group-title="РегионТв" ,Крик ТВ HD
+http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/15012/index.m3u8
+#EXTINF:-1 group-title="РегионТв" ,Центральное телевидение
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/2064/index.m3u8
-#EXTINF:-1 group-title="Разное" ,Вместе-РФ
+#EXTINF:-1 group-title="РегионТв" ,Вместе-РФ
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/2073/index.m3u8
-#EXTINF:-1 group-title="Разное" ,RTVi
+#EXTINF:-1 group-title="РегионТв" ,RTVi
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/2086/index.m3u8
-#EXTINF:-1 group-title="Разное" ,Первый канал
+#EXTINF:-1 group-title="РегионТв" ,Первый канал
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/127/index.m3u8
-#EXTINF:-1 group-title="Разное" ,Первый канал +2
+#EXTINF:-1 group-title="РегионТв" ,Первый канал +2
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/714/index.m3u8
-#EXTINF:-1 group-title="Разное" ,Россия 1
+#EXTINF:-1 group-title="РегионТв" ,Россия 1
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/504/index.m3u8
-#EXTINF:-1 group-title="Разное" ,Россия 1 +4
+#EXTINF:-1 group-title="РегионТв" ,Россия 1 +4
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/6022/index.m3u8
-#EXTINF:-1 group-title="Разное" ,РТР Планета
+#EXTINF:-1 group-title="РегионТв" ,РТР Планета
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/18042/index.m3u8
-#EXTINF:-1 group-title="Разное" ,Deutsche Welle Russian
+#EXTINF:-1 group-title="РегионТв" ,Deutsche Welle Russian
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/32084/index.m3u8
 #EXTINF:-1 group-title="Кино",VF Сериалы Турции
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/9123/index.m3u8
@@ -89,7 +87,7 @@ http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/2034/index.m3u8
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/2146/index.m3u8
 #EXTINF:-1 group-title="Кино",BOX Apocalypse HD
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31655/index.m3u8
-#EXTINF:-1 group-title="Разное",HOT Cinema Family HD
+#EXTINF:-1 group-title="РегионТв",HOT Cinema Family HD
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/2151/index.m3u8
 #EXTINF:-1 group-title="Кино",Viju TV1000 Новелла HD
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/2002/index.m3u8
@@ -113,11 +111,11 @@ http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/17051/index.m3u8
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/15102/index.m3u8
 #EXTINF:-1 group-title="Кино",Duo 3 HD LT
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/20026/index.m3u8
-#EXTINF:-1 group-title="Разное",Turkish Dramas 3 HD IL
+#EXTINF:-1 group-title="РегионТв",Turkish Dramas 3 HD IL
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/14220/index.m3u8
-#EXTINF:-1 group-title="Разное",Turkish Dramas 2 HD IL
+#EXTINF:-1 group-title="РегионТв",Turkish Dramas 2 HD IL
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/14208/index.m3u8
-#EXTINF:-1 group-title="Разное",Turkish Dramas Plus HD IL
+#EXTINF:-1 group-title="РегионТв",Turkish Dramas Plus HD IL
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/14207/index.m3u8
 #EXTINF:-1 group-title="Кино",Citrus Holiday
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/16089/index.m3u8
@@ -161,9 +159,9 @@ http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/17054/index.m3u8
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/101/index.m3u8
 #EXTINF:-1 group-title="Кино",FX HD
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/19216/index.m3u8
-#EXTINF:-1 group-title="Разное",FX Comedy HD PL
+#EXTINF:-1 group-title="РегионТв",FX Comedy HD PL
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/6107/index.m3u8
-#EXTINF:-1 group-title="Разное",Cinemax Hits HD US
+#EXTINF:-1 group-title="РегионТв",Cinemax Hits HD US
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/6152/index.m3u8
 #EXTINF:-1 group-title="Кино",Ностальгия
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/102/index.m3u8
@@ -261,9 +259,9 @@ http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/2062/index.m3u8
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/2121/index.m3u8
 #EXTINF:-1 group-title="Кино",Cinema
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/5051/index.m3u8
-#EXTINF:-1 group-title="Разное",Sky Atlantic HD DE
+#EXTINF:-1 group-title="РегионТв",Sky Atlantic HD DE
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/2488/index.m3u8
-#EXTINF:-1 group-title="Разное",Sky Arts HD DE
+#EXTINF:-1 group-title="РегионТв",Sky Arts HD DE
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/2494/index.m3u8
 #EXTINF:-1 group-title="Кино",Кинозал 1 (Триколор)
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/2568/index.m3u8
@@ -291,9 +289,9 @@ http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/6392/index.m3u8
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/6396/index.m3u8
 #EXTINF:-1 group-title="Кино",Премиальное HD
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/7222/index.m3u8
-#EXTINF:-1 group-title="Разное",RTL Passion HD DE
+#EXTINF:-1 group-title="РегионТв",RTL Passion HD DE
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/7230/index.m3u8
-#EXTINF:-1 group-title="Разное",Romance TV DE
+#EXTINF:-1 group-title="РегионТв",Romance TV DE
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/7231/index.m3u8
 #EXTINF:-1 group-title="Кино",Киносемья HD
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/7244/index.m3u8
@@ -311,7 +309,7 @@ http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/7250/index.m3u8
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/7260/index.m3u8
 #EXTINF:-1 group-title="Кино",KinoJam 2 HD
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/7261/index.m3u8
-#EXTINF:-1 group-title="Разное",TVP Seriale HD PL
+#EXTINF:-1 group-title="РегионТв",TVP Seriale HD PL
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/7281/index.m3u8
 #EXTINF:-1 group-title="Кино",Мосфильм. Золотая коллекция HD
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/7347/index.m3u8
@@ -811,7 +809,7 @@ http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/19299/index.m3u8
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/19300/index.m3u8
 #EXTINF:-1 group-title="Кино",Fresh Soviet
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/19301/index.m3u8
-#EXTINF:-1 group-title="Разное",Cine+ Classic HD FR
+#EXTINF:-1 group-title="РегионТв",Cine+ Classic HD FR
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/17039/index.m3u8
 #EXTINF:-1 group-title="Кино",Eye Media HD
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/17064/index.m3u8
@@ -871,7 +869,7 @@ http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/18131/index.m3u8
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/18132/index.m3u8
 #EXTINF:-1 group-title="Кино",Зал 8 (Триколор)
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/18133/index.m3u8
-#EXTINF:-1 group-title="Разное",Знание ТВ
+#EXTINF:-1 group-title="РегионТв",Знание ТВ
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/18134/index.m3u8
 #EXTINF:-1 group-title="Кино",Зал 10 (Триколор)
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/18135/index.m3u8
@@ -879,7 +877,7 @@ http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/18135/index.m3u8
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/18136/index.m3u8
 #EXTINF:-1 group-title="Кино",Зал 12 (Триколор)
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/18137/index.m3u8
-#EXTINF:-1 group-title="Разное",Миллет HD 
+#EXTINF:-1 group-title="РегионТв",Миллет HD 
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/19258/index.m3u8
 #EXTINF:-1 group-title="Кино",BOX Franchise HD
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/19274/index.m3u8
@@ -921,13 +919,13 @@ http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/19413/index.m3u8
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/19414/index.m3u8
 #EXTINF:-1 group-title="Кино",Citrus Live HD
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/19436/index.m3u8
-#EXTINF:-1 group-title="Разное",Рибалка HD
+#EXTINF:-1 group-title="РегионТв",Рибалка HD
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31743/index.m3u8
-#EXTINF:-1 group-title="Разное",Перший Західний HD
+#EXTINF:-1 group-title="РегионТв",Перший Західний HD
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31752/index.m3u8
-#EXTINF:-1 group-title="Разное",Терра
+#EXTINF:-1 group-title="РегионТв",Терра
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31753/index.m3u8
-#EXTINF:-1 group-title="Разное",UTravel HD
+#EXTINF:-1 group-title="РегионТв",UTravel HD
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31762/index.m3u8
 #EXTINF:-1 group-title="Кино",Viasat Kino Comedy HD
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31764/index.m3u8
@@ -935,17 +933,17 @@ http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31764/index.m3u8
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31765/index.m3u8
 #EXTINF:-1 group-title="Кино",Viasat Nature CEE HD
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31766/index.m3u8
-#EXTINF:-1 group-title="Разное",Viasat Kino World
+#EXTINF:-1 group-title="РегионТв",Viasat Kino World
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31767/index.m3u8
-#EXTINF:-1 group-title="Разное",Ісландія HD
+#EXTINF:-1 group-title="РегионТв",Ісландія HD
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31769/index.m3u8
-#EXTINF:-1 group-title="Разное",Галичина HD
+#EXTINF:-1 group-title="РегионТв",Галичина HD
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31772/index.m3u8
 #EXTINF:-1 group-title="Кино",Raz 3 HD
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31780/index.m3u8
-#EXTINF:-1 group-title="Разное",11 Канал HD (Дніпро)
+#EXTINF:-1 group-title="РегионТв",11 Канал HD (Дніпро)
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31785/index.m3u8
-#EXTINF:-1 group-title="Разное",36.6 TV
+#EXTINF:-1 group-title="РегионТв",36.6 TV
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31787/index.m3u8
 #EXTINF:-1 group-title="Кино",4ever Cinema HD
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31788/index.m3u8
@@ -953,7 +951,7 @@ http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31788/index.m3u8
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31796/index.m3u8
 #EXTINF:-1 group-title="Кино",Cine+ Legend HD
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31797/index.m3u8
-#EXTINF:-1 group-title="Разное",D1 HD
+#EXTINF:-1 group-title="РегионТв",D1 HD
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31798/index.m3u8
 #EXTINF:-1 group-title="Кино",Kinosweet HD
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31816/index.m3u8
@@ -965,7 +963,7 @@ http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31719/index.m3u8
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31720/index.m3u8
 #EXTINF:-1 group-title="Кино",StrahTV Фантастика 2.0 HD
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31722/index.m3u8
-#EXTINF:-1 group-title="Разное",Фауна
+#EXTINF:-1 group-title="РегионТв",Фауна
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31727/index.m3u8
 #EXTINF:-1 group-title="Кино",StrahTV Байки из склепа
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31711/index.m3u8
@@ -1003,29 +1001,29 @@ http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31702/index.m3u8
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31693/index.m3u8
 #EXTINF:-1 group-title="Кино",Z!Action HD
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31694/index.m3u8
-#EXTINF:-1 group-title="Разное",Calle 13 HD ES
+#EXTINF:-1 group-title="РегионТв",Calle 13 HD ES
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31836/index.m3u8
-#EXTINF:-1 group-title="Разное",M+ Drama HD ES
+#EXTINF:-1 group-title="РегионТв",M+ Drama HD ES
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31866/index.m3u8
-#EXTINF:-1 group-title="Разное",M+ Acción HD ES
+#EXTINF:-1 group-title="РегионТв",M+ Acción HD ES
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31868/index.m3u8
-#EXTINF:-1 group-title="Разное",M+ Comedia HD ES
+#EXTINF:-1 group-title="РегионТв",M+ Comedia HD ES
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31869/index.m3u8
-#EXTINF:-1 group-title="Разное",M+ Cine Español HD ES
+#EXTINF:-1 group-title="РегионТв",M+ Cine Español HD ES
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31870/index.m3u8
-#EXTINF:-1 group-title="Разное",M+ Estrenos HD ES
+#EXTINF:-1 group-title="РегионТв",M+ Estrenos HD ES
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31872/index.m3u8
-#EXTINF:-1 group-title="Разное",Warner TV HD ES
+#EXTINF:-1 group-title="РегионТв",Warner TV HD ES
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31873/index.m3u8
-#EXTINF:-1 group-title="Разное",AXN HD ES
+#EXTINF:-1 group-title="РегионТв",AXN HD ES
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31877/index.m3u8
-#EXTINF:-1 group-title="Разное",SYFY HD ES
+#EXTINF:-1 group-title="РегионТв",SYFY HD ES
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31880/index.m3u8
-#EXTINF:-1 group-title="Разное",Atreseries HD ES
+#EXTINF:-1 group-title="РегионТв",Atreseries HD ES
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31882/index.m3u8
-#EXTINF:-1 group-title="Разное",TCM HD ES
+#EXTINF:-1 group-title="РегионТв",TCM HD ES
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31883/index.m3u8
-#EXTINF:-1 group-title="Разное",КиноСезон HD
+#EXTINF:-1 group-title="РегионТв",КиноСезон HD
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31889/index.m3u8
 #EXTINF:-1 group-title="Кино",Suspenso HD ES
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31906/index.m3u8
@@ -1043,418 +1041,418 @@ http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/32107/index.m3u8
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/32110/index.m3u8
 #EXTINF:-1 group-title="Кино",FilmBox+ Festival
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/32111/index.m3u8
-#EXTINF:-1 group-title="Разное",Ale Kino!+ PL
+#EXTINF:-1 group-title="РегионТв",Ale Kino!+ PL
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/32186/index.m3u8
-#EXTINF:-1 group-title="Разное",U&Eden UK
+#EXTINF:-1 group-title="РегионТв",U&Eden UK
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/32256/index.m3u8
-#EXTINF:-1 group-title="Разное",U&Gold UK
+#EXTINF:-1 group-title="РегионТв",U&Gold UK
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/32257/index.m3u8
-#EXTINF:-1 group-title="Разное",U&Dave UK
+#EXTINF:-1 group-title="РегионТв",U&Dave UK
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/32258/index.m3u8
-#EXTINF:-1 group-title="Разное",Crime + Investigation UK
+#EXTINF:-1 group-title="РегионТв",Crime + Investigation UK
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/32259/index.m3u8
-#EXTINF:-1 group-title="Разное",U&Alibi UK
+#EXTINF:-1 group-title="РегионТв",U&Alibi UK
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/32260/index.m3u8
-#EXTINF:-1 group-title="Разное",Serie Club FR
+#EXTINF:-1 group-title="РегионТв",Serie Club FR
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/32264/index.m3u8
-#EXTINF:-1 group-title="Разное",Comedy Central DE
+#EXTINF:-1 group-title="РегионТв",Comedy Central DE
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/32279/index.m3u8
-#EXTINF:-1 group-title="Разное",BTV Action BG
+#EXTINF:-1 group-title="РегионТв",BTV Action BG
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/32304/index.m3u8
-#EXTINF:-1 group-title="Разное",BTV Cinema BG
+#EXTINF:-1 group-title="РегионТв",BTV Cinema BG
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/32305/index.m3u8
-#EXTINF:-1 group-title="Разное",BTV Comedy BG
+#EXTINF:-1 group-title="РегионТв",BTV Comedy BG
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/32306/index.m3u8
-#EXTINF:-1 group-title="Разное",Diema BG
+#EXTINF:-1 group-title="РегионТв",Diema BG
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/32308/index.m3u8
-#EXTINF:-1 group-title="Разное",Channel 4 HD UK
+#EXTINF:-1 group-title="РегионТв",Channel 4 HD UK
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/32330/index.m3u8
-#EXTINF:-1 group-title="Разное",HBO Max Avances HD ES
+#EXTINF:-1 group-title="РегионТв",HBO Max Avances HD ES
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/32346/index.m3u8
-#EXTINF:-1 group-title="Разное",SkyShowtime 1 HD ES
+#EXTINF:-1 group-title="РегионТв",SkyShowtime 1 HD ES
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/32347/index.m3u8
-#EXTINF:-1 group-title="Разное",AXN Movies HD ES
+#EXTINF:-1 group-title="РегионТв",AXN Movies HD ES
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/32348/index.m3u8
-#EXTINF:-1 ,Горящий камин
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Горящий камин
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/16070/index.m3u8
-#EXTINF:-1 ,VF Michael Jackson
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",VF Michael Jackson
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31554/index.m3u8
-#EXTINF:-1 ,1HD Music Television HD
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",1HD Music Television HD
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/17038/index.m3u8
-#EXTINF:-1 ,Bridge Фрэш HD
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Bridge Фрэш HD
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/9053/index.m3u8
-#EXTINF:-1 ,VeleS Dj Set
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",VeleS Dj Set
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31639/index.m3u8
-#EXTINF:-1 ,Europa Plus TV HD
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Europa Plus TV HD
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/20029/index.m3u8
-#EXTINF:-1 ,Retro Music TV CZ
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Retro Music TV CZ
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31558/index.m3u8
-#EXTINF:-1 ,Deluxe Dance HD DE
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Deluxe Dance HD DE
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31560/index.m3u8
-#EXTINF:-1 ,VF Музыкальный Новый год!
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",VF Музыкальный Новый год!
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/16140/index.m3u8
-#EXTINF:-1 ,VF Modern Talking
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",VF Modern Talking
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/14004/index.m3u8
-#EXTINF:-1 ,VF Britney Spears
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",VF Britney Spears
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/14005/index.m3u8
-#EXTINF:-1 ,Classic Music
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Classic Music
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/14008/index.m3u8
-#EXTINF:-1 ,Classic Music HD
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Classic Music HD
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/14009/index.m3u8
-#EXTINF:-1 ,МУЗ-ТВ +4
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",МУЗ-ТВ +4
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/6036/index.m3u8
-#EXTINF:-1 ,Europa Plus TV
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Europa Plus TV
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/115/index.m3u8
-#EXTINF:-1 ,МУЗ-ТВ
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",МУЗ-ТВ
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/116/index.m3u8
-#EXTINF:-1 ,Bridge Русский Хит
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Bridge Русский Хит
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/120/index.m3u8
-#EXTINF:-1 ,Bridge TV
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Bridge TV
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/122/index.m3u8
-#EXTINF:-1 ,Bridge Hits
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Bridge Hits
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/711/index.m3u8
-#EXTINF:-1 ,Bridge Шлягер
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Bridge Шлягер
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/10038/index.m3u8
-#EXTINF:-1 ,Bridge Rock
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Bridge Rock
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/17043/index.m3u8
-#EXTINF:-1 ,Музыка Первого
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Музыка Первого
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/155/index.m3u8
-#EXTINF:-1 ,Mezzo Live HD
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Mezzo Live HD
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/208/index.m3u8
-#EXTINF:-1 ,Mezzo
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Mezzo
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/707/index.m3u8
-#EXTINF:-1 ,FON Music
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",FON Music
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/710/index.m3u8
-#EXTINF:-1 ,Vostok TV
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Vostok TV
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/1054/index.m3u8
-#EXTINF:-1 ,RFM TV HD FR
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",RFM TV HD FR
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/1038/index.m3u8
-#EXTINF:-1 ,MCM Top Russia
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",MCM Top Russia
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/836/index.m3u8
-#EXTINF:-1 ,РУ.ТВ
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",РУ.ТВ
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/838/index.m3u8
-#EXTINF:-1 ,Шансон ТВ
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Шансон ТВ
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/859/index.m3u8
-#EXTINF:-1 ,Музыка Live
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Музыка Live
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/2043/index.m3u8
-#EXTINF:-1 ,Music Box Russia
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Music Box Russia
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/2048/index.m3u8
-#EXTINF:-1 ,Курай ТВ
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Курай ТВ
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/2061/index.m3u8
-#EXTINF:-1 ,о2тв
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",о2тв
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/2068/index.m3u8
-#EXTINF:-1 ,МузСоюз HD
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",МузСоюз HD
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/2137/index.m3u8
-#EXTINF:-1 ,Жар Птица
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Жар Птица
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/2142/index.m3u8
-#EXTINF:-1 ,AIVA TV HD
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",AIVA TV HD
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/2156/index.m3u8
-#EXTINF:-1 ,SONGTV Россия HD
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",SONGTV Россия HD
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/6394/index.m3u8
-#EXTINF:-1 ,NRG 91 HD GR
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",NRG 91 HD GR
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/7223/index.m3u8
-#EXTINF:-1 ,MTV HD PL
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",MTV HD PL
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/7294/index.m3u8
-#EXTINF:-1 ,VF Легенды Ретро ФМ
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",VF Легенды Ретро ФМ
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/10067/index.m3u8
-#EXTINF:-1 ,Deejay TV HD IT
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Deejay TV HD IT
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/10070/index.m3u8
-#EXTINF:-1 ,MTV SE
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",MTV SE
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/12055/index.m3u8
-#EXTINF:-1 ,Z!Music HD
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Z!Music HD
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/14138/index.m3u8
-#EXTINF:-1 ,Z!Rock HD
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Z!Rock HD
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/14139/index.m3u8
-#EXTINF:-1 ,Первый музыкальный
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Первый музыкальный
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/14143/index.m3u8
-#EXTINF:-1 ,Первый музыкальный BY
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Первый музыкальный BY
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/14145/index.m3u8
-#EXTINF:-1 ,Deluxe Music HD DE orig
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Deluxe Music HD DE orig
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/14148/index.m3u8
-#EXTINF:-1 ,Music Box Gold
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Music Box Gold
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/14149/index.m3u8
-#EXTINF:-1 ,Страна ТВ HD
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Страна ТВ HD
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/14152/index.m3u8
-#EXTINF:-1 ,V2BEAT HD UK
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",V2BEAT HD UK
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/15020/index.m3u8
-#EXTINF:-1 ,MM Relax HD
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",MM Relax HD
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/13030/index.m3u8
-#EXTINF:-1 ,Trace Urban HD
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Trace Urban HD
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/15107/index.m3u8
-#EXTINF:-1 ,МУЗ-ТВ +3 (Омск)
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",МУЗ-ТВ +3 (Омск)
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/15441/index.m3u8
-#EXTINF:-1 ,МУЗ-ТВ +0 (Элиста)
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",МУЗ-ТВ +0 (Элиста)
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/15461/index.m3u8
-#EXTINF:-1 ,VF Музыка
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",VF Музыка
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/15512/index.m3u8
-#EXTINF:-1 ,VF Music
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",VF Music
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/15516/index.m3u8
-#EXTINF:-1 ,VF Rock
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",VF Rock
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/15517/index.m3u8
-#EXTINF:-1 ,VF Караоке
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",VF Караоке
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/15518/index.m3u8
-#EXTINF:-1 ,VF Шансон
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",VF Шансон
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/15519/index.m3u8
-#EXTINF:-1 ,VF Музсоюз
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",VF Музсоюз
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/15521/index.m3u8
-#EXTINF:-1 ,VF Metal
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",VF Metal
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/17033/index.m3u8
-#EXTINF:-1 ,VF Rap
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",VF Rap
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/17034/index.m3u8
-#EXTINF:-1 ,VF Хит-парад
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",VF Хит-парад
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/17036/index.m3u8
-#EXTINF:-1 ,VF Русский рок
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",VF Русский рок
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/17037/index.m3u8
-#EXTINF:-1 ,InRating TV HD
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",InRating TV HD
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/16020/index.m3u8
-#EXTINF:-1 ,Радио Шансон HD
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Радио Шансон HD
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/16036/index.m3u8
-#EXTINF:-1 ,Kiss Kiss HD IT
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Kiss Kiss HD IT
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/16072/index.m3u8
-#EXTINF:-1 ,Kiss Kiss Italia HD
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Kiss Kiss Italia HD
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/16073/index.m3u8
-#EXTINF:-1 ,Zerouno TV HD IT
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Zerouno TV HD IT
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/16076/index.m3u8
-#EXTINF:-1 ,Bridge Фрэш
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Bridge Фрэш
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/17045/index.m3u8
-#EXTINF:-1 ,Deluxe Music HD DE
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Deluxe Music HD DE
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/17047/index.m3u8
-#EXTINF:-1 ,Радио Хит HD (Орск)
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Радио Хит HD (Орск)
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/17048/index.m3u8
-#EXTINF:-1 ,Tviksel Музыка 1 HD
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Tviksel Музыка 1 HD
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/18077/index.m3u8
-#EXTINF:-1 ,Tviksel Музыка 1 International
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Tviksel Музыка 1 International
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/18078/index.m3u8
-#EXTINF:-1 ,Tviksel Музыка 2 HD
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Tviksel Музыка 2 HD
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/18079/index.m3u8
-#EXTINF:-1 ,Tviksel Музыка 2 International
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Tviksel Музыка 2 International
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/18080/index.m3u8
-#EXTINF:-1 ,Tviksel Музыка Кино HD
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Tviksel Музыка Кино HD
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/18081/index.m3u8
-#EXTINF:-1 ,Tviksel Музыка Кино International
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Tviksel Музыка Кино International
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/18082/index.m3u8
-#EXTINF:-1 ,Tviksel Балет Опера HD
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Tviksel Балет Опера HD
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/18083/index.m3u8
-#EXTINF:-1 ,FRESH Hits HD
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",FRESH Hits HD
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/18084/index.m3u8
-#EXTINF:-1 ,FRESH Russian Hits HD
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",FRESH Russian Hits HD
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/18085/index.m3u8
-#EXTINF:-1 ,FRESH Sad Music HD
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",FRESH Sad Music HD
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/18086/index.m3u8
-#EXTINF:-1 ,FRESH Dance HD
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",FRESH Dance HD
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/18087/index.m3u8
-#EXTINF:-1 ,FRESH Rock HD
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",FRESH Rock HD
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/18088/index.m3u8
-#EXTINF:-1 ,FRESH Rock Covers HD
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",FRESH Rock Covers HD
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/18089/index.m3u8
-#EXTINF:-1 ,FRESH Russian Rap HD
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",FRESH Russian Rap HD
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/18090/index.m3u8
-#EXTINF:-1 ,FRESH Concerts HD
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",FRESH Concerts HD
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/18091/index.m3u8
-#EXTINF:-1 ,FRESH Retro HD
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",FRESH Retro HD
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/18092/index.m3u8
-#EXTINF:-1 ,FRESH Lyrics HD
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",FRESH Lyrics HD
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/18093/index.m3u8
-#EXTINF:-1 ,MTV Classic
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",MTV Classic
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/19148/index.m3u8
-#EXTINF:-1 ,Stars TV PL
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Stars TV PL
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/19168/index.m3u8
-#EXTINF:-1 ,Disco Polo Music HD PL
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Disco Polo Music HD PL
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/19169/index.m3u8
-#EXTINF:-1 ,Polo TV HD PL
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Polo TV HD PL
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/19170/index.m3u8
-#EXTINF:-1 ,Vox Music TV HD PL
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Vox Music TV HD PL
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/19171/index.m3u8
-#EXTINF:-1 ,Eska Rock TV PL
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Eska Rock TV PL
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/19172/index.m3u8
-#EXTINF:-1 ,Eska TV Extra PL
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Eska TV Extra PL
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/19173/index.m3u8
-#EXTINF:-1 ,Eska TV PL
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Eska TV PL
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/19174/index.m3u8
-#EXTINF:-1 ,MTV US
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",MTV US
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/19192/index.m3u8
-#EXTINF:-1 ,That's 70s UK
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",That's 70s UK
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/19194/index.m3u8
-#EXTINF:-1 ,Now 80s UK
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Now 80s UK
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/19196/index.m3u8
-#EXTINF:-1 ,That's Rock UK
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",That's Rock UK
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/19197/index.m3u8
-#EXTINF:-1 ,NRJ Hits HD
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",NRJ Hits HD
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/19199/index.m3u8
-#EXTINF:-1 ,FON Music HD
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",FON Music HD
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/19223/index.m3u8
-#EXTINF:-1 ,Bridge Rock HD
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Bridge Rock HD
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/19225/index.m3u8
-#EXTINF:-1 ,Bridge Русский Хит HD
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Bridge Русский Хит HD
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/19226/index.m3u8
-#EXTINF:-1 ,Bridge Hits HD
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Bridge Hits HD
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/19227/index.m3u8
-#EXTINF:-1 ,Music Box Russia HD
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Music Box Russia HD
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/19255/index.m3u8
-#EXTINF:-1 ,CHD-TV Rock HD
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",CHD-TV Rock HD
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/19394/index.m3u8
-#EXTINF:-1 ,NM Television HD
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",NM Television HD
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/20161/index.m3u8
-#EXTINF:-1 ,BOX RU.RAP HD
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",BOX RU.RAP HD
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/20171/index.m3u8
-#EXTINF:-1 ,Суспільне Київ HD
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Суспільне Київ HD
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31745/index.m3u8
-#EXTINF:-1 ,Viasat Kino Action HD
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Viasat Kino Action HD
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31763/index.m3u8
-#EXTINF:-1 ,Аверс
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Аверс
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31770/index.m3u8
-#EXTINF:-1 ,Дім
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Дім
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31776/index.m3u8
-#EXTINF:-1 ,Equalympic HD
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Equalympic HD
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31802/index.m3u8
-#EXTINF:-1 ,MTV HD ES
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",MTV HD ES
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31841/index.m3u8
-#EXTINF:-1 ,Радио Вести ФМ (Ставрополь)
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Радио Вести ФМ (Ставрополь)
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/32055/index.m3u8
-#EXTINF:-1 ,Bridge Classic
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Bridge Classic
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/32113/index.m3u8
-#EXTINF:-1 ,4Fun TV PL
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",4Fun TV PL
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/32189/index.m3u8
-#EXTINF:-1 ,Maidan (Татарстан)
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Maidan (Татарстан)
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/32215/index.m3u8
-#EXTINF:-1 ,РУ.ТВ orig
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",РУ.ТВ orig
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/32233/index.m3u8
-#EXTINF:-1 ,Радио России (Ставрополь)
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Радио России (Ставрополь)
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/32241/index.m3u8
-#EXTINF:-1 ,МУЗ-ТВ +2
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",МУЗ-ТВ +2
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/32277/index.m3u8
-#EXTINF:-1 ,МУЗ-ТВ +6
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",МУЗ-ТВ +6
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/32278/index.m3u8
-#EXTINF:-1 ,Box TV BG
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Box TV BG
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/32309/index.m3u8
-#EXTINF:-1 ,Euronews Bulgaria BG
-#EXTGRP:музыка
+#EXTINF:-1 group-title="Музыка",Euronews Bulgaria BG
+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/32311/index.m3u8
 #EXTINF:-1 ,РЕН ТВ UHD
 #EXTGRP:познавательные
@@ -1808,379 +1806,230 @@ http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/32334/index.m3u8
 #EXTGRP:познавательные
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/32337/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Тооку (Якутия)
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/9172/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Cartoon Classics
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/2075/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",VeleS Kids
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31646/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",VF Disney Cartoon
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/15027/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Карусель HD
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/20012/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",КиноМульт
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/20009/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Kids TV HD
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/20008/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",В гостях у сказки HD
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/20005/index.m3u8
-#EXTINF:-1 group-title="Детки.Тв",СуперГерои HD
-
-http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/15099/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Лёва HD
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/15098/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Liberty Мульт UKR FHD
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31659/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Baby Time
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/20030/index.m3u8
-#EXTINF:-1 group-title="Детки.Тв",KinoKazka
-
-http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/15019/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",VF Союзмультфильм
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/14238/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",VF Ералаш
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/14163/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",ТипТоп HD
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/14007/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Tiji TV
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/108/index.m3u8
-#EXTINF:-1 group-title="Детки.Тв",NickToons SE
-
-http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/6095/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Gulli Girl
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/109/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Nick Jr.
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/114/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Nickelodeon
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/541/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Детский мир
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/543/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",JimJam
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/138/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Cartoon Network HD
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/143/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Карусель
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/156/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Ani
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/129/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Мульт
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/909/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Cartoonito
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/723/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",О!
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/727/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Детский
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/730/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",В гостях у сказки
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/737/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Карусель +3
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/740/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Мультимузыка
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/749/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Мульт HD
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/921/index.m3u8
-#EXTINF:-1 group-title="Детки.Тв",Duck TV HD
-
-http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/1031/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Baby TV
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/2084/index.m3u8
-#EXTINF:-1 group-title="Детки.Тв",Da Vinci orig
-
+#EXTINF:-1 group-title="Детки.Тв",Da Vinci 
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/1033/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",СуперГерои
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/1041/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",NickToons HD
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/849/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Радость моя
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/853/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Рыжий
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/2052/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Капитан Фантастика HD
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/2098/index.m3u8
-#EXTINF:-1 group-title="Детки.Тв",Тамыр (Уфа)
-
+#EXTINF:-1 group-title="РегионТв",Тамыр (Уфа)
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/2109/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Смайл ТВ HD
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/2157/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Мультиландия
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/5055/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Polsat JimJam PL
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/7298/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",CineMan Cartoons 90
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/11001/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",CineMan Cartoons Short
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/11002/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",CineMan Cartoons Big
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/11003/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",StrahTV Кроха ТВ
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/11066/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Сказки Зайки HD
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/14150/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Yosso TV Kids
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/14173/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Yosso TV Союзмульт
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/14178/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Yosso TV Наше Детское
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/19433/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Liberty Пиксар FHD
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/15092/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Liberty Дисней FHD
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/15093/index.m3u8
-#EXTINF:-1 group-title="Детки.Тв",Disney Channel HD FR
-
-http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/15185/index.m3u8
-#EXTINF:-1 group-title="Детки.Тв",Карусель +7 (Владивосток)
-
-http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/15340/index.m3u8
-#EXTINF:-1 group-title="Детки.Тв",Карусель +3 (Омск)
-
-http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/15436/index.m3u8
-#EXTINF:-1 group-title="Детки.Тв",Карусель +7
-
-http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/15442/index.m3u8
-#EXTINF:-1 group-title="Детки.Тв",Карусель +0 (Элиста)
-
-http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/15453/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",VF Мультуб
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/15520/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",VF Новогодние мультфильмы
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/15523/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",VF Скуби-Ду
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/17007/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",MYTV Kids
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/19409/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",BCU Little HD
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/19425/index.m3u8
-#EXTINF:-1 group-title="Детки.Тв",Армія TV HD
-
+#EXTINF:-1 group-title="РегионТв",Армія TV HD
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31771/index.m3u8
-#EXTINF:-1 group-title="Детки.Тв",Da Vinci HD
-
-http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31799/index.m3u8
-#EXTINF:-1 group-title="Детки.Тв",Divi Sport HD
-
+#EXTINF:-1 group-title="Спорт",Divi Sport HD
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31800/index.m3u8
-#EXTINF:-1 group-title="Детки.Тв",Kinowood HD
-
+#EXTINF:-1 group-title="Кино",Kinowood HD
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31817/index.m3u8
-#EXTINF:-1 group-title="Детки.Тв",Уніaн Серіал
-
+#EXTINF:-1 group-title="Кино",Уніaн Серіал
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31726/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Baby TV ES
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31838/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Boing HD ES
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31839/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Disney Jr. HD ES
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31840/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Nickelodeon HD ES
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31846/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Nick Jr. HD ES
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31852/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Мультиландия HD
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31910/index.m3u8
-#EXTINF:-1 group-title="Детки.Тв",Весёлые малыши HD
-
-http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31918/index.m3u8
-#EXTINF:-1 group-title="Детки.Тв",Карусель (Ставрополь)
-
-http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31930/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Venera.TV Воскресное утро 90х
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/30152/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Venera.TV Фиксики
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/30153/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Venera.TV Вуди Вудпекер
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/30154/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Venera.TV Вспыш и чудо-машинки
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/30155/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Venera.TV Утиные истории
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/30156/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Venera.TV Три кота
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/30157/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Venera.TV Свинка Пеппа
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/30158/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Venera.TV Peppa Pig
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/30159/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Venera.TV Простоквашино
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/30160/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Venera.TV Ну, погоди!
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/30161/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Venera.TV Тимон и Пумба
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/30164/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Venera.TV Суперкрошки
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/30165/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Venera.TV Смурфики
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/30166/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Venera.TV Щенячий патруль
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/30167/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Venera.TV Смешарики
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/30168/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Venera.TV Симпсоны
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/30169/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Venera.TV Розовая пантера
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/30170/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Venera.TV Рик и Морти
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/30171/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Venera.TV Рапунцель
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/30172/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Venera.TV Пчёлка Майя
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/30173/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Venera.TV Панда и Антилопа
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/30174/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Venera.TV Охотники за привидениями
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/30175/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Venera.TV Очень странные делишки
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/30176/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Venera.TV Мишки Гамми
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/30177/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Venera.TV Мини-мишки
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/30178/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Venera.TV Микки Маус
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/30179/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Venera.TV Маша и Медведь
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/30180/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Venera.TV Даша-путешественница
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/30181/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Venera.TV Леди Баг и Супер-Кот
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/30182/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Venera.TV Крепыш и команда
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/30183/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Venera.TV Корги по имени Моко
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/30184/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Venera.TV Губка Боб
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/30186/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Venera.TV Гриффины
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/30187/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Venera.TV Еноты
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/30188/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Venera.TV Енотки. Первые слова
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/30189/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Venera.TV Экстрасенсы
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/30190/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Venera.TV Чип и Дейл
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/30191/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Venera.TV Чудеса на виражах
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/30192/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Venera.TV Бивис и Батт-Хед
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/30193/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Venera.TV Аладдин
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/30194/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Venera.TV Барбоскины
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/30195/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Venera.TV Подводная одиссея
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/30196/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Venera.TV 101 далматинец
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/30198/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Шаян ТВ (Татарстан)
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/32216/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",KidZone Max HD LT
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/32283/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Geo Super PK
-
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/32295/index.m3u8
 #EXTINF:-1 ,ТНТ UHD
 #EXTGRP:развлекательные
@@ -2191,7 +2040,7 @@ http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/2054/index.m3u8
 #EXTINF:-1 ,VF Каламбур
 #EXTGRP:развлекательные
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31557/index.m3u8
-#EXTINF:-1 group-title="Детки.Тв",VF Орел и решка
+#EXTINF:-1 ,VF Орел и решка
 #EXTGRP:развлекательные
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31476/index.m3u8
 #EXTINF:-1 ,VF Маски Шоу
