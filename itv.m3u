@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://cdn.ottpro.ru/epg/epg.xml.gz"
+#EXTM3U url-tvg="https://iptvx.one/EPG"
 #EXTINF:-1 catchup="append" catchup-days="4" catchup-source="?offset=${offset}&utcstart=${timestamp}" group-title="Эфирные" tvg-id="pervy",Первый канал
 #EXTGRP:Эфирные
 https://eu-cdn.pro100itv.com:8443/iptv/37E1E5614AF335E/AA11W/index.m3u8
