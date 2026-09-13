@@ -1342,9 +1342,6 @@ http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31617/index.m3u8
 #EXTINF:-1 group-title="ПознаюТв",Конгресс ТВ HD
 
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/2176/index.m3u8
-#EXTINF:-1 group-title="ПознаюТв",Сибирь 24 HD
-
-http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/16000/index.m3u8
 #EXTINF:-1 group-title="ПознаюТв",Арт
 
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/16141/index.m3u8
@@ -1354,9 +1351,6 @@ http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/16087/index.m3u8
 #EXTINF:-1 group-title="ПознаюТв",The Explorers HD
 
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/16035/index.m3u8
-#EXTINF:-1 group-title="ПознаюТв",Sky History HD UK
-
-http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/16037/index.m3u8
 #EXTINF:-1 group-title="ПознаюТв",Planeta BG
 
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/16090/index.m3u8
@@ -1372,13 +1366,13 @@ http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/15018/index.m3u8
 #EXTINF:-1 group-title="ПознаюТв",Museum TV HD
 
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/20032/index.m3u8
-#EXTINF:-1 group-title="ПознаюТв",Авто 24 HD
+#EXTINF:-1 group-title="Спорт",Авто 24 HD
 
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/20033/index.m3u8
-#EXTINF:-1 group-title="ПознаюТв",Точка Отрыва HD
+#EXTINF:-1 group-title="Спорт",Точка Отрыва HD
 
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/20034/index.m3u8
-#EXTINF:-1 group-title="ПознаюТв",Мужской HD
+#EXTINF:-1 group-title="Спорт",Мужской HD
 
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/20035/index.m3u8
 #EXTINF:-1 group-title="ПознаюТв",Big Planet HD
@@ -1393,7 +1387,7 @@ http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/14027/index.m3u8
 #EXTINF:-1 group-title="ПознаюТв",Моя Планета
 
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/117/index.m3u8
-#EXTINF:-1 group-title="ПознаюТв",Outdoor Channel HD US
+#EXTINF:-1 group-title="РегионТв",Outdoor Channel HD US
 
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/119/index.m3u8
 #EXTINF:-1 group-title="ПознаюТв",BOX AutoTrend HD
@@ -1411,9 +1405,6 @@ http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/505/index.m3u8
 #EXTINF:-1 group-title="ПознаюТв",Доктор
 
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/512/index.m3u8
-#EXTINF:-1 group-title="ПознаюТв",Авто 24
-
-http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/538/index.m3u8
 #EXTINF:-1 group-title="ПознаюТв",National Geographic Wild
 
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/133/index.m3u8
@@ -1426,7 +1417,7 @@ http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/137/index.m3u8
 #EXTINF:-1 group-title="ПознаюТв",Discovery Channel
 
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/140/index.m3u8
-#EXTINF:-1 group-title="ПознаюТв",Авто Плюс
+#EXTINF:-1 group-title="Спорт",Авто Плюс
 
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/151/index.m3u8
 #EXTINF:-1 group-title="ПознаюТв",Кухня
@@ -1438,7 +1429,7 @@ http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/552/index.m3u8
 #EXTINF:-1 group-title="ПознаюТв",Домашние Животные
 
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/158/index.m3u8
-#EXTINF:-1 group-title="ПознаюТв",Точка Отрыва
+#EXTINF:-1 group-title="Спорт",Точка Отрыва
 
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/159/index.m3u8
 #EXTINF:-1 group-title="ПознаюТв",Надежда HD
@@ -1465,15 +1456,9 @@ http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/731/index.m3u8
 #EXTINF:-1 group-title="ПознаюТв",Усадьба
 
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/532/index.m3u8
-#EXTINF:-1 group-title="ПознаюТв",English Club TV
-
-http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/993/index.m3u8
 #EXTINF:-1 group-title="ПознаюТв",English Class HD
 
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/15190/index.m3u8
-#EXTINF:-1 group-title="ПознаюТв",History 2 HD
-
-http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/1052/index.m3u8
 #EXTINF:-1 group-title="ПознаюТв",History FHD
 
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/837/index.m3u8
@@ -1525,15 +1510,9 @@ http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/2101/index.m3u8
 #EXTINF:-1 group-title="ПознаюТв",Наша Тема
 
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/2118/index.m3u8
-#EXTINF:-1 group-title="ПознаюТв",Пёс и Ко
-
-http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/2123/index.m3u8
 #EXTINF:-1 group-title="ПознаюТв",Наука HD
 
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/2155/index.m3u8
-#EXTINF:-1 group-title="ПознаюТв",Museum TV HD FR
-
-http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/7246/index.m3u8
 #EXTINF:-1 group-title="ПознаюТв",National Geographic HD DE
 
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/7255/index.m3u8
@@ -1561,10 +1540,10 @@ http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/15219/index.m3u8
 #EXTINF:-1 group-title="ПознаюТв",Viju Nature HD
 
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/15225/index.m3u8
-#EXTINF:-1 group-title="ПознаюТв",VF Авто
+#EXTINF:-1 group-title="Спорт",VF Авто
 
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/15511/index.m3u8
-#EXTINF:-1 group-title="ПознаюТв",VF Охота
+#EXTINF:-1 group-title="Спорт",VF Охота
 
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/15513/index.m3u8
 #EXTINF:-1 group-title="ПознаюТв",VF Домашний повар
@@ -1573,7 +1552,7 @@ http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/15514/index.m3u8
 #EXTINF:-1 group-title="ПознаюТв",VF Путешествия
 
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/15515/index.m3u8
-#EXTINF:-1 group-title="ПознаюТв",VF Рыбалка
+#EXTINF:-1 group-title="Спорт",VF Рыбалка
 
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/16138/index.m3u8
 #EXTINF:-1 group-title="ПознаюТв",VF Стройка
@@ -1609,22 +1588,10 @@ http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/19412/index.m3u8
 #EXTINF:-1 group-title="ПознаюТв",MM Открытия HD
 
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/19415/index.m3u8
-#EXTINF:-1 group-title="ПознаюТв",Рада HD
-
-http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31739/index.m3u8
-#EXTINF:-1 group-title="ПознаюТв",Радіо ТВА (Чернівці)
-
-http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31740/index.m3u8
-#EXTINF:-1 group-title="ПознаюТв",Радіо Закарпаття FM
-
-http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31741/index.m3u8
-#EXTINF:-1 group-title="ПознаюТв",Радіо Промінь
-
-http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31742/index.m3u8
 #EXTINF:-1 group-title="ПознаюТв",Вкус HD
 
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31921/index.m3u8
-#EXTINF:-1 group-title="ПознаюТв",Bridge Этно HD
+#EXTINF:-1 group-title="Музыка",Bridge Этно HD
 
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31922/index.m3u8
 #EXTINF:-1 group-title="ПознаюТв",Первый Российский Национальный Канал HD
@@ -1654,9 +1621,6 @@ http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/32254/index.m3u8
 #EXTINF:-1 group-title="ПознаюТв",More4 UK
 
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/32334/index.m3u8
-#EXTINF:-1 group-title="ПознаюТв",True Crime UK
-
-http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/32337/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Тооку (Якутия)
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/9172/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Cartoon Classics
@@ -1883,203 +1847,137 @@ http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/32216/index.m3u8
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/32283/index.m3u8
 #EXTINF:-1 group-title="Детки.Тв",Geo Super PK
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/32295/index.m3u8
-#EXTINF:-1 ,ТНТ UHD
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",ТНТ UHD
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/19238/index.m3u8
-#EXTINF:-1 ,Epic HD
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",Epic HD
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/2054/index.m3u8
-#EXTINF:-1 ,VF Каламбур
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",VF Каламбур
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31557/index.m3u8
-#EXTINF:-1 ,VF Орел и решка
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",VF Орел и решка
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31476/index.m3u8
-#EXTINF:-1 ,VF Маски Шоу
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",VF Маски Шоу
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31556/index.m3u8
-#EXTINF:-1 ,BOX Lo-Fi HD
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",BOX Lo-Fi HD
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31545/index.m3u8
-#EXTINF:-1 ,VF КВН
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",VF КВН
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/14170/index.m3u8
-#EXTINF:-1 ,Лапки Live HD
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",Лапки Live HD
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/2028/index.m3u8
-#EXTINF:-1 ,FilmZone EE
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",FilmZone EE
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/16016/index.m3u8
-#EXTINF:-1 ,MyZen TV HD
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",MyZen TV HD
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/20011/index.m3u8
-#EXTINF:-1 ,НТВ Стиль HD
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",НТВ Стиль HD
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/20037/index.m3u8
-#EXTINF:-1 ,Кухня HD
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",Кухня HD
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/15132/index.m3u8
-#EXTINF:-1 ,FashionBox HD
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",FashionBox HD
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/20038/index.m3u8
-#EXTINF:-1 ,Ключ HD
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",Ключ HD
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/20041/index.m3u8
-#EXTINF:-1 ,Silk Way HD KZ
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",Silk Way HD KZ
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/20044/index.m3u8
-#EXTINF:-1 ,VF Концерты
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",VF Концерты
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/14159/index.m3u8
-#EXTINF:-1 ,OstWest DE
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",OstWest DE
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/14021/index.m3u8
-#EXTINF:-1 ,Солнце
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",Солнце
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/872/index.m3u8
-#EXTINF:-1 ,Gags Network
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",Gags Network
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/14024/index.m3u8
-#EXTINF:-1 ,ТНТ4
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",ТНТ4
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/104/index.m3u8
-#EXTINF:-1 ,ТНТ4 +0 (Тамбов)
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",ТНТ4 +0 (Тамбов)
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/15401/index.m3u8
-#EXTINF:-1 ,Жара
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",Жара
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/105/index.m3u8
-#EXTINF:-1 ,НТВ Стиль
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",НТВ Стиль
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/745/index.m3u8
-#EXTINF:-1 ,Fashion & Lifestyle FHD
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",Fashion & Lifestyle FHD
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/1010/index.m3u8
-#EXTINF:-1 ,World Fashion Channel
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",World Fashion Channel
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/1068/index.m3u8
-#EXTINF:-1 ,Суббота!
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",Суббота!
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/826/index.m3u8
-#EXTINF:-1 ,Драйв
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",Драйв
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/2021/index.m3u8
-#EXTINF:-1 ,Мужской
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",Мужской
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/2047/index.m3u8
-#EXTINF:-1 ,Luxury HD
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",Luxury HD
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/2072/index.m3u8
-#EXTINF:-1 ,Luxury
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",Luxury
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/5032/index.m3u8
-#EXTINF:-1 ,Анекдот ТВ
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",Анекдот ТВ
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/5034/index.m3u8
-#EXTINF:-1 ,Театр
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",Театр
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/2431/index.m3u8
-#EXTINF:-1 ,ТНТ HD orig
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",ТНТ HD orig
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/7251/index.m3u8
-#EXTINF:-1 ,StrahTV Назад в 90-e
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",StrahTV Назад в 90-e
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/11067/index.m3u8
-#EXTINF:-1 ,Перец International
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",Перец International
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/15227/index.m3u8
-#EXTINF:-1 ,СТС International
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",СТС International
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/15228/index.m3u8
-#EXTINF:-1 ,VF Юмор 18+
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",VF Юмор 18+
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/16137/index.m3u8
-#EXTINF:-1 ,VF Уральские пельмени
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",VF Уральские пельмени
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/18198/index.m3u8
-#EXTINF:-1 ,VF Кухня
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",VF Кухня
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/18199/index.m3u8
-#EXTINF:-1 ,VF Баня
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",VF Баня
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/18200/index.m3u8
-#EXTINF:-1 ,Be Mad HD ES
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",Be Mad HD ES
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31819/index.m3u8
-#EXTINF:-1 ,Nova HD ES
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",Nova HD ES
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31837/index.m3u8
-#EXTINF:-1 ,Comedy Central HD ES
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",Comedy Central HD ES
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31843/index.m3u8
-#EXTINF:-1 ,Cosmo HD ES
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",Cosmo HD ES
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31871/index.m3u8
-#EXTINF:-1 ,M+ Ellas Vamos HD ES
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",M+ Ellas Vamos HD ES
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31875/index.m3u8
-#EXTINF:-1 ,Energy HD ES
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",Energy HD ES
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31879/index.m3u8
-#EXTINF:-1 ,Neox HD ES
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",Neox HD ES
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31881/index.m3u8
-#EXTINF:-1 ,M+ Vacaciones HD ES
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",M+ Vacaciones HD ES
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31884/index.m3u8
-#EXTINF:-1 ,СТС +0 (Липецк)
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",СТС +0 (Липецк)
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31896/index.m3u8
-#EXTINF:-1 ,2x2 HD
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",2x2 HD
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31913/index.m3u8
-#EXTINF:-1 ,Плюс/Минус 16 HD
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",Плюс/Минус 16 HD
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31916/index.m3u8
-#EXTINF:-1 ,Женский Журнал
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",Женский Журнал
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31932/index.m3u8
-#EXTINF:-1 ,Viva Vintage HD IL
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",Viva Vintage HD IL
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31937/index.m3u8
-#EXTINF:-1 ,Luli SD IL
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",Luli SD IL
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31939/index.m3u8
-#EXTINF:-1 ,HOT Senior HD IL
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",HOT Senior HD IL
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/31940/index.m3u8
-#EXTINF:-1 ,Russian Extreme
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",Russian Extreme
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/32232/index.m3u8
-#EXTINF:-1 ,ВОТ ТВ HD (Липецк)
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",ВОТ ТВ HD (Липецк)
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/32234/index.m3u8
-#EXTINF:-1 ,TVM Channel
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",TVM Channel
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/32293/index.m3u8
-#EXTINF:-1 ,Geo Entertainment HD PK
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",Geo Entertainment HD PK
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/32296/index.m3u8
-#EXTINF:-1 ,BTV BG
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",BTV BG
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/32303/index.m3u8
-#EXTINF:-1 ,Nova BG
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",Nova BG
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/32307/index.m3u8
-#EXTINF:-1 ,City TV BG
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",City TV BG
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/32310/index.m3u8
-#EXTINF:-1 ,5USA UK
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",5USA UK
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/32327/index.m3u8
-#EXTINF:-1 ,5Star UK
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",5Star UK
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/32328/index.m3u8
-#EXTINF:-1 ,4seven UK
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",4seven UK
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/32329/index.m3u8
-#EXTINF:-1 ,Comedy Centra Extra UK
-#EXTGRP:развлекательные
+#EXTINF:-1 group-title="ПознаюТв",Comedy Centra Extra UK
 http://5d26f3c6.amazzin.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/32333/index.m3u8
 #EXTINF:-1 ,VF Король и Шут
 #EXTGRP:другие
