@@ -3924,1361 +3924,1362 @@ http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32184/index.m3u8
 #EXTINF:-1 ,БНТ 2 BG
 #EXTGRP:другие
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32302/index.m3u8
-#EXTINF:-1 ,Sky Sports Tennis HD 50 UK
-#EXTGRP:спорт
-http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6546/index.m3u8
-#EXTINF:-1 ,Tring Sport 1 HD AL
-#EXTGRP:спорт
-http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31563/index.m3u8
-#EXTINF:-1 ,Tring Sport 2 HD AL
-#EXTGRP:спорт
-http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31564/index.m3u8
-#EXTINF:-1 ,Tring Sport 3 HD AL
-#EXTGRP:спорт
-http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31565/index.m3u8
-#EXTINF:-1 ,Sport 1 HD HU
-#EXTGRP:спорт
-http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31568/index.m3u8
-#EXTINF:-1 ,Окко Футбол UHD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Окко Футбол UHD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19430/index.m3u8
-#EXTINF:-1 ,Eurosport 1 UHD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Eurosport 1 UHD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19432/index.m3u8
-#EXTINF:-1 ,Sport 2 HD HU
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sport 2 HD HU
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31569/index.m3u8
-#EXTINF:-1 ,Eurosport 2 UHD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Eurosport 2 UHD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19431/index.m3u8
-#EXTINF:-1 ,Nova Sport 3 HD CZ
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Nova Sport 3 HD CZ
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31570/index.m3u8
-#EXTINF:-1 ,Nova Sport 4 HD CZ
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Nova Sport 4 HD CZ
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31571/index.m3u8
-#EXTINF:-1 ,Cytavision Sports 1 GR
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Cytavision Sports 1 GR
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31572/index.m3u8
-#EXTINF:-1 ,Cytavision Sports 2 GR
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Cytavision Sports 2 GR
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31573/index.m3u8
-#EXTINF:-1 ,Cytavision Sports 3 GR
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Cytavision Sports 3 GR
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31574/index.m3u8
-#EXTINF:-1 ,Cytavision Sports 5 GR
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Cytavision Sports 5 GR
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31575/index.m3u8
-#EXTINF:-1 ,Cytavision Sports 6 GR
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Cytavision Sports 6 GR
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31576/index.m3u8
-#EXTINF:-1 ,Cytavision Sports 7 GR
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Cytavision Sports 7 GR
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31577/index.m3u8
-#EXTINF:-1 ,Cosmote Sport 1 HD GR
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Cosmote Sport 1 HD GR
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31578/index.m3u8
-#EXTINF:-1 ,Cosmote Sport 2 HD GR
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Cosmote Sport 2 HD GR
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31579/index.m3u8
-#EXTINF:-1 ,Cosmote Sport 3 HD GR
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Cosmote Sport 3 HD GR
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31581/index.m3u8
-#EXTINF:-1 ,Cosmote Sport 4 HD GR
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Cosmote Sport 4 HD GR
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31582/index.m3u8
-#EXTINF:-1 ,Cosmote Sport 5 HD GR
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Cosmote Sport 5 HD GR
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31583/index.m3u8
-#EXTINF:-1 ,Cosmote Sport 6 HD GR
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Cosmote Sport 6 HD GR
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31584/index.m3u8
-#EXTINF:-1 ,Cosmote Sport 7 HD GR
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Cosmote Sport 7 HD GR
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31585/index.m3u8
-#EXTINF:-1 ,Cosmote Sport 8 HD GR
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Cosmote Sport 8 HD GR
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31586/index.m3u8
-#EXTINF:-1 ,Cosmote Sport 9 HD GR
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Cosmote Sport 9 HD GR
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31587/index.m3u8
-#EXTINF:-1 ,Cosmote Sport Highlights HD GR
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Cosmote Sport Highlights HD GR
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31588/index.m3u8
-#EXTINF:-1 ,Sport TV+ HD PT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sport TV+ HD PT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31590/index.m3u8
-#EXTINF:-1 ,Canal 11 HD PT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Canal 11 HD PT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31592/index.m3u8
-#EXTINF:-1 ,Sport Extra HD RO
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sport Extra HD RO
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31595/index.m3u8
-#EXTINF:-1 ,Liverpool FC TV UK
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Liverpool FC TV UK
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31596/index.m3u8
-#EXTINF:-1 ,Arena Esport HD RS
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Arena Esport HD RS
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31597/index.m3u8
-#EXTINF:-1 ,Arena Fight HD RS
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Arena Fight HD RS
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31598/index.m3u8
-#EXTINF:-1 ,Arena Premium 1 HD RS
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Arena Premium 1 HD RS
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31599/index.m3u8
-#EXTINF:-1 ,Arena Premium 2 HD RS
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Arena Premium 2 HD RS
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31600/index.m3u8
-#EXTINF:-1 ,Arena Premium 3 HD RS
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Arena Premium 3 HD RS
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31601/index.m3u8
-#EXTINF:-1 ,Arena Sport 1 HD RS
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Arena Sport 1 HD RS
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31602/index.m3u8
-#EXTINF:-1 ,Arena Sport 3 HD RS
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Arena Sport 3 HD RS
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31603/index.m3u8
-#EXTINF:-1 ,Arena Sport 4 HD RS
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Arena Sport 4 HD RS
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31605/index.m3u8
-#EXTINF:-1 ,Arena Sport 5 HD RS
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Arena Sport 5 HD RS
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31606/index.m3u8
-#EXTINF:-1 ,Arena Sport 6 HD RS
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Arena Sport 6 HD RS
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31607/index.m3u8
-#EXTINF:-1 ,Arena Sport 7 HD RS
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Arena Sport 7 HD RS
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31608/index.m3u8
-#EXTINF:-1 ,Arena Sport 8 HD RS
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Arena Sport 8 HD RS
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31609/index.m3u8
-#EXTINF:-1 ,Arena Sport 9 HD RS
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Arena Sport 9 HD RS
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31610/index.m3u8
-#EXTINF:-1 ,Arena Sport 1x2 HD RS
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Arena Sport 1x2 HD RS
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31611/index.m3u8
-#EXTINF:-1 ,Sky Sports Racing HD 50 UK
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Sports Racing HD 50 UK
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/9335/index.m3u8
-#EXTINF:-1 ,Sky Sports Premier League HD 50 UK
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Sports Premier League HD 50 UK
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/9334/index.m3u8
-#EXTINF:-1 ,Sky Sports Mix HD 50 UK
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Sports Mix HD 50 UK
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/9310/index.m3u8
-#EXTINF:-1 ,Sky Sports Main Event HD 50 UK
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Sports Main Event HD 50 UK
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/9308/index.m3u8
-#EXTINF:-1 ,Sky Sports Golf HD 50 UK
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Sports Golf HD 50 UK
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/9293/index.m3u8
-#EXTINF:-1 ,Sky Sports Football HD 50 UK
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Sports Football HD 50 UK
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/9289/index.m3u8
-#EXTINF:-1 ,Sky Sports F1 HD 50 UK
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Sports F1 HD 50 UK
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/9283/index.m3u8
-#EXTINF:-1 ,Sky Sports Cricket HD 50 UK
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Sports Cricket HD 50 UK
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/9258/index.m3u8
-#EXTINF:-1 ,Sky Sports+ HD UK
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Sports+ HD UK
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/9248/index.m3u8
-#EXTINF:-1 ,Sky Sports Action HD 50 UK
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Sports Action HD 50 UK
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/9155/index.m3u8
-#EXTINF:-1 ,Premier Sports 1 HD 50 UK
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Premier Sports 1 HD 50 UK
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/2160/index.m3u8
-#EXTINF:-1 ,Старт Триумф HD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Старт Триумф HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/16034/index.m3u8
-#EXTINF:-1 ,5Sport 4K
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",5Sport 4K
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/16019/index.m3u8
-#EXTINF:-1 ,Sky Sport Golf HD DE
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Sport Golf HD DE
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/5043/index.m3u8
-#EXTINF:-1 ,Sky Sport Premier League HD DE
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Sport Premier League HD DE
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/5042/index.m3u8
-#EXTINF:-1 ,Мир Баскетбола HD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Мир Баскетбола HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/20004/index.m3u8
-#EXTINF:-1 ,Extreme Sports HD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Extreme Sports HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/20028/index.m3u8
-#EXTINF:-1 ,Матч ТВ +4 (Алтай)
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Матч ТВ +4 (Алтай)
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15289/index.m3u8
-#EXTINF:-1 ,KHL Prime HD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",KHL Prime HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19396/index.m3u8
-#EXTINF:-1 ,BOX Be On Edge Live 1 HD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",BOX Be On Edge Live 1 HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19422/index.m3u8
-#EXTINF:-1 ,BOX Be On Edge Live 2 HD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",BOX Be On Edge Live 2 HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19423/index.m3u8
-#EXTINF:-1 ,BOX Be On Edge HD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",BOX Be On Edge HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19424/index.m3u8
-#EXTINF:-1 ,Матч! Страна
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Матч! Страна
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/107/index.m3u8
-#EXTINF:-1 ,Матч ТВ +2
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Матч ТВ +2
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6012/index.m3u8
-#EXTINF:-1 ,Матч ТВ +3 (Омск)
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Матч ТВ +3 (Омск)
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15432/index.m3u8
-#EXTINF:-1 ,Матч ТВ +4
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Матч ТВ +4
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6023/index.m3u8
-#EXTINF:-1 ,Матч ТВ +8
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Матч ТВ +8
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6052/index.m3u8
-#EXTINF:-1 ,Motorvision+ DE
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Motorvision+ DE
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6112/index.m3u8
-#EXTINF:-1 ,Sky 1 AU
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky 1 AU
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6122/index.m3u8
-#EXTINF:-1 ,Sky Sport Austria 2 HD DE
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Sports Tennis HD 50 UK
+
+http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6546/index.m3u8
+#EXTINF:-1 group-title="Спорт",Tring Sport 1 HD AL
+
+http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31563/index.m3u8
+#EXTINF:-1 group-title="Спорт",Tring Sport 2 HD AL
+
+http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31564/index.m3u8
+#EXTINF:-1 group-title="Спорт",Tring Sport 3 HD AL
+
+http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31565/index.m3u8
+#EXTINF:-1 group-title="Спорт",Sport 1 HD HU
+
+http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31568/index.m3u8
+
+#EXTINF:-1 group-title="Спорт",Sky Sport Austria 2 HD DE
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6113/index.m3u8
-#EXTINF:-1 ,Canal+ Sport 2 HD PL
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Canal+ Sport 2 HD PL
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6099/index.m3u8
-#EXTINF:-1 ,Band Sports BR
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Band Sports BR
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6158/index.m3u8
-#EXTINF:-1 ,Матч! Планета
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Матч! Планета
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/123/index.m3u8
-#EXTINF:-1 ,Матч! Футбол 1
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 1
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/124/index.m3u8
-#EXTINF:-1 ,KHL
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",KHL
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/519/index.m3u8
-#EXTINF:-1 ,Матч! Футбол 3
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 3
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/522/index.m3u8
-#EXTINF:-1 ,Матч! Арена
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Матч! Арена
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/528/index.m3u8
-#EXTINF:-1 ,Матч! Игра
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Матч! Игра
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/529/index.m3u8
-#EXTINF:-1 ,Матч! Футбол 2
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 2
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/530/index.m3u8
-#EXTINF:-1 ,Матч! Премьер
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Матч! Премьер
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/531/index.m3u8
-#EXTINF:-1 ,Матч ТВ
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Матч ТВ
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/535/index.m3u8
-#EXTINF:-1 ,Eurosport 1
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Eurosport 1
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/141/index.m3u8
-#EXTINF:-1 ,Extreme Sports
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Extreme Sports
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/144/index.m3u8
-#EXTINF:-1 ,Матч! Боец
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Матч! Боец
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/150/index.m3u8
-#EXTINF:-1 ,Viju+ Sport
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Viju+ Sport
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/160/index.m3u8
-#EXTINF:-1 ,MMA-TV.com
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",MMA-TV.com
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/843/index.m3u8
-#EXTINF:-1 ,Бокс ТВ
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Бокс ТВ
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/870/index.m3u8
-#EXTINF:-1 ,Старт FHD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Старт FHD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/2154/index.m3u8
-#EXTINF:-1 ,Футбол
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Футбол
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/5050/index.m3u8
-#EXTINF:-1 ,Sky Sport News HD DE
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Sport News HD DE
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/2477/index.m3u8
-#EXTINF:-1 ,Sky Sport 1 FHD DE
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Sport 1 FHD DE
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/2478/index.m3u8
-#EXTINF:-1 ,Sky Sport 2 HD DE
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Sport 2 HD DE
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/2479/index.m3u8
-#EXTINF:-1 ,Sky Sport Bundesliga 1 HD DE
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Sport Bundesliga 1 HD DE
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/2480/index.m3u8
-#EXTINF:-1 ,Sky Sport Austria 1 HD DE
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Sport Austria 1 HD DE
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/2492/index.m3u8
-#EXTINF:-1 ,beIN Sports 1 HD FR
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",beIN Sports 1 HD FR
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/2499/index.m3u8
-#EXTINF:-1 ,beIN Sports 2 HD FR
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",beIN Sports 2 HD FR
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/2500/index.m3u8
-#EXTINF:-1 ,beIN Sports 3 HD FR
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",beIN Sports 3 HD FR
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/2501/index.m3u8
-#EXTINF:-1 ,Canal+ Sport HD FR
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Canal+ Sport HD FR
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/2502/index.m3u8
-#EXTINF:-1 ,Sport 1 HD DE
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sport 1 HD DE
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/2503/index.m3u8
-#EXTINF:-1 ,TNT Sports 1 FHD UK
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",TNT Sports 1 FHD UK
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/2505/index.m3u8
-#EXTINF:-1 ,TNT Sports 2 HD UK
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",TNT Sports 2 HD UK
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/2506/index.m3u8
-#EXTINF:-1 ,Star Sports 2 IN
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Star Sports 2 IN
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/2507/index.m3u8
-#EXTINF:-1 ,Star Sports 1 IN
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Star Sports 1 IN
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/2508/index.m3u8
-#EXTINF:-1 ,YAS Sports AE
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",YAS Sports AE
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/2511/index.m3u8
-#EXTINF:-1 ,ON Sport 1 HD EG
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",ON Sport 1 HD EG
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/2512/index.m3u8
-#EXTINF:-1 ,Eleven Sports 2 HD PL
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Eleven Sports 2 HD PL
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/2517/index.m3u8
-#EXTINF:-1 ,Eleven Sports 1 HD PL
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Eleven Sports 1 HD PL
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/2518/index.m3u8
-#EXTINF:-1 ,Canal+ Sport 5 HD PL
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Canal+ Sport 5 HD PL
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/2519/index.m3u8
-#EXTINF:-1 ,TVP Sport HD PL
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",TVP Sport HD PL
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/2520/index.m3u8
-#EXTINF:-1 ,DIGI Sport 2 HD RO
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",DIGI Sport 2 HD RO
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/2522/index.m3u8
-#EXTINF:-1 ,DIGI Sport 1 HD RO
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",DIGI Sport 1 HD RO
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/2523/index.m3u8
-#EXTINF:-1 ,DIGI Sport 3 HD RO
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",DIGI Sport 3 HD RO
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/2524/index.m3u8
-#EXTINF:-1 ,Sport TV 1 HD PT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sport TV 1 HD PT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/2525/index.m3u8
-#EXTINF:-1 ,Sport TV 2 HD PT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sport TV 2 HD PT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/2526/index.m3u8
-#EXTINF:-1 ,Sport TV 3 HD PT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sport TV 3 HD PT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/2527/index.m3u8
-#EXTINF:-1 ,Sport TV 4 HD PT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sport TV 4 HD PT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/2528/index.m3u8
-#EXTINF:-1 ,Sport TV 5 HD PT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sport TV 5 HD PT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/2529/index.m3u8
-#EXTINF:-1 ,Sporting TV FHD PT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sporting TV FHD PT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/2530/index.m3u8
-#EXTINF:-1 ,DAZN 1 HD PT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",DAZN 1 HD PT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/2531/index.m3u8
-#EXTINF:-1 ,DAZN 2 FHD PT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",DAZN 2 FHD PT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/2532/index.m3u8
-#EXTINF:-1 ,DAZN 4 FHD PT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",DAZN 4 FHD PT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/2534/index.m3u8
-#EXTINF:-1 ,DAZN 5 FHD PT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",DAZN 5 FHD PT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/2535/index.m3u8
-#EXTINF:-1 ,DAZN 6 FHD PT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",DAZN 6 FHD PT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/2536/index.m3u8
-#EXTINF:-1 ,DIGI Sport 4 HD RO
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",DIGI Sport 4 HD RO
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/2538/index.m3u8
-#EXTINF:-1 ,TV 2 Sport 2 HD NO
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",TV 2 Sport 2 HD NO
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/2540/index.m3u8
-#EXTINF:-1 ,MTV Viihde HD FI
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",MTV Viihde HD FI
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/2541/index.m3u8
-#EXTINF:-1 ,RMC Sport 1 HD FR
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",RMC Sport 1 HD FR
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/2545/index.m3u8
-#EXTINF:-1 ,RMC Sport 2 HD FR
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",RMC Sport 2 HD FR
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/2546/index.m3u8
-#EXTINF:-1 ,RMC Sport 3 HD FR
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",RMC Sport 3 HD FR
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/2547/index.m3u8
-#EXTINF:-1 ,Sport 1 LT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sport 1 LT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/2548/index.m3u8
-#EXTINF:-1 ,Arena Sport 1 FHD RS
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Arena Sport 1 FHD RS
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/2550/index.m3u8
-#EXTINF:-1 ,ČT sport HD CZ
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",ČT sport HD CZ
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/2551/index.m3u8
-#EXTINF:-1 ,Nova Sport 1 HD CZ
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Nova Sport 1 HD CZ
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/2555/index.m3u8
-#EXTINF:-1 ,Nova Sport 2 HD CZ
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Nova Sport 2 HD CZ
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/2556/index.m3u8
-#EXTINF:-1 ,Sport 2 HD CZ
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sport 2 HD CZ
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/2557/index.m3u8
-#EXTINF:-1 ,Ziggo Sport 3 HD NL
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Ziggo Sport 3 HD NL
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/2559/index.m3u8
-#EXTINF:-1 ,Ziggo Sport HD NL
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Ziggo Sport HD NL
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/2560/index.m3u8
-#EXTINF:-1 ,Ziggo Sport 2 HD NL
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Ziggo Sport 2 HD NL
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/2561/index.m3u8
-#EXTINF:-1 ,Infosport+ HD FR
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Infosport+ HD FR
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/2544/index.m3u8
-#EXTINF:-1 ,Setanta Sports 1 HD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Setanta Sports 1 HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6541/index.m3u8
-#EXTINF:-1 ,Setanta Sports 2 HD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Setanta Sports 2 HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6542/index.m3u8
-#EXTINF:-1 ,Setanta Sports 1
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Setanta Sports 1
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6543/index.m3u8
-#EXTINF:-1 ,Setanta Sports 2
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Setanta Sports 2
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6544/index.m3u8
-#EXTINF:-1 ,Окко Футбол HD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Окко Футбол HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6554/index.m3u8
-#EXTINF:-1 ,Premier Sports 1 HD UK
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Premier Sports 1 HD UK
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6555/index.m3u8
-#EXTINF:-1 ,Eurosport 2 HD UK
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Eurosport 2 HD UK
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6556/index.m3u8
-#EXTINF:-1 ,TNT Sports 3 HD UK
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",TNT Sports 3 HD UK
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6564/index.m3u8
-#EXTINF:-1 ,TNT Sports 1 HD UK
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",TNT Sports 1 HD UK
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6566/index.m3u8
-#EXTINF:-1 ,DAZN 3 FHD PT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",DAZN 3 FHD PT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7062/index.m3u8
-#EXTINF:-1 ,Sky Sport Bundesliga 2 HD DE
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Sport Bundesliga 2 HD DE
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7234/index.m3u8
-#EXTINF:-1 ,Sky Sport Bundesliga 3 HD DE
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Sport Bundesliga 3 HD DE
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7235/index.m3u8
-#EXTINF:-1 ,Sky Sport Bundesliga 5 HD DE
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Sport Bundesliga 5 HD DE
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7237/index.m3u8
-#EXTINF:-1 ,Sky Sport Bundesliga 6 HD DE
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Sport Bundesliga 6 HD DE
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7238/index.m3u8
-#EXTINF:-1 ,Sky Sport Bundesliga 7 HD DE
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Sport Bundesliga 7 HD DE
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7239/index.m3u8
-#EXTINF:-1 ,Sky Sport Bundesliga 8 HD DE
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Sport Bundesliga 8 HD DE
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7240/index.m3u8
-#EXTINF:-1 ,Sky Sport Bundesliga 9 HD DE
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Sport Bundesliga 9 HD DE
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7241/index.m3u8
-#EXTINF:-1 ,Arena Sport 1 FHD HR
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Arena Sport 1 FHD HR
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7263/index.m3u8
-#EXTINF:-1 ,Arena Sport 2 FHD HR
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Arena Sport 2 FHD HR
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7264/index.m3u8
-#EXTINF:-1 ,Arena Sport 3 FHD HR
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Arena Sport 3 FHD HR
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7265/index.m3u8
-#EXTINF:-1 ,Arena Sport 4 FHD HR
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Arena Sport 4 FHD HR
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7266/index.m3u8
-#EXTINF:-1 ,Arena Sport 5 FHD HR
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Arena Sport 5 FHD HR
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7267/index.m3u8
-#EXTINF:-1 ,Arena Sport 6 FHD HR
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Arena Sport 6 FHD HR
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7268/index.m3u8
-#EXTINF:-1 ,Sport Klub 1 HD HR
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sport Klub 1 HD HR
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7269/index.m3u8
-#EXTINF:-1 ,Sport Klub 2 HD HR
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sport Klub 2 HD HR
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7270/index.m3u8
-#EXTINF:-1 ,Sport Klub 3 HD HR
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sport Klub 3 HD HR
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7271/index.m3u8
-#EXTINF:-1 ,Sport Klub 4 HD HR
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sport Klub 4 HD HR
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7272/index.m3u8
-#EXTINF:-1 ,Sport Klub 5 HD HR
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sport Klub 5 HD HR
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7273/index.m3u8
-#EXTINF:-1 ,Sport Klub 6 HD HR
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sport Klub 6 HD HR
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7274/index.m3u8
-#EXTINF:-1 ,Sport Klub 7 HD HR
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sport Klub 7 HD HR
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7275/index.m3u8
-#EXTINF:-1 ,Sport Klub 8 HD HR
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sport Klub 8 HD HR
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7276/index.m3u8
-#EXTINF:-1 ,Sport Klub Golf HR
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sport Klub Golf HR
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7277/index.m3u8
-#EXTINF:-1 ,Sport Klub Fight HD HR
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sport Klub Fight HD HR
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7278/index.m3u8
-#EXTINF:-1 ,Polsat Sport 1 HD PL
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Polsat Sport 1 HD PL
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7296/index.m3u8
-#EXTINF:-1 ,Polsat Sport 3 FHD PL
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Polsat Sport 3 FHD PL
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7303/index.m3u8
-#EXTINF:-1 ,Polsat Sport Premium 1 HD PL
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Polsat Sport Premium 1 HD PL
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7304/index.m3u8
-#EXTINF:-1 ,Polsat Sport Premium 2 HD PL
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Polsat Sport Premium 2 HD PL
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7305/index.m3u8
-#EXTINF:-1 ,Polsat Sport Extra 3 HD PL
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Polsat Sport Extra 3 HD PL
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7306/index.m3u8
-#EXTINF:-1 ,Polsat Sport Extra 4 HD PL
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Polsat Sport Extra 4 HD PL
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7307/index.m3u8
-#EXTINF:-1 ,Polsat Sport 2 HD PL
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Polsat Sport 2 HD PL
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7308/index.m3u8
-#EXTINF:-1 ,Polsat Sport Extra 2 HD PL
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Polsat Sport Extra 2 HD PL
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7309/index.m3u8
-#EXTINF:-1 ,Polsat Sport Extra 1 HD PL
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Polsat Sport Extra 1 HD PL
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7310/index.m3u8
-#EXTINF:-1 ,Polsat Sport Fight HD PL
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Polsat Sport Fight HD PL
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7311/index.m3u8
-#EXTINF:-1 ,Fox Sports 1 HD US
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Fox Sports 1 HD US
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7322/index.m3u8
-#EXTINF:-1 ,Fox Sports 2 HD US
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Fox Sports 2 HD US
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7323/index.m3u8
-#EXTINF:-1 ,CBS Sports Network HD US
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",CBS Sports Network HD US
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7324/index.m3u8
-#EXTINF:-1 ,NBC Sports Network HD US
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",NBC Sports Network HD US
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7327/index.m3u8
-#EXTINF:-1 ,NHL Network HD US
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",NHL Network HD US
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7328/index.m3u8
-#EXTINF:-1 ,Arena Sport 1 HD HR
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Arena Sport 1 HD HR
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7329/index.m3u8
-#EXTINF:-1 ,Arena Sport 2 HD HR
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Arena Sport 2 HD HR
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7330/index.m3u8
-#EXTINF:-1 ,Arena Sport 3 HD HR
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Arena Sport 3 HD HR
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7331/index.m3u8
-#EXTINF:-1 ,Arena Sport 4 HD HR
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Arena Sport 4 HD HR
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7332/index.m3u8
-#EXTINF:-1 ,Arena Sport 5 HD HR
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Arena Sport 5 HD HR
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7333/index.m3u8
-#EXTINF:-1 ,Arena Sport 6 HD HR
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Arena Sport 6 HD HR
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7334/index.m3u8
-#EXTINF:-1 ,Sky Sports Premier League HD UK
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Sports Premier League HD UK
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7335/index.m3u8
-#EXTINF:-1 ,Sky Sports Football HD UK
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Sports Football HD UK
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7336/index.m3u8
-#EXTINF:-1 ,Sky Sports Main Event HD UK
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Sports Main Event HD UK
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7337/index.m3u8
-#EXTINF:-1 ,Sky Sports Mix HD UK
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Sports Mix HD UK
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7339/index.m3u8
-#EXTINF:-1 ,Sky Sports Action HD UK
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Sports Action HD UK
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7340/index.m3u8
-#EXTINF:-1 ,Sky Sports Racing HD UK
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Sports Racing HD UK
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7341/index.m3u8
-#EXTINF:-1 ,Sky Sports F1 HD UK
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Sports F1 HD UK
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7342/index.m3u8
-#EXTINF:-1 ,Sky Sports Cricket HD UK
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Sports Cricket HD UK
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7343/index.m3u8
-#EXTINF:-1 ,Sky Sports Golf HD UK
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Sports Golf HD UK
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7344/index.m3u8
-#EXTINF:-1 ,TV 2 Sport HD DK
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",TV 2 Sport HD DK
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7355/index.m3u8
-#EXTINF:-1 ,Триколор Спорт 1
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Триколор Спорт 1
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7360/index.m3u8
-#EXTINF:-1 ,Триколор Спорт 2
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Триколор Спорт 2
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7361/index.m3u8
-#EXTINF:-1 ,Триколор Спорт 3
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Триколор Спорт 3
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7362/index.m3u8
-#EXTINF:-1 ,Триколор Спорт 4
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Триколор Спорт 4
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7363/index.m3u8
-#EXTINF:-1 ,Триколор Спорт 5
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Триколор Спорт 5
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7364/index.m3u8
-#EXTINF:-1 ,Мир Баскетбола
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Мир Баскетбола
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/10033/index.m3u8
-#EXTINF:-1 ,Хоккей ТВ HD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Хоккей ТВ HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/10039/index.m3u8
-#EXTINF:-1 ,ТВ Спорт HD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",ТВ Спорт HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/10057/index.m3u8
-#EXTINF:-1 ,Мяч HD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Мяч HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/10058/index.m3u8
-#EXTINF:-1 ,StrahTV WWE Russian
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",StrahTV WWE Russian
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/11056/index.m3u8
-#EXTINF:-1 ,V Sport Football SE
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",V Sport Football SE
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/11110/index.m3u8
-#EXTINF:-1 ,V Sport Vinter SE
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",V Sport Vinter SE
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/11111/index.m3u8
-#EXTINF:-1 ,V Sport Football HD SE
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",V Sport Football HD SE
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/12032/index.m3u8
-#EXTINF:-1 ,V Sport Motor HD SE
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",V Sport Motor HD SE
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/12033/index.m3u8
-#EXTINF:-1 ,TV4 Hits HD SE
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",TV4 Hits HD SE
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/12034/index.m3u8
-#EXTINF:-1 ,TV4 Sportkanalen HD SE
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",TV4 Sportkanalen HD SE
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/12035/index.m3u8
-#EXTINF:-1 ,TV4 Stars HD SE
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",TV4 Stars HD SE
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/12042/index.m3u8
-#EXTINF:-1 ,Eurosport 1 HD SE
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Eurosport 1 HD SE
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/12047/index.m3u8
-#EXTINF:-1 ,Eurosport 2 HD SE
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Eurosport 2 HD SE
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/12048/index.m3u8
-#EXTINF:-1 ,V Sport Extra SE
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",V Sport Extra SE
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/12074/index.m3u8
-#EXTINF:-1 ,V Sport Golf SE
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",V Sport Golf SE
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/12077/index.m3u8
-#EXTINF:-1 ,V Sport Vinter HD SE
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",V Sport Vinter HD SE
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/12078/index.m3u8
-#EXTINF:-1 ,V Sport Premium SE
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",V Sport Premium SE
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/12079/index.m3u8
-#EXTINF:-1 ,TV3 Sport SE
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",TV3 Sport SE
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/12100/index.m3u8
-#EXTINF:-1 ,Живи Активно HD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Живи Активно HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15143/index.m3u8
-#EXTINF:-1 ,Eurosport 1 FHD DE
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Eurosport 1 FHD DE
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15179/index.m3u8
-#EXTINF:-1 ,Setanta Sports HD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Setanta Sports HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15183/index.m3u8
-#EXTINF:-1 ,Setanta Sports+ HD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Setanta Sports+ HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15184/index.m3u8
-#EXTINF:-1 ,Q Sport.KG HD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Q Sport.KG HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15238/index.m3u8
-#EXTINF:-1 ,Матч ТВ +2 (Уфа)
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Матч ТВ +2 (Уфа)
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15307/index.m3u8
-#EXTINF:-1 ,Матч ТВ +0 (Липецк)
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Матч ТВ +0 (Липецк)
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15314/index.m3u8
-#EXTINF:-1 ,Матч ТВ +7 (Владивосток)
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Матч ТВ +7 (Владивосток)
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15335/index.m3u8
-#EXTINF:-1 ,Матч ТВ +4 (Томск)
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Матч ТВ +4 (Томск)
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15387/index.m3u8
-#EXTINF:-1 ,Матч ТВ +0 (Белгород)
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Матч ТВ +0 (Белгород)
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15409/index.m3u8
-#EXTINF:-1 ,Матч ТВ +0 (Элиста)
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Матч ТВ +0 (Элиста)
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15448/index.m3u8
-#EXTINF:-1 ,Red Bull TV HD DE
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Red Bull TV HD DE
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/16039/index.m3u8
-#EXTINF:-1 ,Red Bull TV HD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Red Bull TV HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/16040/index.m3u8
-#EXTINF:-1 ,Go3 Sport 1 HD EE
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Go3 Sport 1 HD EE
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/18000/index.m3u8
-#EXTINF:-1 ,Go3 Sport 2 HD EE
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Go3 Sport 2 HD EE
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/18001/index.m3u8
-#EXTINF:-1 ,Go3 Sport 1 HD LV
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Go3 Sport 1 HD LV
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/18011/index.m3u8
-#EXTINF:-1 ,Go3 Sport 2 HD LV
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Go3 Sport 2 HD LV
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/18012/index.m3u8
-#EXTINF:-1 ,Best4Sport HD LV
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Best4Sport HD LV
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/18016/index.m3u8
-#EXTINF:-1 ,Best4Sport 2 HD LV
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Best4Sport 2 HD LV
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/18015/index.m3u8
-#EXTINF:-1 ,Go3 Sport Open HD LV
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Go3 Sport Open HD LV
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/18025/index.m3u8
-#EXTINF:-1 ,Sky Sport F1 HD DE
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Sport F1 HD DE
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19022/index.m3u8
-#EXTINF:-1 ,Sportdigital Fussball HD DE
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sportdigital Fussball HD DE
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19023/index.m3u8
-#EXTINF:-1 ,Sky Sport F1 DE
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Sport F1 DE
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19027/index.m3u8
-#EXTINF:-1 ,Sky Sport 1 HD DE
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Sport 1 HD DE
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19028/index.m3u8
-#EXTINF:-1 ,Sky Sport 3 HD DE
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Sport 3 HD DE
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19030/index.m3u8
-#EXTINF:-1 ,Sky Sport 4 HD DE
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Sport 4 HD DE
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19031/index.m3u8
-#EXTINF:-1 ,Sky Sport 5 HD DE
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Sport 5 HD DE
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19032/index.m3u8
-#EXTINF:-1 ,Sky Sport 6 HD DE
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Sport 6 HD DE
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19033/index.m3u8
-#EXTINF:-1 ,Sky Sport 7 HD DE
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Sport 7 HD DE
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19034/index.m3u8
-#EXTINF:-1 ,Sky Sport 8 HD DE
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Sport 8 HD DE
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19035/index.m3u8
-#EXTINF:-1 ,Sky Sport 9 HD DE
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Sport 9 HD DE
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19036/index.m3u8
-#EXTINF:-1 ,Sky Sport 10 HD DE
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Sport 10 HD DE
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19037/index.m3u8
-#EXTINF:-1 ,DAZN 1 HD DE
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",DAZN 1 HD DE
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19042/index.m3u8
-#EXTINF:-1 ,DAZN 2 HD DE
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",DAZN 2 HD DE
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19043/index.m3u8
-#EXTINF:-1 ,TNT Sports 4 HD UK
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",TNT Sports 4 HD UK
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19054/index.m3u8
-#EXTINF:-1 ,ESPN HD BR
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",ESPN HD BR
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19056/index.m3u8
-#EXTINF:-1 ,ESPN 6 HD BR
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",ESPN 6 HD BR
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19057/index.m3u8
-#EXTINF:-1 ,ESPN BR
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",ESPN BR
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19060/index.m3u8
-#EXTINF:-1 ,ESPN 2 HD BR
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",ESPN 2 HD BR
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19061/index.m3u8
-#EXTINF:-1 ,beIN Sports Max 1 FHD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",beIN Sports Max 1 FHD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19062/index.m3u8
-#EXTINF:-1 ,beIN Sports Haber HD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",beIN Sports Haber HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19064/index.m3u8
-#EXTINF:-1 ,TRT Spor
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",TRT Spor
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19067/index.m3u8
-#EXTINF:-1 ,TRT Spor FHD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",TRT Spor FHD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19068/index.m3u8
-#EXTINF:-1 ,A Spor HD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",A Spor HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19069/index.m3u8
-#EXTINF:-1 ,TRT Spor HD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",TRT Spor HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19072/index.m3u8
-#EXTINF:-1 ,Spor Smart 2 HD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Spor Smart 2 HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19073/index.m3u8
-#EXTINF:-1 ,Tivibu Spor 1 HD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Tivibu Spor 1 HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19074/index.m3u8
-#EXTINF:-1 ,Tivibu Spor 3 HD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Tivibu Spor 3 HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19076/index.m3u8
-#EXTINF:-1 ,Sky Sport F1 HD IT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Sport F1 HD IT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19105/index.m3u8
-#EXTINF:-1 ,Rai Sport HD IT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Rai Sport HD IT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19106/index.m3u8
-#EXTINF:-1 ,Sky Sport 24 FHD IT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Sport 24 FHD IT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19107/index.m3u8
-#EXTINF:-1 ,SportItalia Calcio HD IT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",SportItalia Calcio HD IT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19108/index.m3u8
-#EXTINF:-1 ,Super Tennis HD IT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Super Tennis HD IT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19111/index.m3u8
-#EXTINF:-1 ,Sky Sport Calcio HD IT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Sport Calcio HD IT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19113/index.m3u8
-#EXTINF:-1 ,Eurosport 2 HD IT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Eurosport 2 HD IT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19116/index.m3u8
-#EXTINF:-1 ,Sky Primafila 1 HD IT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Primafila 1 HD IT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19118/index.m3u8
-#EXTINF:-1 ,Sky Primafila 2 HD IT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Primafila 2 HD IT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19119/index.m3u8
-#EXTINF:-1 ,Sky Primafila 3 HD IT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Primafila 3 HD IT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19120/index.m3u8
-#EXTINF:-1 ,Sky Primafila 4 HD IT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Primafila 4 HD IT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19121/index.m3u8
-#EXTINF:-1 ,Sky Primafila 5 HD IT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Primafila 5 HD IT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19122/index.m3u8
-#EXTINF:-1 ,Sky Primafila 6 HD IT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Primafila 6 HD IT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19123/index.m3u8
-#EXTINF:-1 ,Sky Primafila 7 HD IT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Primafila 7 HD IT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19124/index.m3u8
-#EXTINF:-1 ,Sky Primafila 8 HD IT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Primafila 8 HD IT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19125/index.m3u8
-#EXTINF:-1 ,Sky Primafila 9 HD IT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Primafila 9 HD IT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19126/index.m3u8
-#EXTINF:-1 ,Sky Sport 24 HD IT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Sport 24 HD IT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19127/index.m3u8
-#EXTINF:-1 ,Sky Sport Arena HD IT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Sport Arena HD IT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19128/index.m3u8
-#EXTINF:-1 ,Sky Sport Golf HD IT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Sport Golf HD IT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19132/index.m3u8
-#EXTINF:-1 ,Sky Sport MotoGP HD IT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sky Sport MotoGP HD IT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19133/index.m3u8
-#EXTINF:-1 ,Tennis Channel US
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Tennis Channel US
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19136/index.m3u8
-#EXTINF:-1 ,Fox Sports HD AR
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Fox Sports HD AR
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19138/index.m3u8
-#EXTINF:-1 ,Fox Sports HD MX
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Fox Sports HD MX
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19139/index.m3u8
-#EXTINF:-1 ,Fox Sports 506 HD AU
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Fox Sports 506 HD AU
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19143/index.m3u8
-#EXTINF:-1 ,Fox Sports Racing US
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Fox Sports Racing US
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19144/index.m3u8
-#EXTINF:-1 ,Fox Sports 501 Cricket HD AU
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Fox Sports 501 Cricket HD AU
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19146/index.m3u8
-#EXTINF:-1 ,FanDuel Sports North US
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",FanDuel Sports North US
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19152/index.m3u8
-#EXTINF:-1 ,FanDuel Sports Midwest US
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",FanDuel Sports Midwest US
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19153/index.m3u8
-#EXTINF:-1 ,ESPNews US
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",ESPNews US
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19154/index.m3u8
-#EXTINF:-1 ,ESPN 2 HD US
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",ESPN 2 HD US
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19155/index.m3u8
-#EXTINF:-1 ,ESPN HD US
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",ESPN HD US
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19156/index.m3u8
-#EXTINF:-1 ,DAZN 1 FHD PT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",DAZN 1 FHD PT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19158/index.m3u8
-#EXTINF:-1 ,Benfica TV FHD PT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Benfica TV FHD PT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19160/index.m3u8
-#EXTINF:-1 ,V Sport Ultra HD SE
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",V Sport Ultra HD SE
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19163/index.m3u8
-#EXTINF:-1 ,ESPN 1 HD NL
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",ESPN 1 HD NL
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19201/index.m3u8
-#EXTINF:-1 ,ESPN 2 HD NL
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",ESPN 2 HD NL
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19202/index.m3u8
-#EXTINF:-1 ,ESPN 3 HD NL
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",ESPN 3 HD NL
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19203/index.m3u8
-#EXTINF:-1 ,ESPN 4 HD NL
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",ESPN 4 HD NL
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19204/index.m3u8
-#EXTINF:-1 ,Матч! Страна HD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Матч! Страна HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19219/index.m3u8
-#EXTINF:-1 ,Матч! Боец HD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Матч! Боец HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19221/index.m3u8
-#EXTINF:-1 ,MMA-TV.com HD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",MMA-TV.com HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19243/index.m3u8
-#EXTINF:-1 ,Футбол HD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Футбол HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19244/index.m3u8
-#EXTINF:-1 ,Бокс ТВ HD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Бокс ТВ HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/19245/index.m3u8
-#EXTINF:-1 ,Spor Smart HD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Spor Smart HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/20060/index.m3u8
-#EXTINF:-1 ,Q Arena HD KZ
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Q Arena HD KZ
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/20061/index.m3u8
-#EXTINF:-1 ,Q League HD KZ
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Q League HD KZ
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/20062/index.m3u8
-#EXTINF:-1 ,Setanta Sports 1 FHD KZ
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Setanta Sports 1 FHD KZ
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/20065/index.m3u8
-#EXTINF:-1 ,Setanta Moldova FHD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Setanta Moldova FHD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/20074/index.m3u8
-#EXTINF:-1 ,CineMan Premium
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",CineMan Premium
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/20112/index.m3u8
-#EXTINF:-1 ,Fint Ga 1
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Fint Ga 1
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/20091/index.m3u8
-#EXTINF:-1 ,Fint Ga 2
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Fint Ga 2
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/20092/index.m3u8
-#EXTINF:-1 ,Fint Ga 3
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Fint Ga 3
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/20093/index.m3u8
-#EXTINF:-1 ,Fint Ga 4
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Fint Ga 4
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31682/index.m3u8
-#EXTINF:-1 ,Pimple TV 1
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Pimple TV 1
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/20094/index.m3u8
-#EXTINF:-1 ,Pimple TV 3
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Pimple TV 3
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/20096/index.m3u8
-#EXTINF:-1 ,Pimple TV 2
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Pimple TV 2
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/20095/index.m3u8
-#EXTINF:-1 ,Pimple TV 4
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Pimple TV 4
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/20097/index.m3u8
-#EXTINF:-1 ,Pimple TV 5
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Pimple TV 5
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/20098/index.m3u8
-#EXTINF:-1 ,Pimple TV 6
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Pimple TV 6
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31681/index.m3u8
-#EXTINF:-1 ,ViP Sport 1
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",ViP Sport 1
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/20099/index.m3u8
-#EXTINF:-1 ,ViP Sport 3
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",ViP Sport 3
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/20104/index.m3u8
-#EXTINF:-1 ,ViP Sport 2
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",ViP Sport 2
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/20103/index.m3u8
-#EXTINF:-1 ,ViP Sport 4
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",ViP Sport 4
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/20105/index.m3u8
-#EXTINF:-1 ,ViP Sport 5
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",ViP Sport 5
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/20106/index.m3u8
-#EXTINF:-1 ,ViP Sport 6
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",ViP Sport 6
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/20107/index.m3u8
-#EXTINF:-1 ,ViP Sport 7
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",ViP Sport 7
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/20108/index.m3u8
-#EXTINF:-1 ,ViP Sport 8
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",ViP Sport 8
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/20109/index.m3u8
-#EXTINF:-1 ,ViP Sport 9
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",ViP Sport 9
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/20110/index.m3u8
-#EXTINF:-1 ,ViP Sport 10
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",ViP Sport 10
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/20100/index.m3u8
-#EXTINF:-1 ,ViP Sport 12
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",ViP Sport 12
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/20102/index.m3u8
-#EXTINF:-1 ,ViP Sport 11
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",ViP Sport 11
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/20101/index.m3u8
-#EXTINF:-1 ,ViP Sport 13
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",ViP Sport 13
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31674/index.m3u8
-#EXTINF:-1 ,Vital Sport Drive
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Vital Sport Drive
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/20160/index.m3u8
-#EXTINF:-1 ,BOX SportCast Live 1 HD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",BOX SportCast Live 1 HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/20166/index.m3u8
-#EXTINF:-1 ,BOX SportCast Live 2 HD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",BOX SportCast Live 2 HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/20167/index.m3u8
-#EXTINF:-1 ,BOX SportCast Live 3 HD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",BOX SportCast Live 3 HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/20168/index.m3u8
-#EXTINF:-1 ,BOX SportCast Live 4 HD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",BOX SportCast Live 4 HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/20169/index.m3u8
-#EXTINF:-1 ,BOX SportCast Live 5 HD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",BOX SportCast Live 5 HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/20170/index.m3u8
-#EXTINF:-1 ,BOX SportCast Live 6 HD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",BOX SportCast Live 6 HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31648/index.m3u8
-#EXTINF:-1 ,BOX SportCast Live 7 HD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",BOX SportCast Live 7 HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31649/index.m3u8
-#EXTINF:-1 ,BOX SportCast HD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",BOX SportCast HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31650/index.m3u8
-#EXTINF:-1 ,ViP Sport 14
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",ViP Sport 14
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31675/index.m3u8
-#EXTINF:-1 ,ViP Sport 15
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",ViP Sport 15
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31676/index.m3u8
-#EXTINF:-1 ,ViP Sport 16
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",ViP Sport 16
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31677/index.m3u8
-#EXTINF:-1 ,ViP Sport 17
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",ViP Sport 17
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31678/index.m3u8
-#EXTINF:-1 ,Betking Live 1
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Betking Live 1
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31679/index.m3u8
-#EXTINF:-1 ,Betking Live 2
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Betking Live 2
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31680/index.m3u8
-#EXTINF:-1 ,StrahTV MMA TIME HD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",StrahTV MMA TIME HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31710/index.m3u8
-#EXTINF:-1 ,Setanta Sports
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Setanta Sports
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31754/index.m3u8
-#EXTINF:-1 ,Setanta Sports HD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Setanta Sports HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31755/index.m3u8
-#EXTINF:-1 ,Setanta Sports+
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Setanta Sports+
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31756/index.m3u8
-#EXTINF:-1 ,Setanta Sports+ HD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Setanta Sports+ HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31757/index.m3u8
-#EXTINF:-1 ,Суспільне Спорт HD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Суспільне Спорт HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31750/index.m3u8
-#EXTINF:-1 ,M+ Liga de Campeones 3 HD ES
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",M+ Liga de Campeones 3 HD ES
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31820/index.m3u8
-#EXTINF:-1 ,M+ Liga de Campeones 5 HD ES
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",M+ Liga de Campeones 5 HD ES
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31821/index.m3u8
-#EXTINF:-1 ,M+ LaLiga 4 HD ES
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",M+ LaLiga 4 HD ES
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31822/index.m3u8
-#EXTINF:-1 ,LaLiga TV Hypermotion HD ES
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",LaLiga TV Hypermotion HD ES
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31823/index.m3u8
-#EXTINF:-1 ,M+ Deportes HD ES
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",M+ Deportes HD ES
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31830/index.m3u8
-#EXTINF:-1 ,DAZN 1 Bar HD ES
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",DAZN 1 Bar HD ES
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31831/index.m3u8
-#EXTINF:-1 ,DAZN 2 Bar HD ES
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",DAZN 2 Bar HD ES
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31832/index.m3u8
-#EXTINF:-1 ,DAZN F1 HD ES
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",DAZN F1 HD ES
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31834/index.m3u8
-#EXTINF:-1 ,M+ Deportes 2 HD ES
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",M+ Deportes 2 HD ES
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31835/index.m3u8
-#EXTINF:-1 ,M+ Liga de Campeones HD ES
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",M+ Liga de Campeones HD ES
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31842/index.m3u8
-#EXTINF:-1 ,M+ Golf HD ES
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",M+ Golf HD ES
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31844/index.m3u8
-#EXTINF:-1 ,Eurosport 1 HD ES
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Eurosport 1 HD ES
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31845/index.m3u8
-#EXTINF:-1 ,Real Madrid TV ES
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Real Madrid TV ES
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31847/index.m3u8
-#EXTINF:-1 ,Eurosport 2 HD ES
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Eurosport 2 HD ES
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31848/index.m3u8
-#EXTINF:-1 ,M+ Deportes 3 HD ES
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",M+ Deportes 3 HD ES
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31849/index.m3u8
-#EXTINF:-1 ,M+ Deportes 4 HD ES
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",M+ Deportes 4 HD ES
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31850/index.m3u8
-#EXTINF:-1 ,M+ Deportes 5 HD ES
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",M+ Deportes 5 HD ES
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31851/index.m3u8
-#EXTINF:-1 ,M+ LaLiga HD ES
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",M+ LaLiga HD ES
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31853/index.m3u8
-#EXTINF:-1 ,M+ LaLiga 2 HD ES
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",M+ LaLiga 2 HD ES
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31854/index.m3u8
-#EXTINF:-1 ,DAZN LaLiga 2 HD ES
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",DAZN LaLiga 2 HD ES
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31855/index.m3u8
-#EXTINF:-1 ,DAZN LaLiga HD ES
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",DAZN LaLiga HD ES
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31856/index.m3u8
-#EXTINF:-1 ,Teledeporte HD ES
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Teledeporte HD ES
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31857/index.m3u8
-#EXTINF:-1 ,M+ LaLiga 3 HD ES
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",M+ LaLiga 3 HD ES
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31858/index.m3u8
-#EXTINF:-1 ,LaLiga TV Hypermotion 2 HD ES
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",LaLiga TV Hypermotion 2 HD ES
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31859/index.m3u8
-#EXTINF:-1 ,M+ Liga de Campeones 2 HD ES
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",M+ Liga de Campeones 2 HD ES
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31860/index.m3u8
-#EXTINF:-1 ,DAZN 3 Bar HD ES
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",DAZN 3 Bar HD ES
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31861/index.m3u8
-#EXTINF:-1 ,DAZN 4 Bar HD ES
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",DAZN 4 Bar HD ES
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31862/index.m3u8
-#EXTINF:-1 ,Gol HD ES
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Gol HD ES
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31863/index.m3u8
-#EXTINF:-1 ,M+ Liga de Campeones 4 HD ES
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",M+ Liga de Campeones 4 HD ES
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31864/index.m3u8
-#EXTINF:-1 ,LaLiga TV Hypermotion 3 HD ES
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",LaLiga TV Hypermotion 3 HD ES
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31865/index.m3u8
-#EXTINF:-1 ,M+ Vamos HD ES
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",M+ Vamos HD ES
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31867/index.m3u8
-#EXTINF:-1 ,M+ Deportes 6 HD ES
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",M+ Deportes 6 HD ES
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31874/index.m3u8
-#EXTINF:-1 ,M+ Golf 2 HD ES
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",M+ Golf 2 HD ES
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31878/index.m3u8
-#EXTINF:-1 ,We Sport TV HD MD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",We Sport TV HD MD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31904/index.m3u8
-#EXTINF:-1 ,Diema Sport 3 HD BG
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Diema Sport 3 HD BG
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31917/index.m3u8
-#EXTINF:-1 ,Волейбол HD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Волейбол HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31920/index.m3u8
-#EXTINF:-1 ,Sport TV HD AZ
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sport TV HD AZ
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31926/index.m3u8
-#EXTINF:-1 ,Sport TV+ FHD PT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sport TV+ FHD PT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31941/index.m3u8
-#EXTINF:-1 ,Sport TV 1 FHD PT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sport TV 1 FHD PT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31942/index.m3u8
-#EXTINF:-1 ,Sport TV 2 FHD PT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sport TV 2 FHD PT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31943/index.m3u8
-#EXTINF:-1 ,Sport TV 3 FHD PT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sport TV 3 FHD PT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31944/index.m3u8
-#EXTINF:-1 ,Sport TV 4 FHD PT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sport TV 4 FHD PT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31945/index.m3u8
-#EXTINF:-1 ,Sport TV 5 FHD PT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sport TV 5 FHD PT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31946/index.m3u8
-#EXTINF:-1 ,Sport TV 6 FHD PT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sport TV 6 FHD PT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31947/index.m3u8
-#EXTINF:-1 ,Sport TV 7 FHD PT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sport TV 7 FHD PT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31948/index.m3u8
-#EXTINF:-1 ,Eurosport 1 HD PT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Eurosport 1 HD PT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31949/index.m3u8
-#EXTINF:-1 ,Eurosport 2 HD PT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Eurosport 2 HD PT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31950/index.m3u8
-#EXTINF:-1 ,A Bola TV HD PT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",A Bola TV HD PT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31951/index.m3u8
-#EXTINF:-1 ,Benfica TV HD PT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Benfica TV HD PT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31952/index.m3u8
-#EXTINF:-1 ,Sporting TV HD PT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Sporting TV HD PT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31953/index.m3u8
-#EXTINF:-1 ,DAZN 1 PT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",DAZN 1 PT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31954/index.m3u8
-#EXTINF:-1 ,DAZN 2 HD PT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",DAZN 2 HD PT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31955/index.m3u8
-#EXTINF:-1 ,DAZN 3 HD PT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",DAZN 3 HD PT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31956/index.m3u8
-#EXTINF:-1 ,DAZN 4 HD PT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",DAZN 4 HD PT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31957/index.m3u8
-#EXTINF:-1 ,DAZN 5 HD PT
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",DAZN 5 HD PT
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31958/index.m3u8
-#EXTINF:-1 ,W-Sport HD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",W-Sport HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31959/index.m3u8
-#EXTINF:-1 ,Fight Network HD CA
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Fight Network HD CA
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31960/index.m3u8
-#EXTINF:-1 ,FightBox HD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",FightBox HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31961/index.m3u8
-#EXTINF:-1 ,Fast Sports FHD AM
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Fast Sports FHD AM
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/30199/index.m3u8
-#EXTINF:-1 ,Fast Sports 1 HD AM
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Fast Sports 1 HD AM
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/30200/index.m3u8
-#EXTINF:-1 ,Fast Sports 2 HD AM
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Fast Sports 2 HD AM
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/30201/index.m3u8
-#EXTINF:-1 ,ORF Sport+ HD DE
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",ORF Sport+ HD DE
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32005/index.m3u8
-#EXTINF:-1 ,PTV Sports PK
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",PTV Sports PK
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32015/index.m3u8
-#EXTINF:-1 ,Nova Sport BG
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Nova Sport BG
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32016/index.m3u8
-#EXTINF:-1 ,MTV Katsomo FI
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",MTV Katsomo FI
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32022/index.m3u8
-#EXTINF:-1 ,V Sport 1 HD NO
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",V Sport 1 HD NO
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32027/index.m3u8
-#EXTINF:-1 ,V Sport 2 HD NO
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",V Sport 2 HD NO
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32028/index.m3u8
-#EXTINF:-1 ,V Sport 3 HD NO
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",V Sport 3 HD NO
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32029/index.m3u8
-#EXTINF:-1 ,Eurosport HD IN
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Eurosport HD IN
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32031/index.m3u8
-#EXTINF:-1 ,Q League FHD KZ
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Q League FHD KZ
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32032/index.m3u8
-#EXTINF:-1 ,beIN Sports CA
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",beIN Sports CA
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32043/index.m3u8
-#EXTINF:-1 ,One Soccer CA
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",One Soccer CA
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32044/index.m3u8
-#EXTINF:-1 ,Media Sport HD
-#EXTGRP:спорт
+#EXTINF:-1 group-title="Спорт",Media Sport HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32048/index.m3u8
-#EXTINF:-1 ,Megogo Спорт HD
-#EXTGRP:HD
+#EXTINF:-1 group-title="Спорт",Megogo Спорт HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31612/index.m3u8
-#EXTINF:-1 ,Суспільне Спорт FHD
-#EXTGRP:HD
+#EXTINF:-1 group-title="Спорт",Суспільне Спорт FHD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31751/index.m3u8
-#EXTINF:-1 ,Окко Прайм Спорт HD
-#EXTGRP:HD
+#EXTINF:-1 group-title="Спорт",Окко Прайм Спорт HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/20135/index.m3u8
-#EXTINF:-1 ,Окко Спорт HD
-#EXTGRP:HD
+#EXTINF:-1 group-title="Спорт",Окко Спорт HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/20138/index.m3u8
-#EXTINF:-1 ,Eurosport 1 HD
-#EXTGRP:HD
+#EXTINF:-1 group-title="Спорт",Eurosport 1 HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/228/index.m3u8
-#EXTINF:-1 ,Eurosport 2 HD
-#EXTGRP:HD
+#EXTINF:-1 group-title="Спорт",Eurosport 2 HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/234/index.m3u8
 #EXTINF:-1 ,Зоопарк HD
 #EXTGRP:HD
@@ -6346,409 +6347,279 @@ http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32237/index.m3u8
 #EXTGRP:HD
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32242/index.m3u8
 #EXTINF:-1 ,Легенда HD
-#EXTGRP:HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32245/index.m3u8
 #EXTINF:-1 ,Gulli Midi HD FR
-#EXTGRP:HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32262/index.m3u8
 #EXTINF:-1 ,W9 HD FR
-#EXTGRP:HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32263/index.m3u8
 #EXTINF:-1 ,M6 HD FR
-#EXTGRP:HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32265/index.m3u8
 #EXTINF:-1 ,Arte HD FR
-#EXTGRP:HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32266/index.m3u8
 #EXTINF:-1 ,TMC HD FR
-#EXTGRP:HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32267/index.m3u8
 #EXTINF:-1 ,TFX HD FR
-#EXTGRP:HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32268/index.m3u8
 #EXTINF:-1 ,La chaîne L'Équipe HD FR
-#EXTGRP:HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32269/index.m3u8
 #EXTINF:-1 ,RMC Découverte HD FR
-#EXTGRP:HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32270/index.m3u8
 #EXTINF:-1 ,LCP/Public Sénat HD FR
-#EXTGRP:HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32276/index.m3u8
 #EXTINF:-1 ,ORF 2N FHD DE
-#EXTGRP:HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32280/index.m3u8
 #EXTINF:-1 ,Sky Cinema Blockbuster HD DE
-#EXTGRP:HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32281/index.m3u8
 #EXTINF:-1 ,Sky Cinema Classics HD DE
-#EXTGRP:HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32282/index.m3u8
 #EXTINF:-1 ,6ter HD FR
-#EXTGRP:HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32285/index.m3u8
 #EXTINF:-1 ,MCM Top HD FR
-#EXTGRP:HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32294/index.m3u8
 #EXTINF:-1 ,Colors Tamil HD IN
-#EXTGRP:HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32297/index.m3u8
 #EXTINF:-1 ,Zee Talkies HD IN
-#EXTGRP:HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32298/index.m3u8
 #EXTINF:-1 ,&Pictures HD IN
-#EXTGRP:HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32299/index.m3u8
 #EXTINF:-1 ,Colors Infinity HD IN
-#EXTGRP:HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32300/index.m3u8
 #EXTINF:-1 ,БНТ 1 BG
-#EXTGRP:HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32301/index.m3u8
 #EXTINF:-1 ,STV HD UK
-#EXTGRP:HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32338/index.m3u8
 #EXTINF:-1 ,M+ Hits HD ES
-#EXTGRP:HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32339/index.m3u8
 #EXTINF:-1 ,M+ Originales HD ES
-#EXTGRP:HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32340/index.m3u8
 #EXTINF:-1 ,M+ Vacaciones ES
-#EXTGRP:HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32341/index.m3u8
 #EXTINF:-1 ,M+ Documentales HD ES
-#EXTGRP:HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32342/index.m3u8
 #EXTINF:-1 ,M+ Orgullo HD ES
-#EXTGRP:HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32343/index.m3u8
 #EXTINF:-1 ,M+ Orgullo ES
-#EXTGRP:HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32344/index.m3u8
 #EXTINF:-1 ,M+ Indie HD ES
-#EXTGRP:HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32345/index.m3u8
 #EXTINF:-1 ,M+ Cine Español ES
-#EXTGRP:HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32349/index.m3u8
 #EXTINF:-1 group-title="Україна",НТН HD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15011/index.m3u8
 #EXTINF:-1 group-title="Україна",ICTV 2 HD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15235/index.m3u8
 #EXTINF:-1 group-title="Україна",Kinogrande HD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15007/index.m3u8
 #EXTINF:-1 group-title="Україна",5 Канал
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/945/index.m3u8
 #EXTINF:-1 group-title="Україна",К1
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31812/index.m3u8
-#EXTINF:-1 group-title="Україна",24 Канал FHD
-
-http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/951/index.m3u8
-#EXTINF:-1 group-title="Україна",Надiя ТВ
-
-http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/956/index.m3u8
-#EXTINF:-1 group-title="Україна",EU Music HD
-
-http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/925/index.m3u8
 #EXTINF:-1 group-title="Україна",Мега
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/929/index.m3u8
 #EXTINF:-1 group-title="Україна",Мега HD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15124/index.m3u8
 #EXTINF:-1 group-title="Україна",К2
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/930/index.m3u8
 #EXTINF:-1 group-title="Україна",К2 HD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15126/index.m3u8
 #EXTINF:-1 group-title="Україна",К1 HD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15125/index.m3u8
 #EXTINF:-1 group-title="Україна",Новий Канал
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/935/index.m3u8
 #EXTINF:-1 group-title="Україна",Новий Канал HD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15128/index.m3u8
 #EXTINF:-1 group-title="Україна",НТН
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/936/index.m3u8
 #EXTINF:-1 group-title="Україна",Тернопіль 1
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/5041/index.m3u8
 #EXTINF:-1 group-title="Україна",Перший Міський HD (Одеса)
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/981/index.m3u8
 #EXTINF:-1 group-title="Україна",СК1
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/982/index.m3u8
-#EXTINF:-1 group-title="Україна",1+1 Україна FHD
-
-http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/987/index.m3u8
 #EXTINF:-1 group-title="Україна",Star Cinema HD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/992/index.m3u8
-#EXTINF:-1 group-title="Україна",Чернiвецький Промiнь
-
-http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/1004/index.m3u8
 #EXTINF:-1 group-title="Україна",Перший
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/1016/index.m3u8
 #EXTINF:-1 group-title="Україна",5 Канал HD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/1030/index.m3u8
 #EXTINF:-1 group-title="Україна",Інтер HD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/1047/index.m3u8
 #EXTINF:-1 group-title="Україна",Рибалка FHD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/1058/index.m3u8
 #EXTINF:-1 group-title="Україна",1+1 International
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/994/index.m3u8
 #EXTINF:-1 group-title="Україна",2+2
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/995/index.m3u8
 #EXTINF:-1 group-title="Україна",ТВА HD (Чернівці)
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/998/index.m3u8
 #EXTINF:-1 group-title="Україна",Zoom
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/1000/index.m3u8
 #EXTINF:-1 group-title="Україна",Zoom HD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15130/index.m3u8
 #EXTINF:-1 group-title="Україна",ПлюсПлюс
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/1002/index.m3u8
 #EXTINF:-1 group-title="Україна",Eco TV HD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/1006/index.m3u8
 #EXTINF:-1 group-title="Україна",ТЕТ
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/1009/index.m3u8
-#EXTINF:-1 group-title="Україна",Сонце
-
-http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/1013/index.m3u8
 #EXTINF:-1 group-title="Україна",Прямий HD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/1015/index.m3u8
 #EXTINF:-1 group-title="Україна",Уніaн Серіал HD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/1023/index.m3u8
 #EXTINF:-1 group-title="Україна",Київ
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/1045/index.m3u8
-#EXTINF:-1 group-title="Україна",Сфера ТВ HD
-
-http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15008/index.m3u8
 #EXTINF:-1 group-title="Україна",8 Канал HD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/1046/index.m3u8
 #EXTINF:-1 group-title="Україна",ТВА (Чернівці)
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/1072/index.m3u8
 #EXTINF:-1 group-title="Україна",24 Канал HD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/1063/index.m3u8
 #EXTINF:-1 group-title="Україна",Тернопіль 1 HD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/975/index.m3u8
 #EXTINF:-1 group-title="Україна",ICTV HD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6302/index.m3u8
 #EXTINF:-1 group-title="Україна",СТБ
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6304/index.m3u8
 #EXTINF:-1 group-title="Україна",СТБ HD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15122/index.m3u8
 #EXTINF:-1 group-title="Україна",Інтер
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6305/index.m3u8
 #EXTINF:-1 group-title="Україна",Еспресо
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6311/index.m3u8
 #EXTINF:-1 group-title="Україна",Пiксель TV HD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15127/index.m3u8
 #EXTINF:-1 group-title="Україна",Sport 1
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6313/index.m3u8
 #EXTINF:-1 group-title="Україна",Sport 2
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6314/index.m3u8
-#EXTINF:-1 group-title="Україна",1+1 Марафон
-
-http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6317/index.m3u8
 #EXTINF:-1 group-title="Україна",Еспресо HD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6321/index.m3u8
 #EXTINF:-1 group-title="Україна",Bolt Россия HD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6322/index.m3u8
 #EXTINF:-1 group-title="Україна",Star Cinema Россия HD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6325/index.m3u8
 #EXTINF:-1 group-title="Україна",Star Family Россия HD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6326/index.m3u8
-#EXTINF:-1 group-title="Україна",8 Канал FHD
-
-http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6327/index.m3u8
 #EXTINF:-1 group-title="Україна",Бігуді
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6330/index.m3u8
 #EXTINF:-1 group-title="Україна",AMC
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31792/index.m3u8
 #EXTINF:-1 group-title="Україна",6 Соток
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31790/index.m3u8
 #EXTINF:-1 group-title="Україна",Bolt HD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31793/index.m3u8
 #EXTINF:-1 group-title="Україна",Київ HD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31781/index.m3u8
 #EXTINF:-1 group-title="Україна",Cine+ HD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31794/index.m3u8
 #EXTINF:-1 group-title="Україна",1+1 Україна HD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31784/index.m3u8
 #EXTINF:-1 group-title="Україна",Cine+ Hit HD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31795/index.m3u8
 #EXTINF:-1 group-title="Україна",NIKI Kids HD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6332/index.m3u8
 #EXTINF:-1 group-title="Україна",NIKI Junior HD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6333/index.m3u8
 #EXTINF:-1 group-title="Україна",М1 HD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6334/index.m3u8
 #EXTINF:-1 group-title="Україна",М2 HD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6335/index.m3u8
 #EXTINF:-1 group-title="Україна",ICTV
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6339/index.m3u8
 #EXTINF:-1 group-title="Україна",Оце HD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6375/index.m3u8
 #EXTINF:-1 group-title="Україна",Перший HD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6376/index.m3u8
-#EXTINF:-1 group-title="Україна",ТЕТ HD
-
-http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6377/index.m3u8
 #EXTINF:-1 group-title="Україна",2+2 HD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6378/index.m3u8
 #EXTINF:-1 group-title="Україна",ПлюсПлюс HD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6379/index.m3u8
 #EXTINF:-1 group-title="Україна",Оце
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6380/index.m3u8
 #EXTINF:-1 group-title="Україна",Перший Автомобільний HD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7228/index.m3u8
-#EXTINF:-1 group-title="Україна",Star Cinema FHD
-
-http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15262/index.m3u8
 #EXTINF:-1 group-title="Україна",FilmBox+ Festival
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15265/index.m3u8
 #EXTINF:-1 group-title="Україна",FilmBox+ One
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15266/index.m3u8
-#EXTINF:-1 group-title="Україна",Enter-фільм HD
-
-http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15273/index.m3u8
 #EXTINF:-1 group-title="Україна",FilmUA Drama
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31805/index.m3u8
 #EXTINF:-1 group-title="Україна",Kino Comedy HD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31814/index.m3u8
 #EXTINF:-1 group-title="Україна",Kino Premiere HD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31815/index.m3u8
 #EXTINF:-1 group-title="Україна",Kino Action HD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31813/index.m3u8
 #EXTINF:-1 group-title="Україна",FreeДом
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31810/index.m3u8
 #EXTINF:-1 group-title="Україна",Дача
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31775/index.m3u8
 #EXTINF:-1 group-title="Україна",FilmUA Live HD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31808/index.m3u8
 #EXTINF:-1 group-title="Україна",Eco TV
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15275/index.m3u8
 #EXTINF:-1 group-title="Україна",FilmBox+ Festival
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31807/index.m3u8
 #EXTINF:-1 group-title="Україна",EU Music FHD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15277/index.m3u8
 #EXTINF:-1 group-title="Україна",4ever Music
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15278/index.m3u8
 #EXTINF:-1 group-title="Україна",Ми Україна
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31731/index.m3u8
 #EXTINF:-1 group-title="Україна",НТА HD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31732/index.m3u8
 #EXTINF:-1 group-title="Україна",Наука
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31733/index.m3u8
 #EXTINF:-1 group-title="Україна",Obozrevatel TV HD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31734/index.m3u8
-#EXTINF:-1 group-title="Україна",Перший Міський HD (Кривий Ріг)
-
+#EXTINF:-1 group-title="Україна",Перший Міський HD 
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31736/index.m3u8
 #EXTINF:-1 group-title="Україна",Твій Серіал HD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32115/index.m3u8
 #EXTINF:-1 group-title="Україна",Super+ HD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32116/index.m3u8
 #EXTINF:-1 group-title="Україна",Твоє Кіно Action HD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32117/index.m3u8
 #EXTINF:-1 group-title="Україна",Твоє Кіно Relax HD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32118/index.m3u8
 #EXTINF:-1 group-title="Україна",Твоє Кіно Хіт HD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32119/index.m3u8
 #EXTINF:-1 group-title="Україна",ATR HD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32120/index.m3u8
 #EXTINF:-1 group-title="Україна",Кус-Кус
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32121/index.m3u8
 #EXTINF:-1 group-title="Україна",Кус-Кус HD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32122/index.m3u8
 #EXTINF:-1 group-title="Україна",Бігуді HD
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32123/index.m3u8
 #EXTINF:-1 group-title="Հայկական",Delta TV AM
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/18214/index.m3u8
