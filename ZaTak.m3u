@@ -6432,470 +6432,413 @@ http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32345/index.m3u8
 #EXTINF:-1 ,M+ Cine Español ES
 #EXTGRP:HD
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32349/index.m3u8
-#EXTINF:-1 ,Сфера ТВ HD
-#EXTGRP:українські
-http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15008/index.m3u8
-#EXTINF:-1 ,НТН HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",НТН HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15011/index.m3u8
-#EXTINF:-1 ,ICTV 2 HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",ICTV 2 HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15235/index.m3u8
-#EXTINF:-1 ,Kinogrande HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Kinogrande HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15007/index.m3u8
-#EXTINF:-1 ,5 Канал
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",5 Канал
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/945/index.m3u8
-#EXTINF:-1 ,К1
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",К1
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31812/index.m3u8
-#EXTINF:-1 ,24 Канал FHD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",24 Канал FHD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/951/index.m3u8
-#EXTINF:-1 ,Надiя ТВ
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Надiя ТВ
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/956/index.m3u8
-#EXTINF:-1 ,EU Music HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",EU Music HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/925/index.m3u8
-#EXTINF:-1 ,Мега
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Мега
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/929/index.m3u8
-#EXTINF:-1 ,Мега HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Мега HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15124/index.m3u8
-#EXTINF:-1 ,К2
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",К2
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/930/index.m3u8
-#EXTINF:-1 ,К2 HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",К2 HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15126/index.m3u8
-#EXTINF:-1 ,К1 HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",К1 HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15125/index.m3u8
-#EXTINF:-1 ,Новий Канал
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Новий Канал
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/935/index.m3u8
-#EXTINF:-1 ,Новий Канал HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Новий Канал HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15128/index.m3u8
-#EXTINF:-1 ,НТН
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",НТН
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/936/index.m3u8
-#EXTINF:-1 ,Тернопіль 1
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Тернопіль 1
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/5041/index.m3u8
-#EXTINF:-1 ,Перший Міський HD (Одеса)
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Перший Міський HD (Одеса)
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/981/index.m3u8
-#EXTINF:-1 ,СК1
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",СК1
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/982/index.m3u8
-#EXTINF:-1 ,1+1 Україна FHD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",1+1 Україна FHD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/987/index.m3u8
-#EXTINF:-1 ,Star Cinema HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Star Cinema HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/992/index.m3u8
-#EXTINF:-1 ,Чернiвецький Промiнь
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Чернiвецький Промiнь
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/1004/index.m3u8
-#EXTINF:-1 ,Перший
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Перший
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/1016/index.m3u8
-#EXTINF:-1 ,5 Канал HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",5 Канал HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/1030/index.m3u8
-#EXTINF:-1 ,Інтер HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Інтер HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/1047/index.m3u8
-#EXTINF:-1 ,Рибалка FHD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Рибалка FHD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/1058/index.m3u8
-#EXTINF:-1 ,1+1 International
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",1+1 International
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/994/index.m3u8
-#EXTINF:-1 ,2+2
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",2+2
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/995/index.m3u8
-#EXTINF:-1 ,ТВА HD (Чернівці)
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",ТВА HD (Чернівці)
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/998/index.m3u8
-#EXTINF:-1 ,Zoom
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Zoom
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/1000/index.m3u8
-#EXTINF:-1 ,Zoom HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Zoom HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15130/index.m3u8
-#EXTINF:-1 ,ПлюсПлюс
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",ПлюсПлюс
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/1002/index.m3u8
-#EXTINF:-1 ,Eco TV HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Eco TV HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/1006/index.m3u8
-#EXTINF:-1 ,ТЕТ
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",ТЕТ
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/1009/index.m3u8
-#EXTINF:-1 ,Сонце
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Сонце
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/1013/index.m3u8
-#EXTINF:-1 ,Прямий HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Прямий HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/1015/index.m3u8
-#EXTINF:-1 ,Уніaн Серіал HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Уніaн Серіал HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/1023/index.m3u8
-#EXTINF:-1 ,Київ
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Київ
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/1045/index.m3u8
-#EXTINF:-1 ,8 Канал HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Сфера ТВ HD
+
+http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15008/index.m3u8
+#EXTINF:-1 group-title="Україна",8 Канал HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/1046/index.m3u8
-#EXTINF:-1 ,ТВА (Чернівці)
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",ТВА (Чернівці)
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/1072/index.m3u8
-#EXTINF:-1 ,24 Канал HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",24 Канал HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/1063/index.m3u8
-#EXTINF:-1 ,Тернопіль 1 HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Тернопіль 1 HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/975/index.m3u8
-#EXTINF:-1 ,ICTV HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",ICTV HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6302/index.m3u8
-#EXTINF:-1 ,СТБ
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",СТБ
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6304/index.m3u8
-#EXTINF:-1 ,СТБ HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",СТБ HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15122/index.m3u8
-#EXTINF:-1 ,Інтер
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Інтер
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6305/index.m3u8
-#EXTINF:-1 ,Еспресо
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Еспресо
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6311/index.m3u8
-#EXTINF:-1 ,Пiксель TV HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Пiксель TV HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15127/index.m3u8
-#EXTINF:-1 ,Sport 1
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Sport 1
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6313/index.m3u8
-#EXTINF:-1 ,Sport 2
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Sport 2
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6314/index.m3u8
-#EXTINF:-1 ,1+1 Марафон
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",1+1 Марафон
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6317/index.m3u8
-#EXTINF:-1 ,Еспресо HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Еспресо HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6321/index.m3u8
-#EXTINF:-1 ,Bolt Россия HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Bolt Россия HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6322/index.m3u8
-#EXTINF:-1 ,Star Cinema Россия HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Star Cinema Россия HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6325/index.m3u8
-#EXTINF:-1 ,Star Family Россия HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Star Family Россия HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6326/index.m3u8
-#EXTINF:-1 ,8 Канал FHD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",8 Канал FHD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6327/index.m3u8
-#EXTINF:-1 ,Бігуді
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Бігуді
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6330/index.m3u8
-#EXTINF:-1 ,AMC
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",AMC
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31792/index.m3u8
-#EXTINF:-1 ,6 Соток
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",6 Соток
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31790/index.m3u8
-#EXTINF:-1 ,Bolt HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Bolt HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31793/index.m3u8
-#EXTINF:-1 ,Київ HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Київ HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31781/index.m3u8
-#EXTINF:-1 ,Cine+ HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Cine+ HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31794/index.m3u8
-#EXTINF:-1 ,1+1 Україна HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",1+1 Україна HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31784/index.m3u8
-#EXTINF:-1 ,Cine+ Hit HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Cine+ Hit HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31795/index.m3u8
-#EXTINF:-1 ,NIKI Kids HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",NIKI Kids HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6332/index.m3u8
-#EXTINF:-1 ,NIKI Junior HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",NIKI Junior HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6333/index.m3u8
-#EXTINF:-1 ,М1 HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",М1 HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6334/index.m3u8
-#EXTINF:-1 ,М2 HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",М2 HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6335/index.m3u8
-#EXTINF:-1 ,ICTV
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",ICTV
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6339/index.m3u8
-#EXTINF:-1 ,Оце HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Оце HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6375/index.m3u8
-#EXTINF:-1 ,Перший HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Перший HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6376/index.m3u8
-#EXTINF:-1 ,ТЕТ HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",ТЕТ HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6377/index.m3u8
-#EXTINF:-1 ,2+2 HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",2+2 HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6378/index.m3u8
-#EXTINF:-1 ,ПлюсПлюс HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",ПлюсПлюс HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6379/index.m3u8
-#EXTINF:-1 ,Оце
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Оце
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/6380/index.m3u8
-#EXTINF:-1 ,Перший Автомобільний HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Перший Автомобільний HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/7228/index.m3u8
-#EXTINF:-1 ,Star Cinema FHD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Star Cinema FHD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15262/index.m3u8
-#EXTINF:-1 ,FilmBox+ Festival
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",FilmBox+ Festival
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15265/index.m3u8
-#EXTINF:-1 ,FilmBox+ One
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",FilmBox+ One
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15266/index.m3u8
-#EXTINF:-1 ,Enter-фільм HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Enter-фільм HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15273/index.m3u8
-#EXTINF:-1 ,FilmUA Drama
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",FilmUA Drama
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31805/index.m3u8
-#EXTINF:-1 ,Kino Comedy HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Kino Comedy HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31814/index.m3u8
-#EXTINF:-1 ,Kino Premiere HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Kino Premiere HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31815/index.m3u8
-#EXTINF:-1 ,Kino Action HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Kino Action HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31813/index.m3u8
-#EXTINF:-1 ,FreeДом
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",FreeДом
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31810/index.m3u8
-#EXTINF:-1 ,Дача
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Дача
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31775/index.m3u8
-#EXTINF:-1 ,FilmUA Live HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",FilmUA Live HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31808/index.m3u8
-#EXTINF:-1 ,Eco TV
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Eco TV
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15275/index.m3u8
-#EXTINF:-1 ,FilmBox+ Festival
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",FilmBox+ Festival
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31807/index.m3u8
-#EXTINF:-1 ,EU Music FHD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",EU Music FHD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15277/index.m3u8
-#EXTINF:-1 ,4ever Music
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",4ever Music
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15278/index.m3u8
-#EXTINF:-1 ,Ми Україна
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Ми Україна
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31731/index.m3u8
-#EXTINF:-1 ,НТА HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",НТА HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31732/index.m3u8
-#EXTINF:-1 ,Наука
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Наука
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31733/index.m3u8
-#EXTINF:-1 ,Obozrevatel TV HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Obozrevatel TV HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31734/index.m3u8
-#EXTINF:-1 ,Перший Міський HD (Кривий Ріг)
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Перший Міський HD (Кривий Ріг)
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/31736/index.m3u8
-#EXTINF:-1 ,Твій Серіал HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Твій Серіал HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32115/index.m3u8
-#EXTINF:-1 ,Super+ HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Super+ HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32116/index.m3u8
-#EXTINF:-1 ,Твоє Кіно Action HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Твоє Кіно Action HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32117/index.m3u8
-#EXTINF:-1 ,Твоє Кіно Relax HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Твоє Кіно Relax HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32118/index.m3u8
-#EXTINF:-1 ,Твоє Кіно Хіт HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Твоє Кіно Хіт HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32119/index.m3u8
-#EXTINF:-1 ,ATR HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",ATR HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32120/index.m3u8
-#EXTINF:-1 ,Кус-Кус
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Кус-Кус
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32121/index.m3u8
-#EXTINF:-1 ,Кус-Кус HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Кус-Кус HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32122/index.m3u8
-#EXTINF:-1 ,Бігуді HD
-#EXTGRP:українські
+#EXTINF:-1 group-title="Україна",Бігуді HD
+
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32123/index.m3u8
 #EXTINF:-1 group-title="Հայկական",Delta TV AM
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/18214/index.m3u8
 #EXTINF:-1 group-title="Հայկական",H1 HD AM
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/601/index.m3u8
 #EXTINF:-1 group-title="Հայկական",Armenia TV HD AM
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/605/index.m3u8
 #EXTINF:-1 group-title="Հայկական",Yerkir Media HD AM
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/608/index.m3u8
 #EXTINF:-1 group-title="Հայկական",ATV FHD AM
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/609/index.m3u8
 #EXTINF:-1 group-title="Հայկական",Armenia Premium HD AM
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/273/index.m3u8
-#EXTINF:-1 group-title="Հայկական",Azatutyun TV HD AM
-
-http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/274/index.m3u8
 #EXTINF:-1 group-title="Հայկական",ATV LifeHack HD AM
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/275/index.m3u8
 #EXTINF:-1 group-title="Հայկական",ATV Xaxaliq HD AM
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/276/index.m3u8
 #EXTINF:-1 group-title="Հայկական",Comedy AM
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/277/index.m3u8
 #EXTINF:-1 group-title="Հայկական",Tuntunik AM
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/279/index.m3u8
 #EXTINF:-1 group-title="Հայկական",ATV Hay TV HD AM
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/280/index.m3u8
 #EXTINF:-1 group-title="Հայկական",ATV Tava HD AM
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/281/index.m3u8
 #EXTINF:-1 group-title="Հայկական",ATV Kinoman HD AM
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/282/index.m3u8
 #EXTINF:-1 group-title="Հայկական",Cineman HD AM
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/283/index.m3u8
 #EXTINF:-1 group-title="Հայկական",Jan TV AM
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/285/index.m3u8
 #EXTINF:-1 group-title="Հայկական",Hay Kino AM
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/286/index.m3u8
 #EXTINF:-1 group-title="Հայկական",ATV Fitness HD AM
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/287/index.m3u8
 #EXTINF:-1 group-title="Հայկական",ATV Muzzone HD AM
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/288/index.m3u8
 #EXTINF:-1 group-title="Հայկական",ATV Bazmoc TV HD AM
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/289/index.m3u8
 #EXTINF:-1 group-title="Հայկական",21TV HD AM
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/602/index.m3u8
 #EXTINF:-1 group-title="Հայկական",Fresh HD AM
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15112/index.m3u8
-#EXTINF:-1 group-title="Հայկական",H2 AM
-
-http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15204/index.m3u8
 #EXTINF:-1 group-title="Հայկական",Kentron HD AM
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15205/index.m3u8
 #EXTINF:-1 group-title="Հայկական",ATV HD AM
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15206/index.m3u8
 #EXTINF:-1 group-title="Հայկական",5TV AM
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15208/index.m3u8
 #EXTINF:-1 group-title="Հայկական",Yerkir Media AM
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15209/index.m3u8
 #EXTINF:-1 group-title="Հայկական",Nor Hayastan AM
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15210/index.m3u8
 #EXTINF:-1 group-title="Հայկական",21TV AM
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15211/index.m3u8
 #EXTINF:-1 group-title="Հայկական",FreeNews AM
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15212/index.m3u8
-#EXTINF:-1 group-title="Հայկական",Arma TV AM
-
-http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15214/index.m3u8
 #EXTINF:-1 group-title="Հայկական",5TV Plus HD AM
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15488/index.m3u8
-#EXTINF:-1 group-title="Հայկական",Nur TV HD AM
-
-http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15489/index.m3u8
 #EXTINF:-1 group-title="Հայկական",Armenian Business News HD AM
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15490/index.m3u8
 #EXTINF:-1 group-title="Հայկական",1 Lurer HD AM
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15491/index.m3u8
 #EXTINF:-1 group-title="Հայկական",Kotayk TV AM
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15498/index.m3u8
 #EXTINF:-1 group-title="Հայկական",Tsayg TV HD AM
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15499/index.m3u8
 #EXTINF:-1 group-title="Հայկական",Lori TV HD AM
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15500/index.m3u8
 #EXTINF:-1 group-title="Հայկական",FreeNews HD AM
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15501/index.m3u8
 #EXTINF:-1 group-title="Հայկական",Armount TV HD AM
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15502/index.m3u8
 #EXTINF:-1 group-title="Հայկական",Fortuna TV HD AM
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15503/index.m3u8
 #EXTINF:-1 group-title="Հայկական",ArmToon HD AM
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15504/index.m3u8
 #EXTINF:-1 group-title="Հայկական",USArmenia TV AM
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15505/index.m3u8
 #EXTINF:-1 group-title="Հայկական",Fast Sports HD AM
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/15507/index.m3u8
 #EXTINF:-1 group-title="Հայկական",Armenia 1 AM
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32193/index.m3u8
 #EXTINF:-1 group-title="Հայկական",Armenia TV AM
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32194/index.m3u8
 #EXTINF:-1 group-title="Հայկական",H2 HD AM
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32195/index.m3u8
 #EXTINF:-1 group-title="Հայկական",5TV HD AM
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32196/index.m3u8
 #EXTINF:-1 group-title="Հայկական",1 Lurer FHD AM
-
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/32313/index.m3u8
 #EXTINF:-1 group-title="USA",Food Network HD US
 http://5d26f3c6.amazzin.pw/iptv/TN2NGE6B36QYVUZKT4DR5ZYQ/1107/index.m3u8
